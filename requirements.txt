@@ -1,0 +1,11 @@
+langchain_community
+langchain
+faiss-cpu
+langgraph
+rank_bm25
+tenacity
+nest_asyncio
+sentence-transformers
+nltk
+langchain-google-genai
+
