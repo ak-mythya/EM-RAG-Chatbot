@@ -2,7 +2,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 
 if "GOOGLE_API_KEY" not in os.environ:
-    os.environ["GOOGLE_API_KEY"] = "AIzaSyBVXU9MjD-JALY9ZVSR1EBN6MfMu686oJ0"
+    os.environ["GOOGLE_API_KEY"] = "AIzaSyB8QjzwpuK2z1-RkzCPJux1J11_QSLYZy8"
 llama_llm = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash-thinking-exp-01-21",
     temperature=0,
@@ -19,4 +19,4 @@ USE_PHYSICS_QA = True
 
 from google import genai
 
-client = genai.Client(api_key="AIzaSyBVXU9MjD-JALY9ZVSR1EBN6MfMu686oJ0")
+client = genai.Client(api_key="AIzaSyB8QjzwpuK2z1-RkzCPJux1J11_QSLYZy8")

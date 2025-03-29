@@ -8,8 +8,7 @@ Do not include any reference to the source context in your final answer.
 Output Format:
 {{
   "user_query": "<user_query>",
-  "final_response": "<accurate answer>",
-  "calculation_explanation": "<detailed explanation of the calculations and the steps followed to reach the answer>"
+  "final_response": "<detailed answer>"
 }}
 </|system|>
 
