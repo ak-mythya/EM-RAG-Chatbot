@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "Three charges +Q, q, +Q are placed respectively, at distance 0, d/2 and d from the origin, on the x-axis. If the net force experienced by +Q placed at x = 0 is zero, then value of q is",
+        "options": [
+          "A. +Q/4",
+          "B. –Q/2",
+          "C. +Q/2",
+          "D. –Q/4"
+        ],
+        "answer": "D",
+        "solution": "QQ/d2 + Qq/(d/2)2 =0, Q + 4q = 0, or q = -Q/4"
+      },
+      {
+        "number": 2,
+        "question": "A parallel plate capacitor having capacitance 12 pF is charged by a battery to a potential difference of 10 V between its plates. The charging battery is now disconnected and a porcelain slab of dielectric constant 6.5 is slipped between the plates. The work done by the capacitor on the slab is",
+        "options": [
+          "A. 508 pJ",
+          "B. 692 pJ",
+          "C. 560 pJ",
+          "D. 600 pJ"
+        ],
+        "answer": "A",
+        "solution": "Initial Energy of the capacitor, Ui = (1/2) CV2 = (1/2) x 12pF x 10 x 10 = 600 pJ, After the slab, the energy of the slab, Uf = (1/2) Q2/C’, Q = CV = (12 pF)(10 V) = 120 p C, C’ = kC = 6.5 x 120 x 10-12 F, Therefore, Uf = [(1/2) (120 x 10-12)2]/[6.5 x 120 x 10-12], Uf = 92 pJ, W + Uf= Ui, ⇒ W = Ui – Uf = 600 pJ – 92 pJ = 508 pJ"
+      },
+      {
+        "number": 3,
+        "question": "An electric field of 1000 V/m is applied to an electric dipole at an angle of 45°. The value of the electric dipole moment is 10–29 Cm. What is the potential energy of the electric dipole?",
+        "options": [
+          "A. –10 × 10–29 J",
+          "B. –7 × 10–27 J",
+          "C. –20 × 10–18 J",
+          "D. –9 × 10–20 J"
+        ],
+        "answer": "B",
+        "solution": "E = 1000 V/m , p = 10-29 cm, θ = 450, Potential energy stored in the dipole, U = -p.Ecos θ = – 10-29 x 1000 x cos450, U = -1/√(2) x 10-26, U = – 0.707 x 10-26 J= -7 x 10 -27 J"
+      },
+      {
+        "number": 4,
+        "question": "A solid conducting sphere, having a charge Q, is surrounded by an uncharged conducting hollow spherical shell. Let the potential difference between the surface of the solid sphere and that of the outer surface of the hollow shell be V. If the shell is now given a charge of –4 Q, the new potential difference between the same two surfaces is",
+        "options": [
+          "A. 4 V",
+          "B. V",
+          "C. 2 V",
+          "D. –2 V"
+        ],
+        "answer": "B",
+        "solution": "Case 1: Va – Vb = k{(Q/a) – (Q/b)}, Case 2: Va’ = kQ/a + k(-4Q)/b, Vb’ = kQ/b + k(-4Q)/b, Va’- Vb’ = kQ/a – kQ/b = Va– Vb = V"
+      },
+      {
+        "number": 5,
+        "question": "Voltage rating of a parallel plate capacitor is 500 V. Its dielectric can withstand a maximum electric field of 106 V m–1. The plate area is 10–4 m2. What is the dielectric constant if the capacitance is 15 pF? (given ε0 = 8.86 × 10–12 C2 N–1 m–2)",
+        "options": [
+          "A. 3.8",
+          "B. 8.5",
+          "C. 6.2",
+          "D. 4.5"
+        ],
+        "answer": "B",
+        "solution": "C = Kε0A/d and V = Ed, Or K = CV/ε0AEmax, K = (15 x 10-12 x 500)/(8.86 x 10-12 x 10-4 x 106) = 8.5"
+      },
+      {
+        "number": 6,
+        "question": "The bob of a simple pendulum has a mass of 2 g and a charge of 5.0 C. It is at rest in a uniform horizontal electric field of intensity 2000 V m–1. At equilibrium, the angle that the pendulum makes with the vertical is (take g = 10 m s–2)",
+        "options": [
+          "A. tan–1 (0.2)",
+          "B. tan–1 (0.5)",
+          "C. tan–1 (2.0)",
+          "D. tan–1 (5.0)"
+        ],
+        "answer": "B",
+        "solution": "The forces acting on the bob are its weight and the force due to field. At equilibrium, Tcosθ = mg ——-(1), Tsinθ = qE ——–(2), Dividing (2) by (1), tanθ = qE/mg, θ = tan-1((5 x 10-6 x 2 x 103) / (2 x 10-3 x 10)) = tan-1(0.5)"
+      },
+      {
+        "number": 7,
+        "question": "A parallel plate capacitor has 1 μF capacitance. One of its two plates is given + 2 μC charge and the other plate, +4 μC charge. The potential difference developed across the capacitor is",
+        "options": [
+          "A. 3 V",
+          "B. 2 V",
+          "C. 5 V",
+          "D. 1 V"
+        ],
+        "answer": "D",
+        "solution": "Potential difference, V1 – V2 = (E1 – E2)d, V1 – V2 = [(σ1/2ε0) – (σ2/2ε0)]d, V1 – V2 = (q1d/2Aε0) – (q2d/2Aε0) = (4-2)/(2 x 1) = 1 V"
+      },
+      {
+        "number": 8,
+        "question": "A capacitor with a capacitance 5 µF is charged to 5 µC. If the plates are pulled apart to reduce the capacitance to 2 µF, how much work is done?",
+        "options": [
+          "A. 6.25 × 10–6 J",
+          "B. 3.75 × 10–6 J",
+          "C. 2.16 × 10–6 J",
+          "D. 2.55 × 10–6 J"
+        ],
+        "answer": "B",
+        "solution": "Work done = Uf – Ui = (½)q2/Cf – (½)q2/Ci, Work done = q2/2[1/Cf – 1/Ci], Work done = [(5 x 10-6)2/2][(1/(2 x 10-6)) – (1/(5 x 10-6))], Work done = 3.75 x 10-6 J"
+      },
+      {
+        "number": 9,
+        "question": "A parallel plate capacitor of capacitance 90 pF is connected to a battery of emf 20 V. If a dielectric material of dielectric constant K = 5/3 is inserted between the plates, the magnitude of the induced charge will be",
+        "options": [
+          "A. 1.2 nC",
+          "B. 0.3 nC",
+          "C. 2.4 nC",
+          "D. 0.9 nC"
+        ],
+        "answer": "A",
+        "solution": "Induced charge on dielectric, Qind = Q(1 – 1/K), Final charge on capacitor, Q = K C0V, Q = (5/3) x 90 x 10-12 x 20 = 3 x 10-9 C = 3nC, Qind = 3(1 – ⅗) = 3 x ⅖ = 1.2 nC"
+      },
+      {
+        "number": 10,
+        "question": "The energy stored in the electric field produced by a metal sphere is 4.5 J. If the sphere contains 4 μC charges, its radius will be [Take: (1/4πε0  ) = 9 x 109 Nm2/C2]",
+        "options": [
+          "A. 32 mm",
+          "B. 20 mm",
+          "C. 16 mm",
+          "D. 28 mm"
+        ],
+        "answer": "C",
+        "solution": "The energy stored in the electric field produced by a metal sphere = 4.5 J, ⇒ Q2/2C = 4.5 or C = Q2/2 x 4.5, Capacitance of spherical conductor = 4πε0R, 4πε0R = Q2/(2 x 4.5), R = (1/4πε0) x [(4 x 10-6)2/(2 x 4.5)] = 9 x 109 x (16/9) x 10-12 = 16 x 10-3 m = 16 mm"
+      },
+      {
+        "number": 11,
+        "question": "There is a uniform electrostatic field in a region. The potential at various points on a small sphere centred at P, in the region, is found to vary between the limits 589.0 V to 589.8 V. What is the potential at a point on the sphere whose radius vector makes an angle of 60° with the direction of the field?",
+        "options": [
+          "A. 589.2 V",
+          "B. 589.6 V",
+          "C. 589.5 V",
+          "D. 589.4 V"
+        ],
+        "answer": "D",
+        "solution": "ΔV = E.d, ΔV = Edcosθ = 0.8 x cos 600, ΔV = 0.4, Hence the new potential at the point on the sphere is, 589.0 + 0.4 = 589.4 V"
+      },
+      {
+        "number": 12,
+        "question": "Two identical conducting spheres A and B, carry equal charge. They are separated by a distance much larger than their diameters, and the force between them is F. A third identical conducting sphere, C, is uncharged. Sphere C is first touched to A, then to B, and then removed. As a result, the force between A and B would be equal to",
+        "options": [
+          "A. 3F/8",
+          "B. F/2",
+          "C. 3F/4",
+          "D. F"
+        ],
+        "answer": "A",
+        "solution": "Initially force between spheres A and B, F = kq2/r, When A and C are touched, charge on both will be q/2, Again C is touched with B the charge on B is given by, qB = ((q/2) + q)/2 = 3q/4, Required force between spheres A and B is given by, F’ = kqAqB/r2 = [k x (q/2) x (3q/4)]/r2 = (⅜)(kq2/r2) = ⅜F"
+      },
+      {
+        "number": 13,
+        "question": "A parallel plate capacitor is made of two circular plates separated by a distance of 5 mm and with a dielectric of dielectric constant 2.2 between them. When the electric field in the dielectric is 3 × 104 V/m, the charge density of the positive plate will be close to",
+        "options": [
+          "A. 6 × 104 C/m2",
+          "B. 6 × 10–7 C/m2",
+          "C. 3 × 10–7 C/m2",
+          "D. 3 × 104 C/m2"
+        ],
+        "answer": "B",
+        "solution": "Here, K = 2.2 , E = 3 x 104 Vm–1, Electric field between the parallel plate capacitor with dielectric, E = σ/Kε0 ⇒ σ = Kε0E = 2.2 x 8.85 x 10-12 x 3 x 104, E = 6 x 10-7 Cm-2"
+      },
+      {
+        "number": 14,
+        "question": "Two capacitors C1 and C2 are charged to 120 V and 200 V, respectively. It is found that by connecting them together the potential on each one can be made zero. Then",
+        "options": [
+          "A. 9C1 = 4C2",
+          "B. 5C1 = 3C2",
+          "C. 3C1 = 5C2",
+          "D. 3C1 + 5C2 = 0"
+        ],
+        "answer": "C",
+        "solution": "For potential to be made zero, after connection, 120C1 = 200C2, 6C1 = 10C2, 3C1 = 5C2"
+      },
+      {
+        "number": 15,
+        "question": "An electric dipole is placed at an angle of 30º to a non-uniform electric field. The dipole will experience",
+        "options": [
+          "A. a torque only",
+          "B. a translational force only in the direction of the field",
+          "C. a translational force only in a direction normal to the direction of the field",
+          "D. a torque as well as a translational force"
+        ],
+        "answer": "D",
+        "solution": "In a non-uniform electric field, the dipole will experience torque as well as a translational force."
+      }
+    ]
+  }

@@ -1,0 +1,124 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "Consider the nuclear fission Ne20 →2He4 + C12. Given that the binding energy/ nucleon of Ne20, He4 and C12 are 8.03 MeV, 7.07 MeV and 7.86 MeV respectively. Identify the correct statement.",
+        "options": [
+          "A. energy of 9.72 MeV has to be supplied",
+          "B. energy of 12.4 MeV will be supplied",
+          "C. 8.3 MeV energy will be released",
+          "D. energy of 3.6 MeV will be released"
+        ],
+        "answer": "A",
+        "solution": "Q – value, EB = (BE)initial – (BE)final = (20 × 8.03) – ((2 × 7.07 × 4) + 7.86 × 12) = 9.72 MeV. Therefore, energy of 9.72 MeV has to be supplied."
+      },
+      {
+        "number": 2,
+        "question": "An unstable heavy nucleus at rest breaks into two nuclei which move away with velocities in the ratio of 8: 27. The ratio of the radii of the nuclei (assumed to be spherical) is",
+        "options": [
+          "A. 3: 2",
+          "B. 2: 3",
+          "C. 4: 9",
+          "D. 8: 27"
+        ],
+        "answer": "A",
+        "solution": "As (v1/v2) = 8/27; (r1/r2) = ? Using law of conservation of linear momentum, 0 = m1v1 – m2v2 (As both are moving in opposite directions) Or m1/m2 = v2/v1= 27/8. (ρ(4/3)πr1^3) / (ρ(4/3)πr2^3) = 27/8. Therefore, (r1/r2) = 3/2"
+      },
+      {
+        "number": 3,
+        "question": "According to Bohr’s theory, the time-averaged magnetic field at the centre (i.e. nucleus) of a hydrogen atom due to the motion of electrons in the nth orbit is proportional to (n = principal quantum number)",
+        "options": [
+          "A. n–2",
+          "B. n –3",
+          "C. n–4",
+          "D. n–5"
+        ],
+        "answer": "D",
+        "solution": "Magnetic field at the centre, Bn = μ0I/2rn. For a hydrogen atom, the radius of nth orbit is given by rn = (n2/m) (h/2π)2(4πε0/e2) rn ∝ n2. I = e/T = e/(2πrn/vn) = evn/2πrn. Also, vn ∝ n –1 ∴ I ∝ n –3. Hence, Bn ∝ n–5"
+      },
+      {
+        "number": 4,
+        "question": "Two deuterons undergo nuclear fusion to form a Helium nucleus. Energy released in this process is (given binding energy per nucleon for deuteron = 1.1 MeV and for helium = 7.0 MeV)",
+        "options": [
+          "A. 25.8 MeV",
+          "B. 32.4 MeV",
+          "C. 30.2 MeV",
+          "D. 23.6 MeV"
+        ],
+        "answer": "D",
+        "solution": "1H2 + 1H2 ➝ 2He4. Energy released = 4(Binding Energy of (1 2H)) – 4(Binding Energy of(2 4He)) = 4 × 7 – 4 × 1.1 = 23.6 MeV"
+      },
+      {
+        "number": 5,
+        "question": "As an electron makes a transition from an excited state to the ground state of a hydrogen-like atom/ion",
+        "options": [
+          "A. kinetic energy decreases, potential energy increases but the total energy remains the same",
+          "B. kinetic energy and total energy decrease but potential energy increases",
+          "C. its kinetic energy increases but potential energy and total energy decrease",
+          "D. kinetic energy, potential energy and total energy decrease."
+        ],
+        "answer": "C",
+        "solution": "For an electron in nth excited state of hydrogen atom, kinetic energy = e2/(8πє0n2a0), potential energy = – e2/(4πє0n2a0) and total energy = – e2/(8πє0n2a0), where a0 is Bohr radius. As an electron makes a transition from an excited state to the ground state, n decreases. Therefore kinetic energy increases but potential energy and total energy decrease."
+      },
+      {
+        "number": 6,
+        "question": "Energy required for the electron excitation in Li++ from the first to the third Bohr orbit is",
+        "options": [
+          "A. 12.1 eV",
+          "B. 36.3 eV",
+          "C. 108.8 eV",
+          "D. 122.4 eV"
+        ],
+        "answer": "C",
+        "solution": "Using, En = -(13.6Z2/n2) eV. Here, Z = 3 (For Li++). Therefore, E1 = -(13.6(3)2/12) = – 122.4 eV and E3 =- (13.6(3)2/32) = – 13.6 eV. ΔE = E3 – E1 = – 13.6 + 122.4 = 108.8 eV"
+      },
+      {
+        "number": 7,
+        "question": "If the binding energy per nucleon in 3Li7and 2He4 nuclei are 5.60 MeV and 7.06 MeV respectively, then in the reaction p + 3Li7 → 2 2He4 energy of proton must be",
+        "options": [
+          "A. 39.2 MeV",
+          "B. 28.24 MeV",
+          "C. 17.28 MeV",
+          "D. 1.46 MeV"
+        ],
+        "answer": "C",
+        "solution": "Binding energy of 3Li7 = 7 x 5.60 = 39.2 MeV. Binding energy of 2He4 = 4 x 7.06 = 28.24 MeV. Energy of proton = Energy of [2(2He4)- 3Li7] = 2 × 28.24 – 39.2 = 17.28 MeV"
+      },
+      {
+        "number": 8,
+        "question": "A nucleus disintegrates into two nuclear parts which have their velocities in the ratio 2: 1. The ratio of their nuclear sizes will be",
+        "options": [
+          "A. 21/3: 1",
+          "B. 1: 31/2",
+          "C. 31/2: 1",
+          "D. 1: 21/3"
+        ],
+        "answer": "D",
+        "solution": "Momentum is conserved during disintegration m1v1 = m2v2 ——-(1). For an atom R = R0A1/3. (R1/R2) = (A1/A2)1/3 = (m1/m2)⅓ = (v2/v1)⅓ from (1). (R1/R2) = (½)⅓ = 1/21/3"
+      },
+      {
+        "number": 9,
+        "question": "A nuclear transformation is denoted by X(n,α)3Li7. Which of the following is the nucleus of element X?",
+        "options": [
+          "A. 5B9",
+          "B. 4Be11",
+          "C. 6C12",
+          "D. 5B10"
+        ],
+        "answer": "D",
+        "solution": "The nuclear transformation is given by zXA + 0n1➝ 2He4 + 3Li7. According to conservation of mass number A + 1 = 4 + 7 or A = 10. According to conservation of charge number Z + 0 ➝ 2 + 3 or Z = 5. So the nucleus of the element be 5B10."
+      },
+      {
+        "number": 10,
+        "question": "Using a nuclear counter the count rate of emitted particles from a radioactive source is measured. At t = 0 it was 1600 counts per second and at t = 8 seconds it was 100 counts per second. The count rate observed, as counts per second, at t = 6 seconds is close to",
+        "options": [
+          "A. 200",
+          "B. 360",
+          "C. 150",
+          "D. 400"
+        ],
+        "answer": "A",
+        "solution": "According to law of radioactivity, the count rate at t = 8 seconds is N1 = N0 e–λt. Taking log on both sides log N = log N0 – λt. λt = log N0 – log N. λt = log (N0/N ). At t = 0, the number of radioactive particles emitted is 1600 i.e., N0 = 1600. At t = 8 seconds,  the number of radioactive particles emitted are 100 i.e., N= 100. λ (8) = log (1600/100). λ (8) = log 16. λ (8) = log 24. λ (8) = 4log 2. λ  = (log 2) /2. We have to find the number of radioactive particles emitting at t = 6 seconds. Therefore, λt = log (N0/N ). 3 log 2 = log (1600/N). log 23= log (1600/N). log 8 = log (1600/N). 8 = (1600/N). N = 200"
+      }
+    ]
+  }

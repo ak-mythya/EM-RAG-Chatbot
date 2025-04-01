@@ -23,9 +23,11 @@ class SimpleRetriever:
 
         try:
             # Configure retrieval parameters (e.g., top_k = 8)
-            config = {"search_kwargs_faiss": {"k": 8}}
+            config = {"search_kwargs_faiss": {"k": 5}}
             retrieved_docs = self.ensemble_retriever.invoke(question, config=config)
             docs = list(retrieved_docs)
+            logging.info(f"[SimpleRetriever] Retrieved {len(docs)} documents.")
+            logging.info(f"[SimpleRetriever] Retrieved documents are: {docs}.")
         except Exception as e:
             logging.error(f"Error during retrieval: {e}")
             docs = []

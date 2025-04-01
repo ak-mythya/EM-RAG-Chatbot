@@ -1,0 +1,81 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "The wavelength of the carrier waves in a modern optical fibre communication network is close to",
+        "options": ["(a) 600 nm", "(b) 2400 nm", "(c) 1500 nm", "(d) 900 nm"],
+        "answer": "C",
+        "solution": "Fibre optics communication is mainly conducted in a wavelength range from 1260 nm to 1625 nm. Answer: (c) 1500 nm"
+      },
+      {
+        "number": 2,
+        "question": "The physical sizes of the transmitter and receiver antenna in a communication system are",
+        "options": ["(a) inversely proportional to the modulation frequency", "(b) proportional to the carrier frequency", "(c) independent of both carrier and modulation frequency", "(d) inversely proportional to the carrier frequency"],
+        "answer": "D",
+        "solution": "The physical size of the transmitter and receiver antenna is inversely proportional to the carrier frequency. Answer: (d) inversely proportional to the carrier frequency"
+      },
+      {
+        "number": 3,
+        "question": "A telephonic communication service is working at a carrier frequency of 10 GHz. Only 10% of it is utilized for transmission. How many telephonic channels can be transmitted simultaneously if each channel requires a bandwidth of 5 kHz?",
+        "options": ["(a) 2 × 103", "(b) 2 × 104", "(c) 2 × 105", "(d) 2 × 106"],
+        "answer": "C",
+        "solution": "Frequency of carrier wave = 10 × 109 Hz. Available bandwidth 10% of 10 × 109 Hz = 109 Hz. Bandwidth for each telephonic channel 5 kHz = 5 × 103 Hz. Number of channels = 109/(5 x 103) = 2 x 105. Answer: (c) 2 × 105"
+      },
+      {
+        "number": 4,
+        "question": "A TV transmission tower has a height of 140 m and the height of the receiving antenna is 40 m. What is the maximum distance upto which signals can be broadcasted from this tower in LOS (Line of Sight) mode? (Given: radius of earth = 6.4 × 106 m)",
+        "options": ["(a) 65 km", "(b) 48 km", "(c) 40 km", "(d) 80 km"],
+        "answer": "A",
+        "solution": "Maximum distance upto which signal can be broadcasted is dmax = √(2RhT) + √(2RhR) where hT and hR are heights of transmitter tower and height of receiver respectively. Putting all values, we get dmax = √(2 × 6.4 × 10^6)[√(140)+√(40)]. dmax = 65 km. Answer (a) 65 km"
+      },
+      {
+        "number": 5,
+        "question": "A signal of 5 kHz frequency is amplitude modulated on a carrier wave of frequency 2 MHz. The frequencies of the resultant signal are",
+        "options": ["(a) 2005 kHz, 2000 kHz and 1995 kHz", "(b) 2000 kHz and 1995 kHz", "(c) 2 MHz only", "(d) 2005 kHz and 1995 kHz"],
+        "answer": "A",
+        "solution": "Given, fm = 5 kHz, fc = 2 MHz = 2000 kHz. The frequencies of the resultant signal are fc + fm = (2000 + 5) kHz = 2005 kHz, fc = 2000 kHz and fc – fm = (2000 – 5) kHz = 1995 kHz. Answer: (a) 2005 kHz, 2000 kHz and 1995 kHz"
+      },
+      {
+        "number": 6,
+        "question": "Consider telecommunication through optical fibres. Which of the following statements is not true?",
+        "options": ["(a) Optical fibres can be of graded refractive index", "(b) Optical fibres are subject to electromagnetic interference from outside", "(c) Optical fibres have extremely low transmission loss", "(d) Optical fibres may have a homogeneous core with a suitable cladding"],
+        "answer": "B",
+        "solution": "Answer: (b) Optical fibres are not subject to electromagnetic interference from outside"
+      },
+      {
+        "number": 7,
+        "question": "The modulation frequency of an AM radio station is 250 kHz, which is 10% of the carrier wave. If another AM station approaches you for a licence, what broadcast frequency will you allot?",
+        "options": ["(a) 2750 kHz", "(b) 2900 kHz", "(c) 2250 kHz", "(d) 2000 kHz"],
+        "answer": "D",
+        "solution": "10% of fc = 250 kHz. Hence, range of signal = (2500 ± 250 kHz) = 2250 kHz to 2750 kHz. 10% of 2000 kHz = 200 kHz. Range is 1800 kHz to 2200 kHz. Hence, allocated broadcast frequency will be 2000 kHz. Answer: (d) 2000 kHz"
+      },
+      {
+        "number": 8,
+        "question": "In a communication system operating at wavelength 800 nm, only one percent of source frequency is available as signal bandwidth. The number of channels accommodated for transmitting TV signals of bandwidth 6 MHz is (Take velocity of light c = 3 × 108 m/s, h = 6.6 × 10–34 J s)",
+        "options": ["(a) 3.75 × 106", "(b) 4.87 × 105", "(c) 6.25 × 105", "(d) 3.86 × 106"],
+        "answer": "C",
+        "solution": "f = C/λ = (3 x 108)/(8 x 10-7)= 3.75 x 1014 Hz. 1% of f = 3.75 x 1017 Hz = 3. 75 x 106 MHz. Number of channels = (3.75 x 106)/6. Number of channels = 6.25 x 105. Answer: (c) 6.25 × 105"
+      },
+      {
+        "number": 9,
+        "question": "A signal of frequency 20 kHz and peak voltage of 5 volts is used to modulate a carrier wave of frequency 1.2 MHz and peak voltage 25 volts. Choose the correct statement.",
+        "options": ["(a) Modulation index = 5, side frequency bands are at 1400 kHz and 1000 kHz", "(b) Modulation index = 0.2, side frequency bands are at 1220 kHz and 1180 kHz", "(c) Modulation index = 0.8, side frequency bands are at 1180 kHz and 1220 kHz", "(d) Modulation index = 5, side frequency bands are at 21.2 kHz and 18.8 kHz"],
+        "answer": "B",
+        "solution": "Modulation index, m = (Vm/Vc)=(5/25) = 0.2. Frequency of carrier wave, fc = 1.2 × 103 kHz = 1200 kHz, Frequency of modulate wave = 20 kHz. f1 = fc – fm = 1200 – 20 = 1180 kHz. f2 = fc + fm = 1200 + 20 = 1220 kHz. Answer: (b) Modulation index = 0.2, side frequency bands are at 1220 kHz and 1180 kHz"
+      },
+      {
+        "number": 10,
+        "question": "An audio signal consists of two distinct sounds: one a human speech signal in the frequency band of 200 Hz to 2700 Hz, while the other is a high-frequency music signal in the frequency band of 10200 Hz to 15200 Hz. The ratio of the AM signal bandwidth required to send both the signals together to the AM signal bandwidth required to send just the human speech is",
+        "options": ["(a) 2", "(b) 5", "(c) 6", "(d) 3"],
+        "answer": "C",
+        "solution": "Band width for both signals = 15200 Hz – 200 Hz = 15000 Hz. Band width for human speed 2700 Hz – 200 Hz = 2500 Hz. The ratio = 15000/2500 = 6. Answer: (c) 6"
+      },
+      {
+        "number": 11,
+        "question": "In an amplitude modulator circuit, the carrier wave is given by, C(t) = 4 sin(20000π t), while modulating signal is given by, m(t) = 2sin(2000πt). The values of modulation index and lower side band frequency are",
+        "options": ["(a) 0.4 and 10 kHz", "(b) 0.5 and 9 kHz", "(c) 0.3 and 9 kHz", "(d) 0.5 and 10 kHz"],
+        "answer": "B",
+        "solution": "Given C(t) = 4 sin (20000 πt) ⇒ Ac = 4. m(t) = 2 sin (2000πt) ⇒ Am = 2. Now modulation index, μ = Am/Ac = 2/4 = 0.5. Lower side band frequency, f = fc – fm …(1). Here for carrier wave, (20000 πt) = 2πfc. fc = 10000 Hz. For modulating wave, (2000 πt) = 2πfm. fm = 1000 Hz. From (i), Lower side band frequency = 10 kHz – 1 kHz = 9 kHz. Answer: (b) 0.5 and 9 kHz"
+      }
+    ]
+  }

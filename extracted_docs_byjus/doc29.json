@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A convex lens is put 10 cm from a light source and it makes a sharp image on a screen, kept 10 cm from the lens. Now a glass block (refractive index 1.5) of 1.5 cm thickness is placed in contact with the light source. To get the sharp image again, the screen is shifted by a distance d. Then d is",
+        "options": [
+          "A. 0.55 cm towards the lens",
+          "B. 0",
+          "C. 1.1 cm away from the lens",
+          "D. 0.55 cm away from the lens"
+        ],
+        "answer": "D",
+        "solution": "Case I: u = –10 cm, v = 10 cm, f =? Using lens formula, (1/f) = [(1/v) – (1/u)] 1/f =[(1/10) – (1/-10)] f = 5 cm Case II: Due to introduction of slab, shift in the source is = t[1 – (1/μ)] = 1.5[1 – (⅔)] = 0.5 Now, u = –9.5 cm, v = 10.55 cm d = 10.55 – 10 = 0.55 cm away from the lens."
+      },
+      {
+        "number": 2,
+        "question": "The speed of light in the medium is",
+        "options": [
+          "A. maximum on the axis of the beam",
+          "B. minimum on the axis of the beam",
+          "C. the same everywhere in the beam",
+          "D. directly proportional to the intensity I"
+        ],
+        "answer": "B",
+        "solution": "Given μ = μ0 + μ2I As μ = Speed of light in vacuum/Speed of light in the medium μ =c/v v = c/μ = c/(μ0 + μ2I) As the intensity is maximum on the axis of the beam, therefore v is minimum on the axis of the beam"
+      },
+      {
+        "number": 3,
+        "question": "As the beam enters the medium, it will",
+        "options": [
+          "A. travel as a cylindrical beam",
+          "B. diverge",
+          "C. converge",
+          "D. diverge near the axis and converge near the periphery"
+        ],
+        "answer": "C",
+        "solution": "As the beam enters the medium, it will converge"
+      },
+      {
+        "number": 4,
+        "question": "The eye can be regarded as a single refracting surface. The radius of curvature of this surface is equal to that of the cornea (7.8 mm). This surface separates two media of refractive indices 1 and 1.34. Calculate the distance from the refracting surface at which a parallel beam of light will come to focus",
+        "options": [
+          "A. 4.0 cm",
+          "B. 1 cm",
+          "C. 3.1 cm",
+          "D. 2 cm"
+        ],
+        "answer": "C",
+        "solution": "(1.34/v) – (1/∞) = (1.34 – 1)/7.8 1.34/v = 0.34/7.8 v =(1.34 x 7.8)/0.34 v = 30.7 mm ≈ 3.1 cm"
+      },
+      {
+        "number": 5,
+        "question": "In an interference experiment the ratio of amplitudes of coherent waves is (a1/a2) = ⅓. The ratio of maximum and minimum intensities of fringes will be",
+        "options": [
+          "A. 4",
+          "B. 9",
+          "C. 2",
+          "D. 18"
+        ],
+        "answer": "A",
+        "solution": "(Imax/Imin) = (a1 + a2)2/(a1 – a2)2 = (1 + 3)2/(1 – 3)2 = 16/4 = 4"
+      },
+      {
+        "number": 6,
+        "question": "The image formed by an objective of a compound microscope is",
+        "options": [
+          "A. virtual and diminished",
+          "B. real and diminished",
+          "C. real and enlarged",
+          "D. virtual and enlarged"
+        ],
+        "answer": "C",
+        "solution": "The objective of a compound microscope forms a real and enlarged image."
+      },
+      {
+        "number": 7,
+        "question": "Calculate the limit of resolution of a telescope objective having a diameter of 200 cm, if it has to detect light of wavelength 500 nm coming from a star.",
+        "options": [
+          "A. 610 × 10–9 radian",
+          "B. 152.5 × 10–9 radian",
+          "C. 457.5 × 10–9 radian",
+          "D. 305 × 10–9 radian"
+        ],
+        "answer": "D",
+        "solution": "The limit of resolution, Δθ = 1.22λ/a = (1.22 x 500 x 10-9/200 x 10-2) = 3.05 × 10–7 radian Δθ = 305 × 10–9 radian"
+      },
+      {
+        "number": 8,
+        "question": "A concave mirror for face viewing has a focal length of 0.4 m. The distance at which you hold the mirror from your face in order to see your image upright with a magnification of 5 is",
+        "options": [
+          "A. 0.16 m",
+          "B. 1.60 m",
+          "C. 0.32 m",
+          "D. 0.24 m"
+        ],
+        "answer": "C",
+        "solution": "Given, f = –0.4 m, m = 5 = (-v/u) = (y/-x) ⇒ y = 5x (1/f) = (1/v) + (1/u) ⇒ (1/-0.4) = (1/5x) + (1/-x) = 4/-5x ⇒ x = -0.32 m so u = 0.32 m"
+      },
+      {
+        "number": 9,
+        "question": "The value of the numerical aperture of the objective lens of a microscope is 1.25. If the light of wavelength 5000 Å is used, the minimum separation between two points, to be seen as distinct, will be",
+        "options": [
+          "A. 0.48 m",
+          "B. 0.12 m",
+          "C. 0.38 m",
+          "D. 0.24 m"
+        ],
+        "answer": "D",
+        "solution": "Numerical aperture of the objective lens of microscope = 0.61λ/d Minimum separation between two points d to be seen clearly, d = 0.61λ/Numerical aperture d = (0.61 x 5000 x10-10)/1.25 d = 0.24 m"
+      },
+      {
+        "number": 10,
+        "question": "A convergent doublet of separated lenses, corrected for spherical aberration, has a resultant focal length of 10 cm. The separation between the two lenses is 2 cm. The focal lengths of the component lenses are",
+        "options": [
+          "A. 18 cm, 20 cm",
+          "B. 12 cm, 14 cm",
+          "C. 16 cm, 18 cm",
+          "D. 10 cm, 12 cm"
+        ],
+        "answer": "A",
+        "solution": "Since the doublet is corrected for the spherical aberration, it satisfies the following condition f1 – f2 = d = 2 cm f1 = f2 + 2 Equivalent focal length = F F = (f1f2)/(f1 + f2 -d) = 10 cm Solving it, we get f1 = 20 cm f2 = 18 cm"
+      },
+      {
+        "number": 11,
+        "question": "A single slit of width b is illuminated by coherent monochromatic light of wavelength λ. If the second and fourth minima in the diffraction pattern at a distance 1 m from the slit are at 3 cm and 6 cm, respectively from the central maximum, what is the width of the central maximum? (i.e. the distance between the first minimum on either side of the central maximum)",
+        "options": [
+          "A. 6.0 cm",
+          "B. 1.5 cm",
+          "C. 4.5 cm",
+          "D. 3.0 cm"
+        ],
+        "answer": "D",
+        "solution": "For single slit diffraction, sin θ = nλ/b Position of nth minima from central maxima = nλD/b When n = 2, then x2 = 2λD/b = 0.03 …(1) When n = 4, then x4 = 4λD/b = 0.06 …(2) Eqn. (2) – Eqn. (1) x4 – x2 = (4λD/b) – (2λD/b) = 0.03 or then width of central maximum = 2λD/b = 2 × (0.03/2) = 0.03 m = 3 cm"
+      },
+      {
+        "number": 12,
+        "question": "An observer looks at a distant tree of height 10 m with a telescope of the magnifying power of 20. To the observer, the tree appears",
+        "options": [
+          "A. 10 times taller",
+          "B. 10 times nearer",
+          "C. 20 times taller",
+          "D. 20 times nearer"
+        ],
+        "answer": "D",
+        "solution": "The telescope resolves and brings the objects closer, which are far away from the telescope. Hence, for a telescope with magnifying power 20, the tree appears 20 times nearer."
+      },
+      {
+        "number": 13,
+        "question": "To determine the refractive index of a glass slab using a travelling microscope, the minimum number of readings required are",
+        "options": [
+          "A. Two",
+          "B. Four",
+          "C. Three",
+          "D. Five"
+        ],
+        "answer": "C",
+        "solution": "To determine the refractive index of a glass slab using a travelling microscope, the minimum number of readings required are Three"
+      },
+      {
+        "number": 14,
+        "question": "You are asked to design a shaving mirror assuming that a person keeps it 10 cm from his face and views the magnified image of the face at the closest comfortable distance of 25 cm. The radius of curvature of the mirror would then be",
+        "options": [
+          "A. 30 cm",
+          "B. 24 cm",
+          "C. 60 cm",
+          "D. –24 cm"
+        ],
+        "answer": "C",
+        "solution": "(1/15) + (1/-10) = 1/f f = -30 cm R = 2f = 2(-30) = -60 cm Magnitude of R is 60cm"
+      },
+      {
+        "number": 15,
+        "question": "A green light is incident from the water to the air-water interface at the critical angle (θ). Select the correct statement.",
+        "options": [
+          "A. The entire spectrum of visible light will come out of the water at various angles to the normal",
+          "B. The entire spectrum of visible light will come out of the water at an angle of 90° to the normal",
+          "C. The spectrum of visible light whose frequency is less than that of green light will come out to the air medium",
+          "D. The spectrum of visible light whose frequency is more than that of green light will come out to the air medium"
+        ],
+        "answer": "C",
+        "solution": "As, sin θ = 1/μ Also, the refractive index (μ) of the medium depends on the wavelength of the light.μ is less for the greater wavelength (i.e. lesser frequency). So, θ will be more for a lesser frequency of light. Hence, the spectrum of visible light whose frequency is less than that of green light will come out to the air medium."
+      }
+    ]
+  }

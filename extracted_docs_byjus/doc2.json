@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "Two masses of 1 g and 4g are moving with equal kinetic energy. The ratio of the magnitudes of their momenta is",
+        "options": [
+          "A. 4 : 1",
+          "B. √2 : 1",
+          "C. 1: 2",
+          "D. 1 : 16"
+        ],
+        "answer": "C",
+        "solution": "p = √(2Em) Where p denotes momentum, E denotes kinetic energy and m denotes mass. p1/p2 = √(m1/m2) p1/p2 = √(1/4) = 1/2"
+      },
+      {
+        "number": 2,
+        "question": "If a machine is lubricated with oil",
+        "options": [
+          "A. the mechanical advantage of the machine increases",
+          "B. the mechanical efficiency of the machine increases",
+          "C. both its mechanical advantage and efficiency increase",
+          "D. its efficiency increases, but its mechanical advantage decreases."
+        ],
+        "answer": "B",
+        "solution": "When a machine is lubricated with oil friction decreases. Hence the mechanical efficiency of the machine increases."
+      },
+      {
+        "number": 3,
+        "question": "The potential energy function for the force between two atoms in a diatomic molecule is approximately given by U(x) = a/x^12 - b/x^6",
+        "options": [
+          "A. b2/6a",
+          "B. b2/2a",
+          "C. b2/12a",
+          "D. b2/4a"
+        ],
+        "answer": "D",
+        "solution": "U(x= ∞) = 0,at equilibrium, dU/dx = 0, U(x) = a/x^12 - b/x^6——-(1), 12ax-13 – 6bx-7 = 0, 12a/x13 = 6b/x7, x6 = 2a/b———-(2), From 1 and 2 we have, U = (a-b(2a/b))/(2a/b)^2, U = -b2/4a, D = (0 + b2/4a), D = b2/4a"
+      },
+      {
+        "number": 4,
+        "question": "At time t = 0 s particle starts moving along the x-axis. If its kinetic energy increases uniformly with time ‘t’, the net force acting on it must be proportional to",
+        "options": [
+          "A. √t",
+          "B. constant",
+          "C. t",
+          "D. 1/√t"
+        ],
+        "answer": "D",
+        "solution": "Given, Kinetic energy increases uniformly with time, K.E ∝ t, Kinetic energy can be written as KE= ½ mv2 so we can write, ½ mv2 ∝ t, v = √(2t/m), Therefore, v ∝ √t, F ∝ 1/v, Therefore, F ∝ 1/√t"
+      },
+      {
+        "number": 5,
+        "question": "This question has Statement-1 and Statement-2. Of the four choices given after the statements, choose the one that best describes the two statements. If two springs S1 and S2 of force constants k1 and k2, respectively, are stretched by the same force, it is found that more work is done on spring S1 than on spring S2. Statement-1: If stretched by the same amount, work done on S1, will be more than that on S2 Statement-2 :k1 < k2",
+        "options": [
+          "A. Statement-1 is True, Statement-2 is true and Statement-2 is not the correct explanation of Statement-1.",
+          "B. Statement-1 is False, Statement-2 is true",
+          "C. Statement-1 is True, Statement-2 is false",
+          "D. Statement-1 is True, Statement-2 is true and Statement-2 is the correct explanation of statement-1."
+        ],
+        "answer": "B",
+        "solution": "Given same force F = k1x1 = k2x2, k1/k2 = x1/x2, W1 = ½ k1x12 and W2=½ k2x22, As W1/W2 ＞1 so [½ k1x12/ ½ k2x22]＞1, Fx1/Fx2＞1 ⇒ k2//k1＞1, Therefore k2 ＞ k1 Statement-2 is true, Or if x1 = x2 = x, W1/W2 = ½ k1x2 / ½ k2x2, W1/W2 = k1/ k2 ＜1, W1 ＜W2 , Statement-1 is False"
+      },
+      {
+        "number": 6,
+        "question": "A particle of mass m is moving in a circular path of constant radius r such that its centripetal acceleration ac is varying with time ‘t’ as ac = k2rt2 where ‘k’ is a constant. The power delivered to the particle by the force acting on it is",
+        "options": [
+          "A. 2πmk2r2t",
+          "B. mk2r2t",
+          "C. mk4r2t5/3",
+          "D. zero"
+        ],
+        "answer": "B",
+        "solution": "Centripetal acceleration ac= k2rt2, v2/r= k2rt2, v2= k2r2t2, mv2/2=m k2r2t2/2, Kinetic energy = m k2r2t2/2, d/dt(K.E) = mk^2r^2t, Power = m k2r2t"
+      },
+      {
+        "number": 7,
+        "question": "A stone tied to a string of length L is whirled in a vertical circle with the other end of the string at the centre. At a certain instant of time, the stone is at its lowest position, and has a speed u. The magnitude of the change in its velocity as it reaches a position where the string is horizontal is",
+        "options": [
+          "A. √(u^2-2gL)",
+          "B. √(u^2-gL)",
+          "C. √(2(u^2-gL))",
+          "D. √(2gL)"
+        ],
+        "answer": "C",
+        "solution": "At lowest position B, Potential Energy = 0, Kinetic Energy = ½ mu2, Total Energy = ½ mu2, At C, when string is horizontal, Potential Energy = mgL, Kinetic Energy = ½ mv2, Total Energy = ½ mv2 + mgL, Since energy is conserved, ½ mv2 + mgL = ½ mu2, v2 = u2 -2gL, Since v is in the vertical direction and u is in the horizontal direction, they are mutually perpendicular to each other. Change in velocity = √(u^2+v^2), |Δv→| = √(u^2+(u^2-2gL)), |Δv→| = √(2(u^2-gL))"
+      },
+      {
+        "number": 8,
+        "question": "When a rubber-band is stretched by a distance x, it exerts a restoring force of magnitude F =ax + bx2 where a and b are constants. The work done in stretching the unstretched rubber-band by L is",
+        "options": [
+          "A. aL2/2 +bL3/3",
+          "B. ½ (aL2/2 +bL3/3)",
+          "C. aL2 +bL3",
+          "D. ½ (aL2 +bL3)"
+        ],
+        "answer": "A",
+        "solution": "Work done by a variable force W = ∫ F→.ds→ Wherein F→ is the variable force and ds→ is small displacement, F = ax + bx2, Work done in displacing rubber through dx = Fdx, W = ∫0L(ax + bx^2)dx, W = aL2/2 +bL3/3"
+      },
+      {
+        "number": 9,
+        "question": "A person trying to lose weight by burning fat lifts a mass of 10 kg up to a height of 1 m 1000 times. Assume that the potential energy lost each time he lowers the mass is dissipated. How much fat will he use up considering the work done only when the weight is lifted up? Fat supplies 3.8 X 107 J of energy per kg which is converted to mechanical energy with a 20% efficiency rate. Take g = 9.8 m/s2",
+        "options": [
+          "A. 12.89 X 10-3kg",
+          "B. 2.45 X 10-3 kg",
+          "C. 6.45 X 10-3 kg",
+          "D. 9.89 X 10-3 kg"
+        ],
+        "answer": "A",
+        "solution": "Work done against gravity = (mgh) 1000 in lifting 1000 times, = 10 x 9.8 X 103, = 9.8 x 104 Joule, 20% of the efficiency is used to convert fat into energy, (20% of 3.8 X 107 J ) x m = 9.8 x 104, Where m is mass, m = 12.89 x 10-3 Kg"
+      },
+      {
+        "number": 10,
+        "question": "A point particle of mass moves along the uniformly rough track PQR as shown in the figure. The coefficient of friction, between the particle and the rough track equals. The particle is released, from rest, from point P and it comes to rest at a point R. The energies, lost by the ball, over the parts, PQ and PR, of the track, are equal to each other, and no energy is lost when the particle changes direction from PQ to QR. The values of the coefficient of friction μ and the distance x(=QR) are, respectively close to",
+        "options": [
+          "A. 0.29 and 6.5 m",
+          "B. 0.2 and 6.5 m",
+          "C. 0.2 and 3.5 m",
+          "D. 0.29 and 3.5 m"
+        ],
+        "answer": "D",
+        "solution": "As energy lost over PQ= energy lost over QR, Therefore (μmg cosθ)PQ = (μmg)QR, or QR = cosθPQ, From figure, sin θ = sin 300= 2/PQ =½, PQ = 4m, QR = 4cos 300 =, 4(√3/2) = 2√3m, Again, the decrease in P.E = loss of energy due to friction in PQ and QR, mgh= (μmg cosθ)PQ + μmg x QR, h= (μcosθ)PQ + μ x QR, 2 = (μcos 300)x4 + μ x 2√3, = μ (4 x (√3/2) + 2√3) = μ x 4√3, μ = 2/(4√3) = 1/2√3 = 0.29"
+      },
+      {
+        "number": 11,
+        "question": "A body of mass m =10-2 kg is moving in a medium and experiences a frictional force F = -KV2. Its initial speed is v0 = 10ms-1. If, after 10 s, its energy is, the value of k will be",
+        "options": [
+          "A. 10-4 kg m-1",
+          "B. 10-1 kg m-1s-1",
+          "C. 10-3 kg m-1",
+          "D. 10-3 kg s-1"
+        ],
+        "answer": "A",
+        "solution": "½ mvf2 = ⅛ mv02, Vf = v0/2 = 5m/s, F = -kv2 ———(1), We know, F = ma = m (dv/dt) ——–(2), From (1) and (2) we get, m (dv/dt) = -kv2, (dv/dt) = (-k/m) v2, ∫105dv/v^2 = -100k∫010dt, ⅕ – 1/10 = – 100k (10), k = 10-4 kg m-1"
+      },
+      {
+        "number": 12,
+        "question": "A time-dependent force F = 6t acts on a particle of mass 1 kg. If the particle starts from rest, the work done by the force during the first 1 sec. will be :",
+        "options": [
+          "A. 9 J",
+          "B. 18 J",
+          "C. 4.5 J",
+          "D. 22 J"
+        ],
+        "answer": "C",
+        "solution": "F= 6t, m = 1Kg, u =0, Now, F=ma =m(dv/dt)=1x(dv/dt), dv/dt = 6t, ∫0vdv = ∫016tdt, v= 3(12– 0) = 3m/s, From work-energy theorem, W =Δ KE = ½ m(v2 – u2), W = ½ x 1(32 – 0) = 4.5 J"
+      },
+      {
+        "number": 13,
+        "question": "A particle is moving in a circular path of radius a under the action of an attractive potential U = -k/2r2 .Its total energy is",
+        "options": [
+          "A. k/2a2",
+          "B. Zero",
+          "C. -3/2 ( k/a2)",
+          "D. – k/4a2"
+        ],
+        "answer": "B",
+        "solution": "F = (K/r3), Centripetal acceleration, mv2/r = (K/r3), Therefore, mv2 = K/r2, Kinetic Energy, K.E = 1/2 mv2= K/2r2, Total energy = P.E + K.E, – K/2r2 + K/2r2 = Zero"
+      },
+      {
+        "number": 14,
+        "question": "A spring of force constant k is cut into two pieces such that one piece is double the length of the other. Then the long piece will have a force constant of",
+        "options": [
+          "A. (2/3) k",
+          "B. (3/2) k",
+          "C. 3k",
+          "D. 6k"
+        ],
+        "answer": "B",
+        "solution": "For a spring, (k x L) is a constant, Therefore k x L= k’ x (2L/3), Where 2L/3 = length of longer piece, Or k’=(3/2)k"
+      },
+      {
+        "number": 15,
+        "question": "A wind-powered generator converts wind energy into electrical energy. Assume that the generator converts a fixed fraction of the wind energy intercepted by its blades into electrical energy. For wind speed v, the electrical power output will be proportional to",
+        "options": [
+          "A. v",
+          "B. v2",
+          "C. v3",
+          "D. v4"
+        ],
+        "answer": "C",
+        "solution": "Force = v x (dm/dt), Force= v x d/dt(volume x density), Force = v Aρv, = Aρv2, Power = Force x velocity, = (Aρv2)v = Aρv3, Power ∝ v3"
+      }
+    ]
+  }

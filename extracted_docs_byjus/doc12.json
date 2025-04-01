@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "“Heat cannot by itself flow from a body at a lower temperature to a body at a higher temperature” is a statement or consequence of",
+        "options": [
+          "A. The second law of thermodynamics",
+          "B. conservation of momentum",
+          "C. conservation of mass",
+          "D. The first law of thermodynamics"
+        ],
+        "answer": "A",
+        "solution": "Second law of thermodynamics."
+      },
+      {
+        "number": 2,
+        "question": "Which of the following is incorrect regarding the first law of thermodynamics?",
+        "options": [
+          "A. It introduces the concept of internal energy",
+          "B. It introduces the concept of entropy",
+          "C. It is not applicable to any cyclic process",
+          "D. It is a restatement of the principle of conservation of energy"
+        ],
+        "answer": "",
+        "solution": "Statements (b) and (c) are incorrect regarding the first law of thermodynamics."
+      },
+      {
+        "number": 3,
+        "question": "Which of the following statements is correct for any thermodynamic system?",
+        "options": [
+          "A. The internal energy changes in all processes",
+          "B. Internal energy and entropy are state functions",
+          "C. The change in entropy can never be zero",
+          "D. The work done in an adiabatic process is always zero"
+        ],
+        "answer": "B",
+        "solution": "Internal energy and entropy are state functions"
+      },
+      {
+        "number": 4,
+        "question": "Which of the following parameters does not characterize the thermodynamic state of matter?",
+        "options": [
+          "A. temperature",
+          "B. pressure",
+          "C. work",
+          "D. volume"
+        ],
+        "answer": "C",
+        "solution": "The work does not characterize the thermodynamic state of matter"
+      },
+      {
+        "number": 5,
+        "question": "Even a Carnot engine cannot give 100% efficiency because we cannot",
+        "options": [
+          "A. prevent radiation",
+          "B. find ideal sources",
+          "C. reach absolute zero temperature",
+          "D. eliminate friction."
+        ],
+        "answer": "C",
+        "solution": "We cannot reach absolute zero temperature"
+      },
+      {
+        "number": 6,
+        "question": "Which statement is incorrect?",
+        "options": [
+          "A. All reversible cycles have the same efficiency",
+          "B. The reversible cycle has more efficiency than an irreversible one",
+          "C. Carnot cycle is a reversible one",
+          "D. Carnot cycle has the maximum efficiency in all cycles"
+        ],
+        "answer": "A",
+        "solution": "All reversible cycles do not have the same efficiency."
+      },
+      {
+        "number": 7,
+        "question": "A Carnot engine operating between temperatures T1 and T2 has efficiency 1/6. When T2 is lowered by 62 K, its efficiency increases to ⅓. Then T1 and T2 are, respectively",
+        "options": [
+          "A. 372 K and 310 K",
+          "B. 372 K and 330 K",
+          "C. 330 K and 268 K",
+          "D. 310 K and 248 K"
+        ],
+        "answer": "A",
+        "solution": "The efficiency of Carnot engine, η =1- (T2/T1), η = ⅙, T2/T1  = ⅚, T1  = 6T2/5 ————–(1), As per the question, when T2 is lowered by 62 K, then its efficiency becomes 1/3, ⅓ = [1 – (T2 -62/T1)]\n[T2 -62/T1 ] = 1-(⅓) (Using equa (1)), 5(T2 -62)/6T2= ⅔, 5T2 – 310 = 4T2 ⇒ T2= 310 K, From equation (1) T1 = (6 x 310)/5 = 372 K"
+      },
+      {
+        "number": 8,
+        "question": "100 g of water is heated from 30 °C to 50 °C. Ignoring the slight expansion of the water, the change in its internal energy is (specific heat of water is 4184 J kg–1 K–1)",
+        "options": [
+          "A. 4.2 kJ",
+          "B. 8.4 kJ",
+          "C. 84 kJ",
+          "D. 2.1 kJ"
+        ],
+        "answer": "B",
+        "solution": "ΔQ = msΔT, Here m = 100 g = 100 x10-3 Kg, S = 4184 J kg-1K-1 and ΔT = (50 – 30) = 20 0C, ΔQ = 100 x 10-3 x 4184 x 20 = 8.4 x 103 J, ΔQ = ΔU + ΔW, Change in internal energy, ΔU = ΔQ = 8.4 x 103 J = 8.4 kJ"
+      },
+      {
+        "number": 9,
+        "question": "200 g water is heated from 40° C to 60 °C. Ignoring the slight expansion of water, the change in its internal energy is close to (Given specific heat of water = 4184 J/kg/K)",
+        "options": [
+          "A. 167.4 kJ",
+          "B. 8.4 kJ",
+          "C. 4.2 kJ",
+          "D. 16.7 kJ"
+        ],
+        "answer": "D",
+        "solution": "For isobaric process, ΔU = Q = msΔT, Here, m = 200 g = 0.2 Kg, s = 4184 J/Kg/K, ΔT = 60 0C – 40 0C = 20 0C, ΔU = (0.2 )(4184)(20) =16736 J = 16.7 kJ"
+      },
+      {
+        "number": 10,
+        "question": "The work of 146 kJ is performed in order to compress one-kilo mole of gas adiabatically and in this process the temperature of the gas increases by 7ºC. The gas is (R = 8.3 J mol–1 K–1)",
+        "options": [
+          "A. monoatomic",
+          "B. diatomic",
+          "C. triatomic",
+          "D. a mixture of monoatomic and diatomic"
+        ],
+        "answer": "B",
+        "solution": "According to the first law of thermodynamics, ΔQ = ΔU + ΔW, For an adiabatic process, ΔQ = 0, 0 = ΔU + ΔW, ΔU = -ΔW, nCvΔT = -ΔW, Cv = -ΔW/nΔT = -[-146 x 103]/[(1 x 103) x 7] = 20.8 Jmol-1K-1, For diatomic gas, Cv = (5/2)R = (5/2)x8.3 = 20.8 Jmol-1K-1, Hence, the gas is diatomic"
+      },
+      {
+        "number": 11,
+        "question": "From the following statements, concerning ideal gas at any given temperature T, select the correct.",
+        "options": [
+          "A. The coefficient of volume expansion at constant pressure is the same for all ideal gases",
+          "B. The average translational kinetic energy per molecule of oxygen gas is 3kT, k being Boltzmann constant",
+          "C. The mean-free path of molecules increases with an increase in the pressure",
+          "D. In a gaseous mixture, the average translational kinetic energy of the molecules of each component is different"
+        ],
+        "answer": "A",
+        "solution": "γ = dV/(V0 x dT) at a constant temperature, γ = 1/V0(dV/dT)p since PV = RT, PdV = RdT or (dV/dT) = R/P0, Therefore, γ = (1/V0)(R/P0) = R/RT0, γ = 1/T0, γ = 1/273"
+      },
+      {
+        "number": 12,
+        "question": "Calorie is defined as the amount of heat required to raise the temperature of 1 g of water by 1 °C and it is defined under which of the following conditions?",
+        "options": [
+          "A. From 14.5 °C to 15.5 °C at 760 mm of Hg",
+          "B. From 98.5 °C to 99.5 °C at 760 mm of Hg",
+          "C. From 13.5 °C to 14.5 °C at 76 mm of Hg",
+          "D. From 3.5 °C to 4.5 °C at 76 mm of Hg"
+        ],
+        "answer": "A",
+        "solution": "1 calorie is the amount of heat required to raise the temperature of 1gm of water from 14.5 0C to 15.5 0C at 760 mm of Hg"
+      },
+      {
+        "number": 13,
+        "question": "The average translational kinetic energy of 02 (molar mass 32) molecules at a particular temperature is 0.048 eV. The translational kinetic energy of N2 (molar mass 28) molecules in eV at the same temperature is",
+        "options": [
+          "A. 0.0015",
+          "B. 0.003",
+          "C. 0.048",
+          "D. 0.768"
+        ],
+        "answer": "C",
+        "solution": "Average Kinetic Energy = (3/2)KT, It depends on temperature and does not depend on molar mass, For both the gases, average translational kinetic energy will be the same ie.,0.048 eV"
+      },
+      {
+        "number": 14,
+        "question": "One mole of a monoatomic gas is heated at a constant pressure of 1 atmosphere from OK to 100K. If the gas constant R=8.32 J/mol K, the change in internal energy of the gas is approximately [1998]",
+        "options": [
+          "A. 2.3 J",
+          "B. 46 J",
+          "C. 8.67 × 103J",
+          "D. 1.25 x l03J"
+        ],
+        "answer": "D",
+        "solution": "ΔU = nCvdT =1x (3R/2)ΔT, ΔU = (3/2) x (8.3) x (100) = 1.25 x 103 J"
+      },
+      {
+        "number": 15,
+        "question": "An ideal gas heat engine is operating between 227 °C and 127 °C. It absorbs 104J of heat at a higher temperature. The amount of heat converted into work is",
+        "options": [
+          "A. 2000 J",
+          "B. 4000 J",
+          "C. 8000 J",
+          "D. 5600 J"
+        ],
+        "answer": "A",
+        "solution": "η =1- (T2/T1), η =1- (127 + 273)/(227 + 273) = 1 – (400/500) = ⅕, W = ηQ1 = ⅕ x 104 = 2000 J"
+      }
+    ]
+  }

@@ -1,0 +1,124 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A musician using an open flute of length 50 cm produces second harmonic sound waves. A person runs towards the musician from another end of a hall at a speed of 10 km/h. If the wave speed is 330 m/s, the frequency heard by the running person shall be close to",
+        "options": [
+          "A. 666 Hz",
+          "B. 753 Hz",
+          "C. 500 Hz",
+          "D. 333 Hz"
+        ],
+        "answer": "A",
+        "solution": "Frequency of the sound produced by the open flute f=2(v/2l) = (2 x 330)/(2 x 0.5) = 660 Hz. Velocity of observer, v0 = 10 x (5/18) = (25/9) m/s. As the source is moving towards the observer, according to the Doppler effect. Frequency detected by observer f’ = {(v + v0)/v}f = {((25/9) + 330)/330}660 = 2 ((25/9) + 330). f’ = 665.55 ≈ 666 Hz"
+      },
+      {
+        "number": 2,
+        "question": "A source of sound S is moving with a velocity of 50 m/s towards a stationary observer. The observer measures the frequency of the source when it is moving away from the observer after crossing him? (Take the velocity of sound in air as 350 m/s)",
+        "options": [
+          "A. 750 Hz",
+          "B. 857 Hz",
+          "C. 1143 Hz",
+          "D. 807 Hz"
+        ],
+        "answer": "A",
+        "solution": "When source is moving towards a stationary observer, fapp = fsource {(V – 0)/(V – 50)}. 1000 = fsource (350/300). When source is moving away from observer f’ = fsource{350/(350 + 50)}. f’ = {(1000 x 300)/350} x (350/400). f’ = 750 Hz"
+      },
+      {
+        "number": 3,
+        "question": "Two sources of sound S1 and S2 produce sound waves of the same frequency 660 Hz. A listener is moving from source S1 towards S2 with constant speed u m/s and he hears 10 beats. The velocity of sound is 330 m/s. Then u is equals",
+        "options": [
+          "A. 5.5 m/s",
+          "B. 15.0 m/s",
+          "C. 2.5 m/s",
+          "D. 10.0 m/s"
+        ],
+        "answer": "C",
+        "solution": "f1 = f[(v – v0)/v]. f2 = f[(v + v0)/v]. Frequency f2 – f1= f x (2v0/v). 10 = 660 x (2u/330). u = 2.5 m/s"
+      },
+      {
+        "number": 4,
+        "question": "A resonance tube is old and has a jagged end. It is still used in the laboratory to determine the velocity of sound in the air. A tuning fork of frequency 512 Hz produces the first resonance when the tube is filled with water to a mark 11 cm below a reference mark, near the open end of the tube. The experiment is repeated with another fork of frequency 256 Hz which produces the first resonance when water reaches a mark 27 cm below the reference mark. The velocity of sound in air, obtained in the experiment, is close to",
+        "options": [
+          "A. 322 ms-1",
+          "B. 341 ms-1",
+          "C. 335 ms-1",
+          "D. 328 ms-1"
+        ],
+        "answer": "D",
+        "solution": "(λ/4) = 0.11 + e. {V/(512)4} = 0.11 + e ——-(1). {V/(256)4} = 0.27 + e ——-(2). After solving (1) and (2) we get V = 328 ms-1"
+      },
+      {
+        "number": 5,
+        "question": "A small speaker delivers 2W of audio output. At what distance from the speaker will one detect 120 dB intensity sound? (Given reference intensity of sound is 10-12 W/m2)",
+        "options": [
+          "A. 40 cm",
+          "B. 20 cm",
+          "C. 10 cm",
+          "D. 30 cm"
+        ],
+        "answer": "A",
+        "solution": "Using β = 10 log10(I/I0). Or 120 = 10 log 10(I/ 10-12). I/10-12 = 1012. I = 1. Also I = 1= P/4πr2 = 2/4πr2. r2  = 2/4πI = 2/4π. r2  = 2/ 4 (3.14). On solving the above equations, we get r = 40 cm"
+      },
+      {
+        "number": 6,
+        "question": "Two cars A and B are moving away from each other in opposite directions. Both the cars are moving at a speed of 20 m/s with respect to the ground. If an observer in car A detects a frequency of 2000 Hz of the sound coming from car B, what is the natural frequency of the sound source in car B? (speed of sound in air = 340 m/s)",
+        "options": [
+          "A. 2250 Hz",
+          "B. 200 Hz",
+          "C. 2300 Hz",
+          "D. 2150 Hz"
+        ],
+        "answer": "A",
+        "solution": "f’ = f{(v – v0)/(v + vs)}. 2000 = f{(340 – 20)/(340 + 20)}. f = 2250 Hz"
+      },
+      {
+        "number": 7,
+        "question": "A person standing on an open ground hears the sound of a jet aeroplane, coming from the north at an angle 600 with ground level. But he finds the aeroplane right vertically above his position. If v is the speed of sound, the speed of the plane is",
+        "options": [
+          "A. (√3/2) v",
+          "B. 2v/√3",
+          "C. V",
+          "D. v/2"
+        ],
+        "answer": "D",
+        "solution": "Distance, PQ = vp x t (Distance = speed x time). Distance , QR = V.t. Cos 600 = PQ/QR. ½ = (vp x t)/( v.t). vp= v/2"
+      },
+      {
+        "number": 8,
+        "question": "Three sound waves of equal amplitudes have frequencies(f-1, f, f+1). They superpose to give beats. The number of beats produced per second is",
+        "options": [
+          "A. 2",
+          "B. 1",
+          "C. 4",
+          "D. 3"
+        ],
+        "answer": "A",
+        "solution": "Beat produced between(f-1) and f is 1. Beat produced between f and f+1 is 1. Beat produced between(f-1) and (f+1) is 2. ∴ No of beats produced per second will be 2"
+      },
+      {
+        "number": 9,
+        "question": "A pipe of length 85 cm is closed from one end. Find the number of possible natural oscillations of the air column in the pipe whose frequencies lie below 1250 Hz. The velocity of sound in the air is 340 m/s.",
+        "options": [
+          "A. 6",
+          "B. 4",
+          "C. 12",
+          "D. 8"
+        ],
+        "answer": "A",
+        "solution": "Fundamental frequency of the closed organ pipe is f = v/4L. f = 340/(4 x 0.85) = 100 Hz. The natural frequencies of the closed organ pipe is fn= (2n – 1)f = f, 3f, 5f, 7f, 9f, 11f, 13f …. So the possible frequencies below 1250 Hz are fn= 100 Hz, 300 Hz, 500 Hz, 700 Hz, 900 Hz, 1100 Hz. Number of frequencies = 6"
+      },
+      {
+        "number": 10,
+        "question": "An observer is moving with half the speed of light towards a stationary microwave source emitting waves at frequency10 GHz. What is the frequency of the microwave measured by the observer? (speed of light = 3 x 108 m/s)",
+        "options": [
+          "A. 17.3 GHz",
+          "B. 15.3 GHz",
+          "C. 10.1 GHz",
+          "D. 12.1 GHz"
+        ],
+        "answer": "A",
+        "solution": "Doppler effect in light (speed of observer is not very small compared to speed of light). f’ = f .[(1 + v/c)/(1 – v/c)]½. Here, frequency (v/c) = ½. So, f’ = f .[(3/2)/(1/2)]½. f’ = 10 x √3 = 17.3 GHz"
+      }
+    ]
+  }

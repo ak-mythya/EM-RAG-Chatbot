@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "When current in a coil changes from 5 A to 2 A in 0.1 s, an average voltage of 50 V is produced. The self-inductance of the coil is",
+        "options": [
+          "(a) 0.67 H",
+          "(b) 1.67 H",
+          "(c) 3 H",
+          "(d) 6 H"
+        ],
+        "answer": "B",
+        "solution": "I1 = 5 A, I2 = 2 A, ΔI = 2 – 5 = –3 A, Δt = 0.1 s= 50 V. As, ε = -L(ΔI/Δt), 50 = -L(-3/0.1), 50 = 30L, L = 5/3 = 1.67 H. Answer: (b) 1.67 H"
+      },
+      {
+        "number": 2,
+        "question": "Two coaxial solenoids are made by winding thin insulated wire over a pipe of cross-sectional area A = 10 cm2  and length = 20 cm. If one of the solenoids has 300 turns and the other 400 turns, their mutual inductance is (μ0 = 4π × 10–7 T mA–1)",
+        "options": [
+          "(a) 2.4π× 10–4 H",
+          "(b) 2.4π × 10–5 H",
+          "(c) 4.8π× 10–4 H",
+          "(d) 4.8π × 10–5 H"
+        ],
+        "answer": "A",
+        "solution": "A = πr12 = 10 cm2, l = 20 cm, N1 = 300, N2 = 400. M = μ0N1N2/l, M = (4π x 10– 7 x 300 x 400 x 10 x 10-4) /0.20 = 2.4π × 10–4 H. Answer: (a) 2.4π× 10–4 H"
+      },
+      {
+        "number": 3,
+        "question": "The self inductance of the motor of an electric fan is 10 H. In order to impart maximum power at 50 Hz, it should be connected to a capacitance of",
+        "options": [
+          "(a) 1μF",
+          "(b) 2μF",
+          "(c) 4μF",
+          "(d) 8μF"
+        ],
+        "answer": "A",
+        "solution": "For maximum power, Lω = 1/Cω, C = 1/ Lω2, C = 1/[10 x (2π x 50)2] = 1/(10 x 104 x (π)2) = 10-6 F = 1μF (Taking π2 = 10). Answer: (a) 1μF"
+      },
+      {
+        "number": 4,
+        "question": "A coil of inductance 300 mH and resistance 2 is connected to a source of voltage 2 V. The current reaches half of its steady state value in",
+        "options": [
+          "(a) 0.15 s",
+          "(b) 0.3 s",
+          "(c) 0.05 s",
+          "(d) 0.1 s"
+        ],
+        "answer": "D",
+        "solution": "During growth of charge in an inductance, I = I0 (1 – e –Rt/L) or I0/2 = I0(1 – e –Rt/L), e-Rt/L = ½ = 2-1, or Rt/L = In 2 ⇒t = (L/R)In 2, t =[(300 x 10-3)/2] x (0.693), or t = 0.1 sec. Answer: (d) 0.1 s"
+      },
+      {
+        "number": 5,
+        "question": "In a LCR circuit capacitance is changed from C to 2C. For the resonant frequency to remain unchanged, the inductance should be changed from L to",
+        "options": [
+          "(a) 4L",
+          "(b) 2L",
+          "(c) L/2",
+          "(d) L/4"
+        ],
+        "answer": "C",
+        "solution": "At resonance, ω = 1/√LC when ω is constant, (1/ L1C1) = (1/ L2C2) = (1/ LC) =1/L2(2C) = 1/2L2C, L2 = L/2. Answer: (c) L/2"
+      },
+      {
+        "number": 6,
+        "question": "Two coils are placed close to each other. The mutual inductance of the pair of coils depends upon",
+        "options": [
+          "(a) the rates at which currents are changing in the two coils",
+          "(b) relative position and orientation of the two coils",
+          "(c) the materials of the wires of the coils",
+          "(d) the currents in the two coils"
+        ],
+        "answer": "C",
+        "solution": "Mutual inductance between two coils depends on the materials of the wires of the coils. Answer: (c) the materials of the wires of the coils"
+      },
+      {
+        "number": 7,
+        "question": "The power factor of an AC circuit having resistance (R) and inductance (L) connected in series and an angular velocity is",
+        "options": [
+          "(a) R/ωL",
+          "(b) R/(R2 + ω2L2)1/2",
+          "(c) ωL/R",
+          "(d) R/(R2 – ω2L2)1/2"
+        ],
+        "answer": "B",
+        "solution": "Power Factor, cos Φ = 1/(1 + tan2Φ)½, cos Φ = 1/(1 + (ωL/R)2)½ (∵ tan Φ = ωL/R), cos Φ = R/(R2 + ω2L2)1/2. Answer: (b) R/(R2 + ω2L2)1/2"
+      },
+      {
+        "number": 8,
+        "question": "An arc lamp requires a direct current of 10 A at 80 V to function. If it is connected to a 220 V (rms), 50 Hz AC supply, the series inductor needed for it to work is close to",
+        "options": [
+          "(a) 80 H",
+          "(b) 0.08 H",
+          "(c) 0.044 H",
+          "(d) 0.065 H"
+        ],
+        "answer": "D",
+        "solution": "Given I = 10 A, V = 80 V, R = V/I = 80/10 = 8 Ω and ω = 50 Hz, I = V/(82 + XL2)½, 10 = 220/ (64 + XL2)½, (64 + XL2)½ = 22, Squaring on both sides, we get, 64 + XL2  = 484, XL2  = 484 – 64 = 420, XL = (420)½ ⇒ 2π x ωL = (420)½, Series inductor on an arc lamp, L = (420)½ /( 2π x 50) = 0.065 H. Answer: (d) 0.065 H"
+      },
+      {
+        "number": 9,
+        "question": "A power transmission line feeds input power at 2300 V to a step down transformer with its primary windings having 4000 turns, giving the output power at 230 V. If the current in the primary of the transformer is 5 A, and its efficiency is 90%, the output current would be",
+        "options": [
+          "(a) 50 A",
+          "(b) 25 A",
+          "(c) 45 A",
+          "(d) 20 A"
+        ],
+        "answer": "C",
+        "solution": "Efficiency η = 0.9 = Ps/Pp, Vs Is = 0.9 × VpIp, Is = (0.9 x 2300×5)/ 230 = 45A. Answer: (c) 45 A"
+      },
+      {
+        "number": 10,
+        "question": "A coil of cross-sectional area A having n turns is placed in a uniform magnetic field B. When it is rotated with an angular velocity ω, the maximum e.m.f. induced in the coil will be",
+        "options": [
+          "(a) (3/2)nBAω",
+          "(b) nBAω",
+          "(c) 3nBAω",
+          "(d) (½) nBAω"
+        ],
+        "answer": "B",
+        "solution": "Emf induced in the coil is given by ε = BAnωsinωt, εmax = BAωn (The induced emf is maximum when sinωt = 1). Answer: (b) nBAω"
+      },
+      {
+        "number": 11,
+        "question": "A 10 m long horizontal wire extends from North East to South West. It is falling with a speed of 5.0 m s–1, at right angles to the horizontal component of the earth’s magnetic field of 0.3 × 10–4 Wb/m2. The value of the induced emf in wire is",
+        "options": [
+          "(a) 0.3 × 10–3 V",
+          "(b) 2.5 × 10–3 V",
+          "(c) 1.5 × 10–3 V",
+          "(d) 1.1 × 10–3 V"
+        ],
+        "answer": "C",
+        "solution": "The motional emf is given as ϵ=|v(l→×B→)| = 5 × (0.3 × 10–4) (10) sin90° = 1.5 × 10–3 V. Answer: (c) 1.5 × 10–3 V"
+      },
+      {
+        "number": 12,
+        "question": "A copper wire is wound on a wooden frame, whose shape is that of an equilateral triangle. If the linear dimension of each side of the frame is increased by a factor of 3, keeping the number of turns of the coil per unit length of the frame the same, then the self inductance of the coil",
+        "options": [
+          "(a) increases by a factor of 27",
+          "(b) decreases by a factor of 3",
+          "(c) increases by a factor of 3",
+          "(d) decreases by a factor of 9"
+        ],
+        "answer": "C",
+        "solution": "Answer: (c) increases by a factor of 3"
+      },
+      {
+        "number": 13,
+        "question": "The self induced emf of a coil is 25 volts.When the current in it is changed at uniform rate from 10 A to 25 A in 1 s, the change in the energy of the inductance is",
+        "options": [
+          "(a) 637.5 J",
+          "(b) 540 J",
+          "(c) 437.5 J",
+          "(d) 740 J"
+        ],
+        "answer": "C",
+        "solution": "ε = 25 V, I1 = 10 A, I2 = 25 A, t = 1 s, ΔE =?, ε = L(ΔL/Δt), 25 = L[(25 – 10)/1], L = 25/15 = (5/3) H, ΔE = ½L (I22 – I12 ) =(½) x (5/3) x (252 – 102) = (⅚) x 525 = 437.5 J. Answer: (c) 437.5 J"
+      },
+      {
+        "number": 14,
+        "question": "There are two long co-axial solenoids of the same length l. The inner and outer coils have radii r1 and r2 and number of turns per unit length n1 and n2 respectively. The ratio of mutual inductance to the self inductance of the inner coil is",
+        "options": [
+          "(a) n2/n1",
+          "(b) (n2/n1)(r22/r12)",
+          "(c) (n2/n1)(r1/r2)",
+          "(d) n1/n2"
+        ],
+        "answer": "A",
+        "solution": "The mutual inductance of the inner coil, M = μ0n1n2r12 …(1), Self inductance (L) of the inner coil is, L = μ0n12r12 …(2), Using (1) and (2), M/L = n2/n1. Answer: (a) n2/n1"
+      },
+      {
+        "number": 15,
+        "question": "A solid metal cube of edge length 2 cm is moving in a positive y-direction at a constant speed of 6 m/s. There is a uniform magnetic field of 0.1 T in the positive z-direction. The potential difference between the two faces of the cube perpendicular to the x-axis, is",
+        "options": [
+          "(a) 2 mV",
+          "(b) 6 mV",
+          "(c) 1 mV",
+          "(d) 12 mV"
+        ],
+        "answer": "D",
+        "solution": "Emf developed across the given edges, ε = Blv = 0.1 × 0.02 × 6 = 12 × 10–3 V = 12 mV, As all the edges are parallel between the faces perpendicular to the x-axis, hence required potential difference is 12 mV. Answer: (d) 12 mV"
+      }
+    ]
+  }

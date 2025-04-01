@@ -1,0 +1,186 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A piece of wood of mass 0.03 kg is dropped from the top of a 100 m height building. At the same time, a bullet of mass 0.02 Kg is fired vertically upward, with a velocity 100 m/s, from the ground. The bullet gets embedded in the wood. Then the maximum height to which the combined system reaches above the top of the building before falling below is (g = 10 m/s)",
+        "options": [
+          "A. 10 m",
+          "B. 30 m",
+          "C. 20 m",
+          "D. 40 m"
+        ],
+        "answer": "D",
+        "solution": "Suppose both collide at the point P after time t. Time taken for the particles to collide, t = d/vrel  = 100/100 = 1s. Speed of wood just before collision =gt = 10m/s. Speed of bullet just before collision v -gt = 100 -10 = 90 m/s. Before 0.03 kg ↓ 10 m/s, 0.02 kg ↑ 90 m/s. After ↑ v, 0.05 kg. Now, the conservation of linear momentum just before and after the collision -(0.03)(10) + (0.02)(90) = (0.05)v ⇒ v = 30 m/s. The maximum height reached by the body a = v2/2g = (30)2/2(10) = 45 m. (100 -h) = ½ gt2 = ½ x 10 x1 ⇒h = 95 m. Height above tower = 40 m. Answer: (d) 40 m"
+      },
+      {
+        "number": 2,
+        "question": "A passenger train of length 60 m travels at a speed of 80 km/hr. Another freight train of length 120 m travels at a speed of 30 km/hr. The ratio of times taken by the passenger train to completely cross the freight train when: (i) they are moving in the same direction, and (ii) in the opposite direction, is",
+        "options": [
+          "A. (a) 25/11",
+          "B. (b) 3/2",
+          "C. (c) 5/2",
+          "D. (d) 11/5"
+        ],
+        "answer": "D",
+        "solution": "The total distance to be travelled by train is 60 + 120 = 180 m. When the trains are moving in the same direction, the relative velocity is v1 – v2 = 80 – 30 = 50 km hr–1. So time taken to cross each other, t1 = 180/(50 x 103/3600) = [(18 x 18)/25] s. When the trains are moving in opposite direction, relative velocity is |v1 – (–v2 )| = 80 + 30 = 110 km hr–1. So time taken to cross each other t2= 180/(110 x 103/3600) = [(18 x 36)/110] s. t1/t2= [(18 x 18)/25] / [(18 x 36)/110] = 11/5. Answers: (d) 11/5"
+      },
+      {
+        "number": 3,
+        "question": "A particle has an initial velocity \\(\\begin{array}{l}3{\\hat{i}}+4{\\hat{j}}\\end{array} \\) and an acceleration of \\(\\begin{array}{l}0.4{\\hat{i}}+0.3{\\hat{j}}\\end{array} \\). Its speed after 10 seconds is",
+        "options": [
+          "A. 7 units",
+          "B. 8.5 units",
+          "C. 10 units",
+          "D. 7√2 units"
+        ],
+        "answer": "D",
+        "solution": "v = u + at v = 3i + 4j + (0.4 i + 0.3 j) x 10 = 3i + 4j + 4i + 3i v = 7i + 7j \\(\\begin{array}{l}\\left | \\vec{v} \\right |= \\sqrt{7^{2}+7^{2}}\\end{array} \\) Answer: (d) 7√2 units"
+      },
+      {
+        "number": 4,
+        "question": "An automobile travelling at 40 km/h can be stopped at a distance of 40 m by applying brakes. If the same automobile is travelling at 80 km/h, the minimum stopping distance, in metres, is (assume no skidding)",
+        "options": [
+          "A. (a) 100 m",
+          "B. (b) 75 m",
+          "C. (c) 160 m",
+          "D. (d) 150 m"
+        ],
+        "answer": "C",
+        "solution": "Using v2 = u2 – 2as, 0 = u2 – 2as, S = u2 /2a, S1/S2 = u12/u22, S2 = (u12/u22)S1 = (2)2(40) = 160 m. Answer: (c)160 m"
+      },
+      {
+        "number": 5,
+        "question": "A body is thrown vertically upwards. Which one of the following graphs correctly represents the velocity vs time?",
+        "options": [],
+        "answer": "A",
+        "solution": "Velocity at any time t is given by v = u + at, v = v(0) + (-gt), v = -gt, Straight line with negative slope. Answer: (1) is the correct answer."
+      },
+      {
+        "number": 6,
+        "question": "All the graphs below are intended to represent the same motion. One of them does it incorrectly. Pick it up.",
+        "options": [],
+        "answer": "A",
+        "solution": "In this question option (2) and (4) are the corresponding position-time graph and velocity – position graph of the option (3) and its distance-time graph is given as Hence, the answer is given as (1). Answer: (1)"
+      },
+      {
+        "number": 7,
+        "question": "A parachutist after bailing out falls 50 m without friction. When the parachute opens, it decelerates at 2 m/s2. He reaches the ground with a speed of 3 m/s. At what height, did he bailout?",
+        "options": [
+          "A. (a) 293 m",
+          "B. (b) 111 m",
+          "C. (c) 91 m",
+          "D. (d) 182 m"
+        ],
+        "answer": "A",
+        "solution": "Initially, the parachutist falls under gravity u 2 = 2ah = 2 × 9.8 × 50 = 980 m2s –2. He reaches the ground with speed = 3 m/s, a = –2 m s–2 ⇒ (3)2 = u 2 – 2 × 2 × h1, 9 = 980 – 4 h1, h1 = 971/4, h1 = 242.75 m, Total height = 50 + 242.75 = 292.75 = 293 m."
+      },
+      {
+        "number": 8,
+        "question": "A car, starting from rest, accelerates at the rate f through a distance s, then continues at a constant speed for time t and then decelerates at the rate f/2 to come to rest. If the total distance traversed in 15 s, then",
+        "options": [
+          "A. (a) s= ½ft2",
+          "B. (b) s= (¼)ft2",
+          "C. (c) s = ft",
+          "D. (d) s= (1/72)ft2"
+        ],
+        "answer": "D",
+        "solution": "For the first part of the journey, s = s1, s1 = ½ ft12………………………(1), v = f t1 …………………………(2). For second part of journey, s2 = vt or s2 = f t1 t ……………(3). For the third part of the journey, s3 = ½(f/2)(2t1)2= ½ x ft12, s3 = 2s1 = 2s ………………….(4), s1 + s2 + s3 =15s, Or s + ft1t + 2s = 15s, ft1t = 12 s, From (1) and (5) we get, (s/12 s )= ft12/(2 x ft1t), Or t1 = t/6, Or s= ½ ft12, s= ½ f(t/6)2, s= ft2/72. Answer: (d) s= (1/72)ft2"
+      },
+      {
+        "number": 9,
+        "question": "An automobile travelling with a speed of 60 km/h, can brake to stop within a distance of 20 m. If the car is going twice as fast, i.e., 120 km/h, the stopping distance will be",
+        "options": [
+          "A. (a) 20 m",
+          "B. (b) 40 m",
+          "C. (c) 60 m",
+          "D. (d) 80 m"
+        ],
+        "answer": "D",
+        "solution": "Let a be the retardation for both the vehicles. For automobile, v 2 = u 2 – 2as, u1 2 – 2as1 = 0, u1 2 = 2as1. Similarly for car, u2 2 = 2as2, (u2/u1)2 = s2/s1 = (120/60)2 = s2/20, S2 = 80 m. Answer: (d) 80 m"
+      },
+      {
+        "number": 10,
+        "question": "A ball is released from the top of a tower of height h metre. It takes T second to reach the ground. What is the position of the ball in T/3 second?",
+        "options": [
+          "A. (a) (h/9)metre from the ground",
+          "B. (b) (7h/9) metre from the ground",
+          "C. (c) (8h/9) metre from the ground",
+          "D. (d) (17h/18) metre from the ground"
+        ],
+        "answer": "C",
+        "solution": "Equation of motion s= ut + gt2, h = 0 + ½ gT2, Or 2h = gT2………(1), After T/3 sec, s = 0 +½ x g(T/3)2= gT2/18, 18 s = gT2 …………(2), From (1) and (2), 18 s = 2h, S = (h/9) m from top. Height from ground = h – h/9 = (8h/9) m. Answer: (c) (8h/9) metre from the ground"
+      },
+      {
+        "number": 11,
+        "question": "Which of the following statements is false for a particle moving in a circle with a constant angular speed?",
+        "options": [
+          "A. (a) The velocity vector is tangent to the circle",
+          "B. (b) The acceleration vector is tangent to the circle",
+          "C. (c) The acceleration vector points to the centre of the circle",
+          "D. (d) The velocity and acceleration vectors are perpendicular to each other"
+        ],
+        "answer": "B",
+        "solution": "Answer: (b) The acceleration vector acts along the radius of the circle. The given statement is false."
+      },
+      {
+        "number": 12,
+        "question": "From a building, two balls A and B are thrown such that A is thrown upwards and B downwards (both vertically). If vA and vB are their respective velocities on reaching the ground, then",
+        "options": [
+          "A. (a) vB > vA",
+          "B. (b) vA = vB",
+          "C. (c) vA > vB",
+          "D. (d) their velocities depend on their masses"
+        ],
+        "answer": "B",
+        "solution": "Ball A projected upwards with velocity u, falls back with velocity u downwards. It completes its journey to the ground under gravity. vA 2 = u2 + 2gh …(1), Ball B starts with downwards velocity u and reaches ground after travelling a vertical distance h vB 2 = u2 + 2gh …(2), From (1) and (2), vA = vB. Answer: (b) vA = vB"
+      },
+      {
+        "number": 13,
+        "question": "If a body loses half of its velocity on penetrating 3 cm in a wooden block, then how much will it penetrate more before coming to rest?",
+        "options": [
+          "A. (a) 1 cm",
+          "B. (b) 2 cm",
+          "C. (c) 3 cm",
+          "D. (d) 4 cm"
+        ],
+        "answer": "A",
+        "solution": "For first part of penetration, by equation of motion, (u/2)2 = u2 -2a(3), 3u2 = 24a ⇒ u2 = 8a …(1). For latter part of penetration, 0= (u/2)2 -2ax, or u2 = 8ax……………(2). From (1) and (2), 8ax = 8a x = 1 cm. Answer: (a) 1 cm"
+      },
+      {
+        "number": 14,
+        "question": "A car is standing 200 m behind a bus, which is also at rest. The two start moving at the same instant but with different forward accelerations. The bus has acceleration 2m/s2 and the car has acceleration 4m/s2. The car will catch up with the bus after a time of",
+        "options": [
+          "A. (a) 120 s",
+          "B. (b) 15 s",
+          "C. \\(\\begin{array}{l}(c) 2\\sqrt{2} s\\end{array} \\)",
+          "D. (d) 110 s"
+        ],
+        "answer": "C",
+        "solution": "Acceleration of car, aC = 4 m s–2. Acceleration of bus, aB = 2 m s–2. Initial separation between the bus and car, sCB = 200 m. Acceleration of car with respect to bus, aCB = aC – aB = 2 m s–2. Initial velocity uCB = 0, t =? As, sCB = uCB × t + 1 /2 aCB t2, 200 = 0 × t + ½× 2 × t2, i.e., t2 = 200, \\(\\begin{array}{l}t = 2\\sqrt{2}\\end{array} \\), Answer: \\(\\begin{array}{l}(c) 2\\sqrt{2}s\\end{array} \\)"
+      },
+      {
+        "number": 15,
+        "question": "From a tower of height H, a particle is thrown vertically upwards with a speed u. The time taken by the particle, to hit the ground is n times that taken by it to reach the highest point of its path. The relation between H, u and n is",
+        "options": [
+          "A. (a) gH = (n – 2)u2",
+          "B. (b) 2gH = n 2u2",
+          "C. (c) gH = (n – 2)2u2",
+          "D. (d) 2gH = nu2(n – 2)"
+        ],
+        "answer": "D",
+        "solution": "Time taken by the particle to reach the topmost point is, t =u/g … (1). Time taken by the particle to reach the ground = nt. Using, s = ut + ½ at2, -H = u(nt) – ½ g(nt)2, -H = u x n (u/g) = ½ g2(u/g)2  [using (1)], ⇒-2gH = 2nu2 – n2u2, ⇒ 2gH = nu2(n -2). Answer: (d) 2gH = nu2(n – 2)"
+      },
+      {
+        "number": 16,
+        "question": "For a tower of height H, a particle is thrown vertically upwards with a speed u. The time taken by the particle to hit the ground is n times that taken by it to reach the highest point of its path. The relation between H,u and n is",
+        "options": [
+          "A. 2gH = nu2 (n-2)",
+          "B. gH = (n-2)u2",
+          "C. 2gH = n2u2",
+          "D. gH = (n – 2)2u2"
+        ],
+        "answer": "A",
+        "solution": "Time to reach highest point = t = u/g. Time to reach ground = nt. S = ut + ½ at2, -H = u(nt) – ½ g (nt)2, 2gH = nu2 (n-2). Answer: (a) 2gH = nu2 (n-2)"
+      }
+    ]
+  }

@@ -1,0 +1,124 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "In Young’s double-slit experiment with slit separation 0.1 mm, one observes a bright fringe at angle 1/40 rad by using the light of wavelength λ1. When the light of wavelength λ2 is used a bright fringe is seen at the same angle in the same setup. Given that 1 and 2 are in the visible range (380 nm to 740 nm), their values are",
+        "options": [
+          "A. 400 nm, 500 nm",
+          "B. 625 nm, 500 nm",
+          "C. 380 nm, 525 nm",
+          "D. 380 nm, 500 nm"
+        ],
+        "answer": "B",
+        "solution": "Path difference = dsinθ = d × θ = (0.1mm)(1/40) = 2.5 x 10-3 mm = 2500 nm. For bright fringes, path difference = nλ. So, 2500 = nλ1 = mλ2. n = 4, m = 5 or λ1 = 2500/4 = 625 nm. λ2 = 2500/5 = 500 nm"
+      },
+      {
+        "number": 2,
+        "question": "In Young’s double-slit experiment, the path difference, at a certain point on the screen, between two interfering waves is (⅛)th of wavelength. The ratio of the intensity at this point to that at the centre of a bright fringe is close to",
+        "options": [
+          "A. 0.80",
+          "B. 0.94",
+          "C. 0.85",
+          "D. 0.74"
+        ],
+        "answer": "C",
+        "solution": "The phase difference between two waves is given as (Δx) x (2π/λ) = (λ/8) x (2π/λ) = π/4. So, the intensity at this point is I = I0cos2(Φ/2). I = I0cos2(π/8). I = I0 [(1+cos(π/4))/2] = = I0 [(1+(1/√2)/2] = 0.85I0"
+      },
+      {
+        "number": 3,
+        "question": "In a double-slit experiment, green light (5303 Å) falls on a double slit having a separation of 19.44 m and a width of 4.05 m. The number of bright fringes between the first and the second diffraction minima is",
+        "options": [
+          "A. 10",
+          "B. 04",
+          "C. 05",
+          "D. 09"
+        ],
+        "answer": "C",
+        "solution": "λg = 5303 Å, d = 19.44 m, a = 4.05 m. For diffraction location of first minima and second minima y1 = Dλ/a, y2 = 2Dλ/a. y2 – y1 = (2Dλ/a) – (Dλ/a) = Dλ/a. β = Dλ/d. Number of bright fringes = (y2 – y1)/β = (Dλ/a) x (d/Dλ) = d/a = 19.44/4.05 = 5"
+      },
+      {
+        "number": 4,
+        "question": "In an interference experiment the ratio of amplitudes of coherent waves is (a1/a2) = (⅓). The ratio of maximum and minimum intensities of fringes will be",
+        "options": [
+          "A. 4",
+          "B. 9",
+          "C. 2",
+          "D. 18"
+        ],
+        "answer": "A",
+        "solution": "(a1/a2) = (⅓). Imax = a1 + a2. Imin = a1 – a2. (Imax/Imin) = [(a1 + a2)2/(a1 – a2)2] = [(1 + 1/3)2/(1 – 1/3)2] = (4/2)2= 4"
+      },
+      {
+        "number": 5,
+        "question": "Calculate the limit of resolution of a telescope objective having a diameter of 200 cm, if it has to detect light of wavelength 500 nm coming from a star.",
+        "options": [
+          "A. 610 × 10–9 radian",
+          "B. 152.5 × 10–9 radian",
+          "C. 457.5 × 10–9 radian",
+          "D. 305 × 10–9 radian"
+        ],
+        "answer": "D",
+        "solution": "The limit of resolution, θΔ= 1.22λ/a = [(1.22 x 500 x10-9)/(200 x 10-2)] = 3.05 × 10–7 radian = 305 × 10–9 radian"
+      },
+      {
+        "number": 6,
+        "question": "In Young’s double-slit experiment, the ratio of the slit’s width is 4: 1. The ratio of the intensity of maxima to minima, close to the central fringe on the screen, will be",
+        "options": [
+          "A. (√3 + 1)4:16",
+          "B. 9: 1",
+          "C. 25: 9",
+          "D. 4: 1"
+        ],
+        "answer": "B",
+        "solution": "I1 = 4I0. I2 = I0. Imax = (√I1 + √I2)2 = (2√I0 + √I0)2= 9I0. Imin = (√I1 – √I2)2 = (2√I0 -√I0)2= I0. (Imax/Imin) = 9/1"
+      },
+      {
+        "number": 7,
+        "question": "In Young’s double-slit experiment, slits are separated by 0.5 mm and the screen is placed 150 cm away. A beam of light consisting of two wavelengths, 650 nm and 520 nm, is used to obtain interference fringes on the screen. The least distance from the common central maximum to the point where the bright fringes due to both the wavelengths coincide are",
+        "options": [
+          "A. 1.56 mm",
+          "B. 7.8 mm",
+          "C. 9.75 mm",
+          "D. 15.6 mm"
+        ],
+        "answer": "B",
+        "solution": "Let y be the distance from the central maximum to the point where the bright fringes due to both the wavelengths coincides. Now, for λ1, y = m λ1D/d. For λ2, y = nλ2D/d. mλ1 = nλ2. (m/n) = λ2 / λ1 = (520)/(650) =4/5 i.e. with respect to central maximum 4th bright fringe of λ1 coincides with 5th bright fringe of λ2. Now, y = (4 x 650 x 10-9 x 1.5)/(0.5 x 10-3) m = 7.8 × 10–3 m or y = 7.8 mm"
+      },
+      {
+        "number": 8,
+        "question": "A single slit of width b is illuminated by coherent monochromatic light of wavelength λ. If the second and fourth minima in the diffraction pattern at a distance 1 m from the slit are at 3 cm and 6 cm, respectively from the central maximum, what is the width of the central maximum? (i.e. the distance between the first minimum on either side of the central maximum)",
+        "options": [
+          "A. 6.0 cm",
+          "B. 1.5 cm",
+          "C. 4.5 cm",
+          "D. 3.0 cm"
+        ],
+        "answer": "B",
+        "solution": "For single slit diffraction, sin θ = nλ/b (n = 1,2,3 —-). sin θ ≈ θ ≈ tan θ. btan θ = nλ. btan θ1 = 2λ. b (y1/d) = 2λ. btan θ2 = 2λ. b (y2/d) = 2λ. (y2 – y1) b/D = 2λ. (6 – 3 )b/D = 2λ. 3b/D = 2λ. λD/b = 3/2 = 1.5 cm"
+      },
+      {
+        "number": 9,
+        "question": "Unpolarized light of intensity I0 is incident on the surface of a block of glass at Brewster’s angle. In that case, which one of the following statements is true?",
+        "options": [
+          "A. Transmitted light is partially polarized with intensity I0 /2",
+          "B. Transmitted light is completely polarized with intensity less than I0 /2",
+          "C. The reflected light is completely polarized with intensity less than I0 /2",
+          "D. The reflected light is partially polarized with intensity I0 /2"
+        ],
+        "answer": "C",
+        "solution": "At Brewster’s angle, i = tan–1(μ), the reflected light is completely polarized, whereas refracted light is partially polarized. Thus, the reflected ray will have lesser intensity compared to the refracted ray."
+      },
+      {
+        "number": 10,
+        "question": "A beam of unpolarized light of intensity I0 is passed through a polaroid A and then through another polaroid B which is oriented so that its principal plane makes an angle of 45° relative to that of A. The intensity of the emergent light is",
+        "options": [
+          "A. I0/8",
+          "B. I0",
+          "C. I0/2",
+          "D. I0/4"
+        ],
+        "answer": "D",
+        "solution": "The intensity of light after passing polaroid A is I1 = I0/2. Now this light will pass through the second polaroid B whose axis is inclined at an angle of 45° to the axis of polaroid A. So in accordance with Malus law, the intensity of light emerging from polaroid B is I2 = I1cos245 = (I0/2)(1/√2)2= I0/4"
+      }
+    ]
+  }

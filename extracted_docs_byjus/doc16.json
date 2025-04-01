@@ -1,0 +1,124 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A solid sphere of radius R acquires a terminal velocity v1 when falling (due to gravity) through a viscous fluid having a coefficient of viscosity η. The sphere is broken into 27 identical spheres. If each of these acquires a terminal velocity v2, when falling through the same fluid, the ratio (v1/v2) equals",
+        "options": [
+          "A. 9",
+          "B. 1/27",
+          "C. 1/9",
+          "D. 27"
+        ],
+        "answer": "A",
+        "solution": "27 x (4/3)πr3 = (4/3)πR3. Or r = R/3. Terminal velocity, v ∝ r3. Therefore, (v1/v2) = (R2/r2). v1/v2= [R/(R/3)]2= 9. (v1/v2) = 9. Answer: (a) 9"
+      },
+      {
+        "number": 2,
+        "question": "Spherical balls of radius R are falling in a viscous fluid of viscosity with a velocity v. The retarding viscous force acting on the spherical ball is",
+        "options": [
+          "A. directly proportional to R but inversely proportional to v",
+          "B. directly proportional to both radius R and velocity v",
+          "C. inversely proportional to both radius R and velocity v",
+          "D. inversely proportional to R but directly proportional to velocity v"
+        ],
+        "answer": "B",
+        "solution": "Retarding viscous force = 6πηRv. obviously option (b) holds goods. Answer: (b) directly proportional to both radius R and velocity v"
+      },
+      {
+        "number": 3,
+        "question": "A long cylindrical vessel is half-filled with a liquid. When the vessel is rotated about its own vertical axis, the liquid rises up near the wall. If the radius of the vessel is 5 cm and its rotational speed is 2 rotations per second, then the difference in the heights between the centre and the sides, in cm, will be",
+        "options": [
+          "A. 0.4",
+          "B. 2.0",
+          "C. 0.1",
+          "D. 1.2"
+        ],
+        "answer": "B",
+        "solution": "The linear speed of the liquid at the sides is rω. So, the difference in height is given as follows: 2gh = ω2r2. h = ω2r2/2g. here ω = 2πf. Therefore, h = [(2 x 2π)2(5 x 10-2)2]/(2×10) = 2cm. Answer: (b) 2.0"
+      },
+      {
+        "number": 4,
+        "question": "Water is flowing continuously from a tap having an internal diameter 8 × 10–3 m. The water velocity as it leaves the tap is 0.4 ms–1. The diameter of the water stream at a distance 2 × 10–1 m below the tap is close to",
+        "options": [
+          "A. 5.0 × 10–3 m",
+          "B. 7.5 × 10–3 m",
+          "C. 9.6 × 10–3 m",
+          "D. 3.6 × 10–3 m"
+        ],
+        "answer": "D",
+        "solution": "Here, d1 = 8 × 10–3 m, v1 = 0.4 m s–1, h = 0.2 m. According to equation of motion, v2=√(v12+2gh)=√((0.4)2+2+10×0.2) = 2 m s–1. According to equation of continuity a1v1 = a2v2. (πD12/4) v1 = (πD22/4) v2. D22 = (v1/v2)D12. D2 = [√(v1/v2)]D1= [√(0.4/2)]x 8 × 10–3 m. D2 = 3.6 × 10–3 m. Answer: (d) 3.6 × 10–3 m"
+      },
+      {
+        "number": 5,
+        "question": "A 20 cm long capillary tube is dipped in water. The water rises up to 8 cm. If the entire arrangement is put in a freely falling elevator the length of the water column in the capillary tube will be",
+        "options": [
+          "A. 4 cm",
+          "B. 20 cm",
+          "C. 8 cm",
+          "D. 10 cm"
+        ],
+        "answer": "B",
+        "solution": "In a freely falling elevator, g = 0 Water will rise to the full length i.e., 20 cm to tube. Answer: (b) 20 cm"
+      },
+      {
+        "number": 6,
+        "question": "A spherical solid ball of volume V is made of a material of density ρ1. It is falling through a liquid of density ρ2 (ρ2 < 1). Assume that the liquid applies a viscous force on the ball that is proportional to the square of its speed v, i.e., Fviscous = –kv2 (k > 0). The terminal speed of the ball is",
+        "options": [
+          "A. Vg(ρ1  – ρ2)",
+          "B. √(Vg(ρ1 – ρ2)/k)",
+          "C. Vgρ1/k",
+          "D. √(Vgρ1/k)"
+        ],
+        "answer": "B",
+        "solution": "The forces acting on the solid ball when it is falling through a liquid is “mg” downwards, thrust by Archimedes principle upwards and the force due to the force of friction also acting upwards. The viscous force rapidly increases with velocity, attaining a maximum when the ball reaches the terminal velocity. Then the acceleration is zero. mg – Vρ2g – kvt2 = ma where V is volume, vt is the terminal velocity. When the ball is moving with terminal velocity, a = 0. Therefore Vρ1g – Vρ2g – kvt2 = 0. v_t = √(Vg(ρ1 – ρ2)/k). Answer: (b)"
+      },
+      {
+        "number": 7,
+        "question": "Water flows into a large tank with a flat bottom at the rate of 10-4 m3s-1. Water is also leaking out of a hole of area 1 cm2 at its button. If the height of the water in the tank remains steady, then this height is",
+        "options": [
+          "A. 5 cm",
+          "B. 7 cm",
+          "C. 4 cm",
+          "D. 9 cm"
+        ],
+        "answer": "A",
+        "solution": "Since the height of the water column is constant. Water inflow rate (Qin) = Water outflow rate (Qout). Qin = 10-4 m3s-1. Qout = 10-4 x √(2gh). 10-4 = 10-4 x √20 xh. h = (1/20) m = 5 cm. Answer: (a) 5 cm"
+      },
+      {
+        "number": 8,
+        "question": "A submarine experiences a pressure of 5.05 x106 Pa at depth of d1 in a sea. When it goes further to a depth of d2, it experiences a pressure of 8.08 x 106 Pa. Then d1 – d2 is approximately (density of water = 103 ms-2 and acceleration due to gravity = 10 ms-2)",
+        "options": [
+          "A. 300 m",
+          "B. 400 m",
+          "C. 600 m",
+          "D. 500 m"
+        ],
+        "answer": "A",
+        "solution": "P1 = P0 + ρgd1. P2 = P0 + ρgd2. ΔP = P2 – P1 = ρgΔd. (8.08 x 106 – 5.05 x106) = 103 x 10 x Δd. 3.03 x 106 = 103 x 10 x Δd. Δd = 303 m ≈ 300 m. Answer: (a) 300 m"
+      },
+      {
+        "number": 9,
+        "question": "Water from a pipe is coming at a rate of 100 litres per minute. If the radius of the pipe is 5 cm, the Reynolds number for the flow is of the order (density of water = 1000 kg/m3, coefficient of viscosity of water = 1 mPa s)",
+        "options": [
+          "A. 103",
+          "B. 104",
+          "C. 102",
+          "D. 106"
+        ],
+        "answer": "B",
+        "solution": "Reynolds number = ρvd/η. Volume flow rate = v x πr2. v = (100 x 10-3/60) x (1/π x 25 x 10-4). v = (2/3π) m/s. Reynolds number = {(103 x 2 x 10 x 10-2)/(10-3 x 3π)}. ⋍ 2 x 104. Order of 104. Answer : (b) 104"
+      },
+      {
+        "number": 10,
+        "question": "The top of a water tank is open to the air and its water level is maintained. It is giving out 0.74 m3 water per minute through a circular opening of 2 cm radius in its wall. The depth of the centre of the opening from the level of water in the tank is close to",
+        "options": [
+          "A. 6.0 m",
+          "B. 4.8 m",
+          "C. 9.6 m",
+          "D. 2.9 m"
+        ],
+        "answer": "B",
+        "solution": "Here, volumetric flow rate = (0.74/60) = πr2v = (π x 4 x 10-4) x √2gh. ⇒ √2gh =[ (74 x 100)/240π)]. ⇒ √2gh= 740/24π. 2gh = (740/24π)2. h = [(740 x 740)/24 x 24 x 10)] (since π2 =10). h ≈ 4.8 m. Answer: (b) 4.8 m"
+      }
+    ]
+  }

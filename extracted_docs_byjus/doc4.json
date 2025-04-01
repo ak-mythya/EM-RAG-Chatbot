@@ -1,0 +1,172 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "Two-point masses of 0.3kg and 0.7kg are fixed at the ends of a rod which is of length 1.4m and of negligible mass. The rod is set rotating about an axis perpendicular to its length with a uniform angular speed. The point on the rod through which the axis should pass in order that the work required for rotation of the rod is minimum is located at a distance of",
+        "options": [
+          "A. 0.42 m from the mass of 0.3kg",
+          "B. 0.70 m from the mass of 0.7kg",
+          "C. 0.98m from the mass of 0.3kg",
+          "D. 0.98m from the mass of 0.7kg"
+        ],
+        "answer": "C",
+        "solution": "The moment of inertia of the system about the axis of rotation O is I = I1 + I2 = (0.3)x^2 + 0.7 (1.4 -x)^2. I = 0.3x^2+ 0.7(1.96 + x^2– 2.8 x) = 0.3x^2+ 1.372 + 0.7x^2– 1.96 x = x^2 + 1.372 – 1.96x. The work done in rotating the rod is converted into its rotational kinetic energy. W = ½ Iω^2 = ½[x^2 + 1.372 – 1.96x]ω^2. For the work done to be minimum dW/dx = 0 ⇒2x – 1.96 =0. x = 1.96/2 = 0.98m. Therefore, the correct answer is 0.98m from the mass of 0.3kg."
+      },
+      {
+        "number": 2,
+        "question": "A particle undergoes uniform circular motion. About which point on the plane of the circle, will the angular momentum of the particle remain conserved?",
+        "options": [
+          "A. centre of the circle",
+          "B. on the circumference of the circle",
+          "C. inside the circle",
+          "D. outside the circle"
+        ],
+        "answer": "A",
+        "solution": "The force will pass through the centre of the circle. Therefore, the angular momentum will remain conserved at the centre of the circle."
+      },
+      {
+        "number": 3,
+        "question": "A child is standing with folded hands at the centre of a platform rotating about its central axis. The kinetic energy of the system is K. The child now stretches his arms so that the moment of inertia of the system doubles. The kinetic energy of the system now is",
+        "options": [
+          "A. 2K",
+          "B. K/2",
+          "C. K/4",
+          "D. 4K"
+        ],
+        "answer": "B",
+        "solution": "According to the conservation of angular momentum, Iω0 = I1ω1. So we have I1 =2I, ω1 = ω0 /2. Initial kinetic energy =Iω0^2/2 =K. Final Kinetic energy = I1ω1^2/2 = 2I(ω0/2)^2/2 =K/2."
+      },
+      {
+        "number": 4,
+        "question": "A particle is confined to rotate in a circular path with decreasing linear speed. Then which of the following is correct?",
+        "options": [
+          "A. angular momentum is conserved about the centre",
+          "B. only the direction of L is conserved",
+          "C. it spirals towards the centre",
+          "D. its acceleration is towards the centre"
+        ],
+        "answer": "B",
+        "solution": "L is not conserved in magnitude since v is changing (decreasing). It is given that a particle is confined to rotate in a circular path, it cannot have a spiral path. Since the particle has two accelerations ac and at therefore the net acceleration is not towards the centre. The direction of L remains the same even when the speed decreases."
+      },
+      {
+        "number": 5,
+        "question": "A bob of mass M is suspended by a massless string of length L. The horizontal velocity V at position A is just sufficient to make it reach point B. The angle θ at which the speed of the bob is half of that at A satisfies",
+        "options": [
+          "A. θ= π/2",
+          "B. π/4 < θ < π/2",
+          "C. π/2 < θ < 3π/4",
+          "D. 3π/2 < θ < π"
+        ],
+        "answer": "D",
+        "solution": "This is the case of vertical motion when the body just completes the circle. Here v = √(5gL). Applying energy conservation, ½ mv0^2 = ½ mv^2 + mgl(1-cosθ)———-(1), where v0 is the horizontal velocity at the bottom point, v is the velocity of bob where the bob inclined θ with vertical. Also, we know the relation between the velocity at the topmost and velocity at the bottom point. mg(2l) =½ mv0^2 -1/2mvtop^2———-(2). Since v0 is just sufficient mvtop^2/l = T + mg, T = 0, v_top=√(gl). Then equation 2 becomes v_0=√(5gl). According to the question v= v0/2. So from equation (1), ½ m(5gl) = ½ m (5gl/4) + mgl(1-cosθ), (20mgl – 5mgl)/8 = mgl(1-cosθ), (1-cosθ) = 15/8, Cosθ = ⅞. Hence, 3π/2 < θ < π"
+      },
+      {
+        "number": 6,
+        "question": "A ball of mass (m) 0.5 kg is attached to the end of a string having a length (L) 0.5 m. The ball is rotated on a horizontal circular path about a vertical axis. The maximum tension that the string can bear is 324 N. The maximum possible value of the angular velocity of ball (in radian/s) is",
+        "options": [
+          "A. (a) 9",
+          "B. (b).18",
+          "C. (c) 27",
+          "D. (d) 36"
+        ],
+        "answer": "D",
+        "solution": "mω^2Lsinθcosθ = mgsinθ. Cos θ = g/ω^2L. Sin θ = 1/ω^2L. sinθ = (1/ω^2L)√(ω^2L)^2-g^2. T=mgcosθ+ mω^2Lsin^2θ. T = mg(g/ω^2L) + (mω^2/ω^2L)^2((ω^2L)^2 -g^2). T = mg/ω^2L[g^2 + (ω^2L)^2 – g^2]. T = mω^2L = 324 (given). ω = √(324/(0.5x0.5)). ω = 36 rad/s"
+      },
+      {
+        "number": 7,
+        "question": "A thin ring of mass 2 kg and radius 0.5 m is rolling without slipping on a horizontal plane with velocity 1 m/s. A small ball of mass 0.1 kg, moving velocity 20 m/s in the opposite direction hits the ring at a height of 0.75 m and goes vertically up with velocity 10 m/s. Immediately after the collision.",
+        "options": [
+          "A. (a) The ring has pure rotation about its stationary CM",
+          "B. (b) The ring comes to a complete stop",
+          "C. (c) Friction between the ring and the ground is to the left",
+          "D. (d) There is no friction between the ring and the ground"
+        ],
+        "answer": "A",
+        "solution": "Let’s assume that friction between the ground and the ring gives no impulse during the collision with the ball. Using conservation of momentum along the x-axis we get that the CM of the ring will come to rest. Thus option A is correct. Secondly, the question tells us that the ball gets a velocity in the vertical direction, hence there must be an impulse in the vertical direction. There will be horizontal and a vertical impulse on the ring at the point of contact. These will have components along the tangent of the ring, which will provide angular impulses. Using angular impulse = change in angular momentum, we get =2cos300(1/2) -1sin300(1/2)=2(¼)(ω2 – ω1), note that we have assumed that the direction of angular velocities is the same before and after and since LHS of the above equation is positive  ω2 > ω1 so the ring must be slipping to right and hence the friction will be to the left as it will be opposite to the direction of motion. Thus option C is correct"
+      },
+      {
+        "number": 8,
+        "question": "A carpet of mass M, made of inextensible material is rolled along its length in the form of a cylinder of radius R and is kept on the rough floor. The carpet starts unrolling without sliding on the floor when a negligibly small push is given to it. Calculate the horizontal velocity of the axis of the cylindrical part of the carpet when its radius reduces to R/2.",
+        "options": [
+          "A. (a) √(14/3 * gR)",
+          "B. (b) √(7/3 * gR)",
+          "C. (c) √(2gR)",
+          "D. (d) √(gR)"
+        ],
+        "answer": "A",
+        "solution": "The radius is reduced to R/2, the mass of the rolled carpet = (M/πR^2l) × (R/2)^2l = M/4. Release of potential energy = MgR- (M/4)gR/2 = ⅞MgR. The kinetic energy at this instant is given by = ½ Mv^2 + ½Iω^2 = ½ (M/4)v^2 + ½(MR^2/32)(2v/R)^2 = (3/16)Mv^2. (3/16)Mv^2 = ⅞MgR. v = √(14/3 * gR)"
+      },
+      {
+        "number": 9,
+        "question": "A bob of mass m attached to an inextensible string of length is suspended from a vertical support. The bob rotates in a horizontal circle with an angular speed ω rad/s about the vertical. About the point of suspension",
+        "options": [
+          "A. (a) Angular momentum changes in direction but not in magnitude",
+          "B. (b) Angular momentum changes both in direction and magnitude",
+          "C. (c) Angular momentum is conserved",
+          "D. (d) Angular momentum changes in magnitude but not in direction."
+        ],
+        "answer": "A",
+        "solution": "Angular momentum changes in direction but not in magnitude"
+      },
+      {
+        "number": 10,
+        "question": "A roller is made by joining together two cones at their vertices O. It is kept on two rails AB and CD which are placed asymmetrically (see figure), with its axis perpendicular to CD and its centre O at the centre of the line joining AB and CD (see figure). It is given a light push so that it starts rolling with its centre O moving parallel to CD in the direction shown. As it moves, the roller will tend to",
+        "options": [
+          "A. (a) turn left and right alternately",
+          "B. (b) turn left",
+          "C. (c) turn right",
+          "D. (d) go straight"
+        ],
+        "answer": "B",
+        "solution": "As the cone moves forward, the line of contact in the left half tends to slip in the forward direction. As a result the radius at the left in contact decreases. The roller will move to the left."
+      },
+      {
+        "number": 11,
+        "question": "The moment of inertia of a uniform cylinder of length and radius R about its perpendicular bisector is I. What is the ratio l/R such that the moment of inertia is minimum?",
+        "options": [
+          "A. (a) 1",
+          "B. (b) 3√2",
+          "C. (c) √3/2",
+          "D. (d) √(3/2)"
+        ],
+        "answer": "D",
+        "solution": "Moment of Inertia I = m [I^2/12 + R^2/4]. Volume = πR^2l. Writing Moment of inertia in terms of volume, we get I = m/4(V/πl + I^2/3). Differentiating the above equation we get dI/dl = m/4 (-V/πl^2 + 2I/3). For maxima and minima, dI/dl = 0. So m/4 (-V/πl^2 + 2I/3) = 0. V/πl^2 = 2I/3. R^2/l = 2I/3 (Volume = πR^2l). l^2/R^2 = 3/2. l/R = √(3/2)"
+      },
+      {
+        "number": 12,
+        "question": "From a uniform circular disc of radius R and mass 9M, a small disc of radius R/3 is removed as shown in the figure. The moment of inertia of the remaining disc about an axis perpendicular to the plane of the disc and passing through the centre of the disc is",
+        "options": [
+          "A. (a) (40/9)MR^2",
+          "B. (b) 10MR^2",
+          "C. (c) (37/9)MR^2",
+          "D. (d) 4MR^2"
+        ],
+        "answer": "A",
+        "solution": "Mass of the disc given = 9M. Mass of the removed portion = M. The moment of inertia of the complete disc about an axis passing through its centre O and perpendicular to its plane is I1= 9/2 MR^2. The moment of inertia of the disc with portions removed I2 = ½M(R/3)^2 = (1/18)MR^2. The moment of inertia of the remaining portion of the disc about O is I = I1 – I2. I = 9(MR^2/2) – MR^2/18. I = 40 MR^2/9"
+      },
+      {
+        "number": 13,
+        "question": "Seven identical circular planar disks, each of mass M and radius R are welded symmetrically as shown. The moment of inertia of the arrangement about the axis normal to the plane and passing through the point P is",
+        "options": [
+          "A. (a) (55/2)MR^2",
+          "B. (b) (73/2)MR^2",
+          "C. (c) (181/2)MR^2",
+          "D. (d) (19/2)MR^2"
+        ],
+        "answer": "C",
+        "solution": "I0 = Icm + md^2. I0 = (7MR^2/2) + 6(M x (2R)^2) = 55MR^2/2. Ip = I0 + md^2. Ip = 55MR^2/2 + 7M(3R)^2 = (181/2)MR^2"
+      },
+      {
+        "number": 14,
+        "question": "A pulley of radius 2 m is rotated about its axis by a force F =20t-5t^2 newton (where t is measured in seconds) applied tangentially. If the moment of inertia of the pulley about its axis of rotation is 10 kgm^2, the number of rotations made by the pulley before its direction of motion it reversed, is",
+        "options": [
+          "A. (a) more than 6 but less than 9",
+          "B. (b) more than 9",
+          "C. (c) less than 3",
+          "D. (d) more than 3 but less than 6"
+        ],
+        "answer": "D",
+        "solution": "Torque is given by τ = FR. Or α = FR/I. Given F =20t – 5t^2, R = 2m, I = 10 kgm^2, α = [(20t – 5t^2) x 2]/10, α = 4t – t^2, ω = ∫(0 to t) α dt=2t^2 – t^3/3, at ω = 0 ⇒ 2t^2 -t^3/3 = 0, t^3 = 6t^2, t = 6, θ = ∫(0 to 6) ω dt= ∫(0 to 6)(2t^2-t^3/3)dt, θ = 36/2π <6"
+      }
+    ]
+  }

@@ -1,0 +1,183 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A wave y = a sin(ωt – kx) on a string meets with another wave producing a node at x = 0. Then the equation of the unknown wave is",
+        "options": [
+          "(a) y = asin(ωt + kx)",
+          "(b) y = –asin(ωt + kx)",
+          "(c) y = asin(ωt – kx)"
+        ],
+        "answer": "B",
+        "solution": "Consider option (a): Stationary wave: Y = asin(ωt + kx) + asin(ωt – kx), when, x = 0, Y is not zero. The option is not acceptable. Consider option (b): Stationary wave: Y = asin(ωt – kx) – asin(ωt + kx) At x = 0, Y = a sinωt – asinωt = zero. This option holds good. Option (c) gives Y = asin(ωt – kx)+ asin(ωt – kx), Y = 2asinωt  (At x = 0, Y is not zero). Hence only option (b) holds good. Answer: (b) y = –asin(ωt + kx)"
+      },
+      {
+        "number": 2,
+        "question": "The displacement y of a wave travelling in the x-direction is given by y = 10-4sin(600t – 2x+ π/3) metre, where x is expressed in metre and t in second. The speed of the wave-motion, in m s–1 is",
+        "options": [
+          "(a) 300",
+          "(b) 600",
+          "(c) 1200",
+          "(d) 200"
+        ],
+        "answer": "A",
+        "solution": "Given wave equation: y= 10-4 sin (600t – 2x + π/3)m. Standard wave equation: y = asin(ωt – kx + Φ). Compare them. Angular speed, ω = 600 sec-1. Propagation constant, k = 2m-1. ω/k = (2πf)/(2π/λ) = fλ = velocity. Since velocity = ω/k = 600/2 = 300 m/sec. Answer: (a) 300"
+      },
+      {
+        "number": 3,
+        "question": "A string is stretched between fixed points separated by 75 cm. It is observed to have resonant frequencies of 420 Hz and 315 Hz. There are no other resonant frequencies between these two. Then, the lowest resonant frequency for this string is",
+        "options": [
+          "(a) 10.5 Hz",
+          "(b) 105 Hz",
+          "(c) 1.05 Hz",
+          "(d) 1050 Hz."
+        ],
+        "answer": "B",
+        "solution": "For the string fixed at both the ends, resonant frequency are given by f = nv/2L, where symbols have their usual meanings. lt is given that 315 Hz and 420 Hz are two consecutive resonant frequencies, let these be nth and (n + 1)the harmonics. 315 = nv/2L———(1), 420 = (n+1)v/2L —(2). Dividing equation (1) by equation (2) we get n = 3. From equation (1), lowest resonant frequency f0 = v/2L = 315/3 = 105 Hz. Answer: (b) 105 Hz"
+      },
+      {
+        "number": 4,
+        "question": "The transverse displacement y(x,t) of a wave on a string is given by y(x,t)=e^{-(ax^{2}+bt^{2}+2\\sqrt{ab}xt)}. This represents a",
+        "options": [
+          "(a) wave moving in +x-direction with speed √(a/b)",
+          "(b) wave moving in –x-direction with speed √(b/a)",
+          "(c) standing wave of frequency √b",
+          "(d) standing wave of frequency 1/√b"
+        ],
+        "answer": "B",
+        "solution": "Given the equation y(x,t)=e^{-(ax^{2}+bt^{2}+2\\sqrt{ab}xt)}…..(1), y(x,t)=e^{-(\\sqrt{a}x+\\sqrt{b}t)^{2}}. Comparing equation (1) with standard equation y(x, t) = f (ax + bt). As there is a positive sign between x and t terms, hence wave travel in –x direction. Wave speed= Coefficient of t/Coefficient of x = √(b/a). Answer: (b) wave moving in –x-direction with speed √(b/a)"
+      },
+      {
+        "number": 5,
+        "question": "The equation of a wave on a string of linear mass density 0.04 kg m–1 is given by y=0.02(m)sin2\\pi \\left ( \\frac{t}{0.04(s)}-\\frac{x}{0.50(m)} \\right ). The tension in the string is",
+        "options": [
+          "(a) 6.25 N",
+          "(b) 4.0 N",
+          "(c) 12.5 N",
+          "(d) 0.5 N"
+        ],
+        "answer": "A",
+        "solution": "Here, linear mass density μ = 0.04 kg m–1. The given equation of a wave is y = 0.02(m)sin[ 2π ( t/0.04-x/0.50 ) ]. Compare it with the standard wave equation y = Asin(ωt – kx), we get, ω=2π/0.04 rad s-1, k =2π/0.5 rad m-1. Wave velocity, v = ω/k= (2π/ 0.04)/(2π/ 0.5) ms-1 …..(1). Also, v = √(T/μ)…..(2). Here, T is the tension in the string and μ is the linear mass density. Equating equations (1) and (2), we get ω/k= √(T/μ). T = μω2/k2. T = [ 0.04 x (2π/0.04)2] /(2π/0.5)2= 6.25 N. Answer: (a) 6.25 N"
+      },
+      {
+        "number": 6,
+        "question": "A wave travelling along the x-axis is described by the equation y(x, t) = 0.005 cos(αx –β t). If the wavelength and the time period of the wave are 0.08 m and 2.0 s, respectively, then α and β in appropriate units are",
+        "options": [
+          "(a) α = 12.50π, β = π/2.0",
+          "(b) α = 25.00π, β = π",
+          "(c) α = 0.08/π, β = 2.0/π",
+          "(d) α = 0.04/π, β =1.0/π"
+        ],
+        "answer": "B",
+        "solution": "The wave travelling along the x-axis is given by y(x,t) = 0.005 cos(αx – βt). Therefore,α = k = 2π/λ As λ = 0.08 m, α = 2π/0.08 = π/0.04 ⇒ α = (π/4 ) x 100 = 25.00π, ω = β ⇒2π/2 =π. ∴ α = 25.00π, β = π. Answer: (b) α = 25.00π, β = π"
+      },
+      {
+        "number": 7,
+        "question": "A uniform string of length 20 m is suspended from a rigid support. A short wave pulse is introduced at its lowest end. It starts moving up the string. The time taken to reach the support is (take g = 10 m s–2)",
+        "options": [
+          "(a) 5π √5s",
+          "(b) 2s",
+          "(c) 2√2s",
+          "(d) √5"
+        ],
+        "answer": "C",
+        "solution": "A uniform string of length 20 m is suspended from a rigid support. As μ is mass per unit length of the rope, then μ =m/L. As v = √(T/μ), dx/dt= √(mgx/L)/(m/L) = √g√x, dx/√x= √gdt. Integrating, on both sides, we get ∫0Lx-1/2dx = √g∫0Ldt, t = 2√L/√g = 2 × √(20/10)=2√2s. Answer: (c) 2√2 s"
+      },
+      {
+        "number": 8,
+        "question": "A sonometer wire of length 1.5 m is made of steel. The tension in it produces an elastic strain of 1%. What is the fundamental frequency of steel if the density and elasticity of steel are 7.7 × 103 kg/m3 and 2.2 × 1011 N/m2 respectively?",
+        "options": [
+          "(a) 770 Hz",
+          "(b) 188.5 Hz",
+          "(c) 178.2 Hz",
+          "(d) 200.5"
+        ],
+        "answer": "C",
+        "solution": "Frequency ,f = v/2l =1/2l√(T/μ) =1/2l√(T/Ad), Where, T is tension in the wire and μ is the mass per unit length of wire. Also, Young’s modulus, Y = Tl/AΔl, T/A = YΔl/l. Substituting this value in frequency expression, we get f = 1/2l√(yΔl/ld). Given, l = 1.5 m, Δl/l = 0.01, d= 7.7 x 103 kg/m3, Y= 2.2 x 1011 N/m2. Substituting these values we have f = 1/2l√(2.2 × 1011× 0.01/7.7× 103), f = 178.2 Hz. Answer: (c) 178.2 Hz"
+      },
+      {
+        "number": 9,
+        "question": "Two sitar strings, A and B, playing the note ‘Dha’ are slightly out of tune and produce beats of frequency 5 Hz. The tension of the string B is slightly increased and the beat frequency is found to decrease by 3 Hz. If the frequency of A is 425 Hz, the original frequency of B is",
+        "options": [
+          "(a) 428 Hz",
+          "(b) 430 Hz",
+          "(c) 420 Hz",
+          "(d) 422 Hz"
+        ],
+        "answer": "C",
+        "solution": "Frequency of sitar string B is either 420 Hz or 430 Hz. As tension in string B is increased, its frequency will increase. If the frequency is 430 Hz, the beat frequency will increase. If the frequency is 420 Hz, the beat frequency will decrease, hence the correct answer is 420 Hz. Answer: (c) 420 Hz"
+      },
+      {
+        "number": 10,
+        "question": "A standing wave is formed by the superposition of two waves travelling in opposite directions. The transverse displacement is given by y(x,t)= 0.5sin[(5π/4)x]cos(200πt). What is the speed of the travelling wave moving in the positive x-direction? (x and t are in meter and second, respectively)",
+        "options": [
+          "(a) 180 m/s",
+          "(b) 160 m/s",
+          "(c) 120 m/s",
+          "(d) 90 m/s"
+        ],
+        "answer": "B",
+        "solution": "Given y(x,t)= 0.5sin[(5π/4)x]cos(200πt). Comparing this equation with standard equation of standing wave, y(x, t) = 2a sin kx cosωt, we get, k = 5π/4 rad/m, ω = 200 rad/s. Speed of the travelling wave, v = ω/k = 200π/(5π/4) = 160 m/s. Answer: (b) 160 m/s"
+      },
+      {
+        "number": 11,
+        "question": "Length of a string tied to two rigid supports is 40 cm. Maximum length (wavelength in cm) of a stationary wave produced on it is",
+        "options": [
+          "(a) 20",
+          "(b) 80",
+          "(c) 40",
+          "(d) 120"
+        ],
+        "answer": "B",
+        "solution": "λmax/2 = 40 ⇒ λmax = 80 cm. Answer: (b) 80"
+      },
+      {
+        "number": 12,
+        "question": "Statement-1:Two longitudinal waves given by equations y1(x,t)=2asin(ωt – kx) and y2(x,t)=2asin(2ωt – 2kx) will have equal intensity. Statement-2: Intensity of waves of given frequency in the same medium is proportional to square of amplitude only.",
+        "options": [
+          "(a) Statement-1 is false, statement-2 is true",
+          "(b) Statement-1 is true, statement-2 is false",
+          "(c) Statement-1 is true, statement-2 true; statement-2 is the correct explanation of statement-1",
+          "(d) Statement-1 is true, statement-2 is true; statement -2 is not correct explanation of statement-1"
+        ],
+        "answer": "B",
+        "solution": "y1(x,t) = 2asin(ωt – kx), y2(x,t) = 2asin(2ωt – 2kx). But Intensity, I = ½(ρω2A2v). Here, ρ = density of the medium, A= amplitude, v = velocity of the wave. Intensity depends upon amplitude, frequency and velocity of the wave. Also, I1 = I2. Answer: (b) Statement-1 is true, statement-2 is false"
+      },
+      {
+        "number": 13,
+        "question": "A pipe open at both ends has a fundamental frequency ‘f’ in air. The pipe is dipped vertically in water so that half of it is in water. The fundamental frequency of the air column is now",
+        "options": [
+          "(a) f",
+          "(b) f/2",
+          "(c) 3f/4",
+          "(d) 2f"
+        ],
+        "answer": "A",
+        "solution": "When the pipe is open at both ends, λ/2 = l, λ = 2l, v = fλ, f = v/λ = v/2l ———-(1). When the pipe is dipped vertically in the water so that half of the pipe is in water, λ/4 = l/2, λ = 2l ⇒v = f’λ, f’ = v/λ = v/2l =f——-(2). Thus, the fundamental frequency of the air column is now, f = f’. Answer: (a) f"
+      },
+      {
+        "number": 14,
+        "question": "A string of length 1 m and mass 5g is fixed at both ends. The tension in the string is 8.0 N. The string is set into vibration using an external vibrator of frequency 100 Hz. The separation between successive nodes on the string is close to",
+        "options": [
+          "(a) 10 cm",
+          "(b) 33.3 cm",
+          "(c) 16.6 cm",
+          "(d) 20.0 cm"
+        ],
+        "answer": "D",
+        "solution": "Velocity of the wave on the string v=√(t/μ) =√(8/5× 1000), v = 40 m/s. Here, T = tension and μ = mass/length. Wavelength of the wave λ = v/n = 40/100. Separation between successive nodes, λ/2 = 40/(2x 100) = 20 cm. Answer: (d) 20.0 cm"
+      },
+      {
+        "number": 15,
+        "question": "Equation of a travelling wave on a stretched string of linear density 5g/m is y=0.03sin(450t – 9x) where distance and time are measured in SI units. The tension in the string is",
+        "options": [
+          "(a) 10 N",
+          "(b) 7.5 N",
+          "(c) 12.5 N",
+          "(d) 5 N"
+        ],
+        "answer": "C",
+        "solution": "We have given, y = 0.03sin(450t – 9x). Comparing it with standard equation of wave, we get ω = 450  k=9. v = ω/k = 450/9 = 50m/s. Velocity of the travelling wave on a string is given by v = √(t/μ), 50 = √(T/50 × 10^{-3}). μ = linear mass density. T = 2500 x 5 x 10-3, T = 12.5 N. Answer:(c) 12.5 N"
+      }
+    ]
+  }

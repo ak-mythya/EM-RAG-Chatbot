@@ -34,10 +34,14 @@ class QueryClassifier:
             [f"{msg['role']}: {msg['content']}" for msg in raw_history]
         )
 
+        logging.info("[QueryClassifier] Loaded chat history.")
+
         # Update the state with the loaded chat history
         state.setdefault("keys", {})["chat_history"] = chat_history
 
         question = state.get("keys", {}).get("question", "").strip()
+
+        logging.info(f"[QueryClassifier] Classifying user query - {question}.")
 
         if not question:
             logging.error("Empty user query in classification; defaulting to 'discussion'.")
@@ -68,7 +72,7 @@ class QueryClassifier:
             json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
             if json_match:
                 json_str = json_match.group()
-                print(f"Classification JSON str: {json_str}")
+                logging.info(f"[QueryClassifier] Classification JSON: {json_str}")
                 try:
                     result = json.loads(json_str)
                 except json.decoder.JSONDecodeError as e:
@@ -86,5 +90,5 @@ class QueryClassifier:
             query_type = "knowledge"
 
         state.setdefault("keys", {})["query_type"] = query_type
-        logging.info(f"Query classified as: {query_type}")
+        logging.info(f"[QueryClassifier] Query classified as: {query_type}")
         return state

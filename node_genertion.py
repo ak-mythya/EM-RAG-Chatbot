@@ -21,8 +21,7 @@ class Generation:
         self.chat_history_manager = ChatHistoryManager()
 
     def run(self, state: dict) -> dict:
-        logging.info("Running generation node.")
-        
+        logging.info("[Generation] Running generation node.")
         session_id = state.get("keys", {}).get("session_id", "")
         if not session_id:
             logging.error("No session ID provided.")
@@ -53,6 +52,7 @@ class Generation:
         try:
             with open(prompt_file, "r", encoding="utf-8") as f:
                 prompt_template = f.read()
+                logging.info(f"[Generation] Loaded prompt template from {prompt_file}")
         except Exception as e:
             logging.error(f"Error reading prompt template: {e}")
             prompt_template = ""
@@ -69,6 +69,7 @@ class Generation:
             user_query=question
         )
         # print(f"Generation prompt:\n{prompt_str}")
+        logging.info(f"[Generation] Built generation prompt: {prompt_str}")
 
         try:
             # result = llama_llm.invoke([SystemMessage(content=prompt_str)])
@@ -77,8 +78,9 @@ class Generation:
             )
             # print(response)
             generation_output = response.text
+            logging.info("[Generation] Received generation output.")
         except Exception as e:
-            logging.error(f"Error during generation: {e}")
+            logging.error(f"[Generation] Error during generation: {e}")
             generation_output = "Error generating answer."
 
         state.setdefault("keys", {})["generated_answer"] = generation_output

@@ -1,0 +1,119 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A student measured the length of a rod and wrote it as 3.50 cm. Which instrument did he use to measure it?",
+        "options": [
+          "A. A screw gauge having 100 divisions in the circular scale and pitch as 1 mm",
+          "B. A screw gauge having 50 divisions in the circular scale and pitch as 1 mm",
+          "C. A meter scale",
+          "D. A vernier calliper where the 10 divisions in vernier scale match with 9 division in the main scale and main scale have 10 divisions in 1 cm"
+        ],
+        "answer": "D",
+        "solution": "The measured distance by the student is 3.50 cm which means the least count of the measurement done is 0.01 cm. The least count of a vernier calliper which has 10 divisions in 1cm on the main scale and 10 divisions in vernier scale match with 9 division in the main scale can be given as 1 cm/(10 x 10) = 0.01 cm. Therefore, the student must have used the vernier calliper for the measurement"
+      },
+      {
+        "number": 2,
+        "question": "In an experiment, the angles are required to be measured using an instrument. 29 divisions of the main scale exactly coincide with the 30 divisions of the vernier scale. If the smallest division of the main scale is half-a-degree(= 0.50), then the least count of the instrument is",
+        "options": [
+          "A. One degree",
+          "B. Half degree",
+          "C. One minute",
+          "D. Half minute"
+        ],
+        "answer": "C",
+        "solution": "30 divisions of the vernier scale coincide with 29 divisions of the main scale. Therefore, 1 V.S.D = (29/30) M.S.D. Least Count = 1 MSD – 1 VSD = 1 MSD – (29/30)MSD = (1/30)MSD = (1/30) (0.50) = (1/30) x 30 min = 1 min"
+      },
+      {
+        "number": 3,
+        "question": "A screw gauge gives the following reading when used to measure the diameter of a wire. Main scale reading : 0 mm Circular scale reading: 52 divisions Given that 1 mm on the main scale corresponds to 100 divisions of the circular scale The diameter of the wire from the above date is",
+        "options": [
+          "A. 0.026 cm",
+          "B. 0.005 cm",
+          "C. 0.52 cm",
+          "D. 0.052 cm"
+        ],
+        "answer": "D",
+        "solution": "Here, the pitch of the screw gauge, p =1 mm. Number of circular divisions, n=100. Thus, least count LC=p/n=1/100=0.01 mm=0.001 cm. Diameter of the wire =MSR+(CSR×LC)=0+(52×0.001cm)=0.052 cm"
+      },
+      {
+        "number": 4,
+        "question": "The density of a material in the shape of a cube is determined by measuring three sides of the cube and its mass. If the relative errors in measuring the mass and length are respectively 1.5% and 1%, the maximum error in determining the density is",
+        "options": [
+          "A. 3.5 %",
+          "B. 4.5 %",
+          "C. 6 %",
+          "D. 2.5 %"
+        ],
+        "answer": "B",
+        "solution": "Density ρ = m/V = m/l3. The maximum percentage error in density (Δρ/ρ) x 100 = (Δm/m) x 100 x 3(Δl/l) x 100 ⇒(Δρ/ρ) x 100 = 1.5 + 3 x 1 = 4.5%"
+      },
+      {
+        "number": 5,
+        "question": "Resistance of a given wire is obtained by measuring the current flowing in it and the voltage difference applied across it. If the percentage errors in the measurement of the current and the voltage difference are 3% each, then the error in the value of resistance of the wire is",
+        "options": [
+          "A. 3%",
+          "B. 6%",
+          "C. zero",
+          "D. 1%"
+        ],
+        "answer": "B",
+        "solution": "R=V/I. (ΔR/R)×100=(ΔV/V) ×100+(ΔI/I)×100=3+3=6%"
+      },
+      {
+        "number": 6,
+        "question": "The density of a solid ball is to be determined in an experiment. The diameter of the ball is measured with a screw gauge, whose pitch is 0.5 mm and there are 50 divisions on the circular scale. The reading on the main scale is 2.5 mm and that on the circular scale is 20 divisions. If the measured mass of the ball has a relative error of 2%, the relative percentage error in the density is",
+        "options": [
+          "A. 0.9%",
+          "B. 2.4%",
+          "C. 3.1%",
+          "D. 4.2%"
+        ],
+        "answer": "C",
+        "solution": "Least count = (pitch/number of division on circular scale)= (0.5/50) = 0.01 mm. Diameter of solid ball =2.5 + (0.5/50) x 20 = 2.7 mm. As density ρ = mass/volume = M/[(4π/3)(D/2)3]. The relative percentage error in density is (Δρ/ρ) x 100 = {(ΔM/M) + (3ΔD/D)} x 100. Percentage of error = {(ΔM/M) + (3ΔD/D)} x 100 x 100 =(2 + 3 X (0.01/2.7) x 100) = 3.1%"
+      },
+      {
+        "number": 7,
+        "question": "Which of the following sets have different dimensions?",
+        "options": [
+          "A. Pressure, Young’s modulus, stress",
+          "B. Emf, potential difference, electric potential",
+          "C. Heat, work done, energy",
+          "D. Dipole moment, electric flux, electric field"
+        ],
+        "answer": "D",
+        "solution": "Dipole moment = charge x distance = [LTI]. Electric flux = electric field x area = [ML3T-3I-1]. Electric field = [ML1T-3I-1]. ∴ Dipole moment, electric flux and electric field have different dimensions"
+      },
+      {
+        "number": 8,
+        "question": "Planck’s constant has dimensions……………",
+        "options": [],
+        "answer": "",
+        "solution": "h = Planck’s constant. h = Energy(E)/Frequency(f) = [ML2T-2 ]/ [T-1] = [ML2T-1]"
+      },
+      {
+        "number": 9,
+        "question": "The least count of the main scale of a screw gauge is 1mm. The minimum number of divisions on its circular scale required to measure 5 μm diameter of a wire is",
+        "options": [
+          "A. 50",
+          "B. 200",
+          "C. 100",
+          "D. 500"
+        ],
+        "answer": "B",
+        "solution": "Least count of the main scale of screw gauge = 1mm. Least count of screw gauge = Pitch/Number of division on the circular scale. 5 x 10-6 = 10-3/N. N = 200"
+      },
+      {
+        "number": 10,
+        "question": "A copper wire is stretched to make it 0.5% longer. The percentage change in its electrical resistance if its volume remains unchanged is",
+        "options": [
+          "A. 50",
+          "B. 200",
+          "C. 100",
+          "D. 500"
+        ],
+        "answer": "C",
+        "solution": "Resistance,R = ρl/A. R = (ρl/A) x (l/l) = (ρl2/v) = (∵ Volume (V) = Al). Since resistivity and volume remains constant therefore percentage change in resistance ΔR/R = (2Δl/l) = 2 x (0.5) = 1%"
+      }
+    ]
+  }

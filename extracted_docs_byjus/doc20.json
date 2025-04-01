@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A paramagnetic material has 1028 atoms/m3. It’s magnetic susceptibility at temperature 350 K is 2.8 × 10–4. Its susceptibility at 300 K is",
+        "options": [
+          "A. 3.267 × 10–4",
+          "B. 3.672 × 10–4",
+          "C. 2.672 × 10–4",
+          "D. 3.726 × 10–4"
+        ],
+        "answer": "A",
+        "solution": "For a paramagnetic material, magnetic susceptibility χ ∝ 1/T. χ2 = χ1 (T1/T2) = 2.8 x 10-4 x (350/300) = 3.267 x 10-4"
+      },
+      {
+        "number": 2,
+        "question": "A magnetic compass needle oscillates 30 times per minute at a place where the dip is 45°, and 40 times per minute where the dip is 30°. If B1 and B2 are, respectively the total magnetic field due to the earth at the two places, then the ratio B1 /B2 is best given by",
+        "options": [
+          "A. 0.7",
+          "B. 3.6",
+          "C. 1.8",
+          "D. 2.2"
+        ],
+        "answer": "A",
+        "solution": "Frequency of oscillation = √(magnetic field). 30/40 =√(B1cos45°/B2cos30°) (Horizontal component of magnetic field = B cosδ). (B1/B2) = 0.7"
+      },
+      {
+        "number": 3,
+        "question": "A magnetic needle of magnetic moment 6.7 × 10–2 A m2 and moment of inertia 7.5 × 10–6 kg m2 is performing simple harmonic oscillations in a magnetic field of 0.01 T. Time taken for 10 complete oscillations is",
+        "options": [
+          "A. 6.65 s",
+          "B. 8.89 s",
+          "C. 6.98 s",
+          "D. 8.76 s"
+        ],
+        "answer": "A",
+        "solution": "Time period of magnetic needle oscillating simple harmonically is given by T=2π√(I/MB). T=2π√(7.5 × 10-6/(6.7 × 10-2× 0.01)). T = (2π/10) x 1.05s. For 10 oscillations, total time taken T’ = 10T = 2π x 1.05 = 6.65 s"
+      },
+      {
+        "number": 4,
+        "question": "A magnetic dipole is acted upon by two magnetic fields which are inclined to each other at an angle of 75°. One of the fields has a magnitude of 15 mT. The dipole attains stable equilibrium at an angle of 30° with this field. The magnitude of the other field (in mT) is close to",
+        "options": [
+          "A. 1",
+          "B. 11",
+          "C. 36",
+          "D. 1060"
+        ],
+        "answer": "B",
+        "solution": "The magnetic dipole attains stable equilibrium under the influence of these two fields making an angle θ1 = 30° with B1 and θ2 = 75° – 30° = 45° with B2. For stable equilibrium, net torque acting on dipole must be zero, I.e., τ1 + τ2 = 0, τ1 = τ2, mB1sinθ1 = mB2sinθ2, B2 = B1 (sinθ1/sinθ2) = 15mT x (sin300/sin 450) = 15mT x (1/2) x √2 =10.6 mT = 11mT"
+      },
+      {
+        "number": 5,
+        "question": "A short bar magnet is placed in the magnetic meridian of the earth with a north pole pointing north. Neutral points are found at a distance of 30 cm from the magnet on the East – West line, drawn through the middle point of the magnet. The magnetic moment of the magnet in Am2 is close to (Given (μ0/4π) = 10-7 in SI units and BH = Horizontal component of earth’s magnetic field = 3.6 × 10–5 Tesla.)",
+        "options": [
+          "A. 9.7",
+          "B. 4.9",
+          "C. 19.4",
+          "D. 14.6"
+        ],
+        "answer": "A",
+        "solution": "(μ0/4π)(M/r3) = 3.6 x 10-5, M = [(3.6 x 10-5)/(10-7)](0.3)3, M = 9.7 Am2"
+      },
+      {
+        "number": 6,
+        "question": "Two short bar magnets of length 1 cm each have magnetic moments 1.20 Am2 and 1.00 A m2 respectively. They are placed on a horizontal table parallel to each other with their N poles pointing towards the South. They have a common magnetic equator and are separated by a distance of 20.0 cm. The value of the resultant horizontal magnetic induction at the mid-point O of the line joining their centres is close to (Horizontal component of earth’s magnetic induction is 3.6 × 10–5 Wb/m2)",
+        "options": [
+          "A. 5.80 × 10–4 Wb/m2",
+          "B. 3.6 × 10–5 Wb/m2",
+          "C. 2.56 × 10–4 Wb/m2",
+          "D. 3.50 ×10–4 Wb/m2"
+        ],
+        "answer": "C",
+        "solution": "As the point O lies on the brod-side position with respect to both the magnets. Therefore, the net magnetic field at point O is Bnet = B1 + B2 + BH. Bnet = (μ0/4π)((M1+M2)/r3) + BH. Bnet = (10-7(1.2+1)/(0.1)3) + 3.6 × 10-5. Bnet = 2.56 x 10-4 Wb/m2"
+      },
+      {
+        "number": 7,
+        "question": "Needles N1, N2 and N3 are made of a ferromagnetic, a paramagnetic and a diamagnetic substance respectively. A magnet when brought close to them will",
+        "options": [
+          "A. attract all three of them",
+          "B. attract N1 and N2 strongly but repel N3",
+          "C. attract N1 strongly, N2 weakly and repel N3 weakly",
+          "D. attract N1 strongly, but repel N2 and N3 weakly"
+        ],
+        "answer": "C",
+        "solution": "Magnet will attract N1 strongly, N2 weakly and repel N3 weakly"
+      },
+      {
+        "number": 8,
+        "question": "A magnetic needle is kept in a non-uniform magnetic field. It experiences",
+        "options": [
+          "A. a force and a torque",
+          "B. a force but not a torque",
+          "C. a torque but not a force",
+          "D. neither a force nor a torque"
+        ],
+        "answer": "A",
+        "solution": "A force and a torque act on a magnetic needle kept in a non-uniform magnetic field"
+      },
+      {
+        "number": 9,
+        "question": "The magnetic lines of force inside a bar magnet",
+        "options": [
+          "A. are from north-pole to south-pole of the magnet",
+          "B. do not exist",
+          "C. depend upon the area of cross-section of the bar magnet",
+          "D. are from south-pole to north-pole of the magnet"
+        ],
+        "answer": "D",
+        "solution": "are from south-pole to north-pole of the magnet"
+      },
+      {
+        "number": 10,
+        "question": "Curie temperature is the temperature above which",
+        "options": [
+          "A. a ferromagnetic material becomes paramagnetic",
+          "B. a paramagnetic material becomes diamagnetic",
+          "C. a ferromagnetic material becomes diamagnetic",
+          "D. a paramagnetic material becomes ferromagnetic"
+        ],
+        "answer": "A",
+        "solution": "a ferromagnetic material becomes paramagnetic"
+      },
+      {
+        "number": 11,
+        "question": "The materials suitable for making electromagnets should have",
+        "options": [
+          "A. high retentivity and high coercivity",
+          "B. low retentivity and low coercivity",
+          "C. high retentivity and low coercivity",
+          "D. low retentivity and high coercivity"
+        ],
+        "answer": "B",
+        "solution": "Materials of low retentivity and low coercivity are suitable for making electromagnets."
+      },
+      {
+        "number": 12,
+        "question": "Relative permittivity and permeability of a material are єr and μr, respectively. Which of the following values of these quantities are allowed for a diamagnetic material?",
+        "options": [
+          "A. єr = 1.5,μr = 1.5",
+          "B. єr = 0.5,μr = 1.5",
+          "C. єr = 1.5,μr = 0.5",
+          "D. єr = 0.5, μr = 0.5"
+        ],
+        "answer": "C",
+        "solution": "The values of relative permeability of diamagnetic materials are slightly less than 1 and εr is quite high. Therefore εr = 1.5 and μr = 0.5 could be the allowed values"
+      },
+      {
+        "number": 13,
+        "question": "In a region, steady and uniform electric and magnetic fields are present. These two fields are parallel to each other. A charged particle is released from rest in this region. The path of the particle will be a",
+        "options": [
+          "A. circle",
+          "B. helix",
+          "C. straight line",
+          "D. ellipse"
+        ],
+        "answer": "C",
+        "solution": "Magnetic field exerts a force = Bevsin0 = 0. Electric field exerts force along a straight line. The path of the charged particle will be a straight line"
+      },
+      {
+        "number": 14,
+        "question": "A charged particle moves through a magnetic field perpendicular to its direction. Then",
+        "options": [
+          "A. kinetic energy changes but the momentum is constant",
+          "B. the momentum changes but the kinetic energy is constant",
+          "C. both momentum and kinetic energy of the particle are not constant",
+          "D. both momentum and kinetic energy of the particle are constant."
+        ],
+        "answer": "B",
+        "solution": "The magnetic force will act perpendicular to velocity at every instant, the path will be circular. Due to change in direction momentum will change but the total energy will remain the same."
+      },
+      {
+        "number": 15,
+        "question": "A coil is suspended in a uniform magnetic field, with the plane of the coil parallel to the magnetic lines of force. When a current is passed through the coil it starts oscillating it is very difficult to stop. But if an aluminium plate is placed near to the coil, it stops. This is due to",
+        "options": [
+          "A. induction of electrical charge on the plate",
+          "B. shielding of magnetic lines of force as aluminium is a paramagnetic material",
+          "C. electromagnetic induction in the aluminium plate giving rise to electromagnetic damping",
+          "D. development of air current when the plate is placed"
+        ],
+        "answer": "C",
+        "solution": "electromagnetic induction in the aluminium plate giving rise to electromagnetic damping."
+      }
+    ]
+  }

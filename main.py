@@ -62,9 +62,9 @@ def run_physics_qa_pipeline(question: str, session_id: str) -> str:
 
 def main():
     # Example query from a Class 12 Physics student.
-    user_question = ("A satellite is moving very close to a planet of density 𝜌 ρ. The time period of the satellite isMagnitude of potential energy ( 𝑈 U) and time period ( 𝑇 T) of a satellite are related to each other as:")
+    user_question = ("A power transmission line feeds input power at 2300 V to a step-down transformer with its primary windings having 4000 turns. The output power is delivered at 230 V by the transformer. If the current in the primary of the transformer is 5 A and its efficiency is 90%, the output current would be")
     #user_question = ("Since halving the distance between the Earth and the Sun reduces the orbital period to about 129 days, how would that affect the gravitational force between them and what implications would it have for the Earth's orbital speed?")
-    session_id = "session_001"  # This could be dynamically generated or provided by your web framework.
+    session_id = "session_0001"  # This could be dynamically generated or provided by your web framework.
     
     answer = run_physics_qa_pipeline(user_question, session_id)
     print("Final Answer:\n", answer)

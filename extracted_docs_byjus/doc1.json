@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "During peddling of a bicycle, the force of friction exerted by the ground on the two wheels is such that it acts",
+        "options": [
+          "A. in the backward direction on the front wheel and in the forward direction on the rear wheel",
+          "B. in the forward direction on the front wheel and in the backward direction on the rear wheel",
+          "C. in the backward direction on both, the front and the rear wheels",
+          "D. in the forward direction on both, the front and the rear wheels."
+        ],
+        "answer": "A",
+        "solution": "Due to peddling, the point of contact of the rear wheel has a tendency to move backwards. So frictional force opposes the backwards tendency i.e., the frictional force acts in the forward direction. But the back wheel accelerates the front wheel in the forward direction. To oppose this frictional force acts in the backward direction on the front wheel."
+      },
+      {
+        "number": 2,
+        "question": "A block of mass 0.1 kg is held against a wall applying a horizontal force of 5N on the block. If the coefficient of friction between the block and the wall is 0.5, the magnitude of the frictional force acting on the block is",
+        "options": [
+          "A. 2.5N",
+          "B. 0.98N",
+          "C. 4.9N",
+          "D. 0.49N"
+        ],
+        "answer": "A",
+        "solution": "Consider the forces, acting on the block in the vertical direction\nForce of friction f = μR\nf= 0.5 X 5\nf = 2.5 N"
+      },
+      {
+        "number": 3,
+        "question": "A horizontal force of 10 N is necessary to just hold a block stationary against a wall. The coefficient of friction between the block and the wall is 0.2. The weight of the block is-",
+        "options": [
+          "A. 20 N",
+          "B. 50 N",
+          "C. 100 N",
+          "D. 2 N"
+        ],
+        "answer": "D",
+        "solution": "Frictional force balances the weight of the body\nFrictional force f = μN = mg\nf= 0.2 X 10 = 2N\nTherefore, weight of the block mg= 2N"
+      },
+      {
+        "number": 4,
+        "question": "A marble block of mass 2 kg lying on ice when given a velocity of 6 m/s is stopped by friction in 10s. Then the coefficient of friction is (consider g =10m/s)",
+        "options": [
+          "A. 0.02",
+          "B. 0.03",
+          "C. 0.06",
+          "D. 0.01"
+        ],
+        "answer": "C",
+        "solution": "u = 6 m/s\nv = 0\nt =10s\na = -f/m = – μmg/m = – μg = -10μ\nSubstituting values in v = u+at\n0 = 6 – 10μ x 10\nTherefore, μ = 0.06"
+      },
+      {
+        "number": 5,
+        "question": "A block P of mass m is placed on a horizontal frictionless plane. The second block of the same mass m is placed on it and is connected to a spring of spring constant k. The two blocks are pulled by a distance A. Block Q oscillates without slipping. What is the maximum value of the frictional force between the two block.",
+        "options": [
+          "A. kA/2",
+          "B. kA",
+          "C. μsmg",
+          "D. zero"
+        ],
+        "answer": "A",
+        "solution": "Block Q oscillates but does not slip on P. It means that acceleration is the same for Q and P both. There is a force of friction between the two blocks while the horizontal plane is frictionless. The spring is connected to the upper block. The (P – Q) system oscillates with angular frequency ω. The spring is stretched by A.\nTherefore,\nω = √(k/2m)\nTherefore, Maximum acceleration in SHM = ω2A\nam = kA/2m\nNow consider the lower block.\nLet the maximum force of friction = fm\nfm= mam or fm= m x (kA/2m)\nfm= kA/2"
+      },
+      {
+        "number": 6,
+        "question": "Statement 1: A block of mass m starts moving on a rough horizontal surface with a velocity v. It stops due to friction between the block and the surface after moving through a certain distance. The surface is now tilted to an angle of 30°with the horizontal and the same block is made to go up on the surface with the same initial velocity v. The decrease in mechanical energy in the second situation is smaller than that in the first situation.\nStatement-2: The coefficient of friction between the block and the surface decreases with the increase in the angle of inclination.",
+        "options": [
+          "A. Statement-1 and 2 are true and statement-2 is a correct explanation for statement-1",
+          "B. Statement-1 and 2 are true and statement-2 is not a correct explanation for statement-1",
+          "C. Statement-1 is true, statement-2 is false",
+          "D. Statement-1 is false, statement-2 is true."
+        ],
+        "answer": "C",
+        "solution": "Statement-1 is true, statement-2 is false"
+      },
+      {
+        "number": 7,
+        "question": "A block rests on a rough inclined plane making an angle of 300 with the horizontal. The coefficient of static friction between the block and the plane is 0.8. If the frictional force on the block is 10 N, the mass of the block (in kg) is : (taken g =10 m/s2)",
+        "options": [
+          "A. 2.0",
+          "B. 4.0",
+          "C. 1.6",
+          "D. 2.5"
+        ],
+        "answer": "A",
+        "solution": "μ = 0.8\nf = 10 N\nmg sin 30 = 10\nm x 10 x (½) =10\nm = 2kg"
+      },
+      {
+        "number": 8,
+        "question": "A smooth block is released at rest on a 450 incline and then slides a distance d. The time taken to slide is n times as much to slide on a rough incline than on a smooth incline. The coefficient of friction is-",
+        "options": [
+          "A. μk=1- 1/n2",
+          "B. μk=√(1- 1/n2)",
+          "C. μs=1- 1/n2",
+          "D. μs=√(1- 1/n2)"
+        ],
+        "answer": "A",
+        "solution": "On a smooth plane\nd = ½ (g sinθ) t1\nt1=√(2d/gsinθ)\nOn a rough surface\nd = ½ (g sinθ – μg cosθ) t2\nt2=√(2d/(g sinθ- μ g cosθ))\nFrom the question, we know\nt2 = nt1\n√(2d/(g sinθ- μ g cosθ))=n√(2d/g sinθ)\nn=1/√(1- μk)\nn2=1/(1- μk)\n1-μk = 1/n2\nμk=1- 1/n2"
+      },
+      {
+        "number": 9,
+        "question": "The upper half of an inclined plane with inclination Φ is perfectly smooth, while the lower half is rough. A body starting from rest at the top will again come to rest at the bottom, if the coefficient of friction for the lower half is given by",
+        "options": [
+          "A. 2 sinΦ",
+          "B. 2 cosΦ",
+          "C. 2 tanΦ",
+          "D. tanΦ"
+        ],
+        "answer": "C",
+        "solution": "Suppose the length of the plane is L.  When the block slides down the plane, the increase in the K.E will be equal to the decrease in the P.E\nWork done, W = Change in K.E (ΔK) = (1/2) mu2 – (1/2)mv2= 0\nWork done by friction (Wf) + Work done by gravity (Wg) = 0\n-μgcosΦ(L/2) + mgLsinΦ = 0\n⇒ (μ/2) cosΦ = sinΦ\n⇒ μ = 2tanΦ"
+      },
+      {
+        "number": 10,
+        "question": "Consider a car moving on a straight road with a speed of 100 m/s. The distance at which a car can be stopped is : (μk = 0.5)",
+        "options": [
+          "A. 800 m",
+          "B. 1000 m",
+          "C. 100 m",
+          "D. 400 m"
+        ],
+        "answer": "B",
+        "solution": "When the car is stopped by friction then its retarding force is\nma = μR\nma = μmg\na= μg\nConsider the equation v2 = u2 -2as (the car is retarding so a is negative)\n0 = u2 -2as\n2as = u2\ns = u2/2a\ns = u2/2μg\ns = (100)2/2 x 0.5 x 10\ns = 1000 m"
+      },
+      {
+        "number": 11,
+        "question": "The minimum force required to start pushing a body up a rough (frictional coefficient μ) inclined plane F1 while the minimum force needed to prevent it from sliding down is F2. If the inclined plane makes an angle θ from the horizontal such that tan θ= 2μ then the ratio F1/F2 is",
+        "options": [
+          "A. 4",
+          "B. 1",
+          "C. 2",
+          "D. 3"
+        ],
+        "answer": "D",
+        "solution": "We have to work against the sliding force due to gravity and frictional force to push upwards. Therefore, the force F1= mgsinθ + μmgcosθ.\nTo stop the body from sliding work is done against sliding force but frictional force stops the body from sliding.\nTherefore, the force F2= mgsinθ – μmgcosθ.\nF1/F2 = (mgsinθ + μmgcosθ)/ (mgsinθ – μmgcosθ)\nF1/F2 = (tanθ +μ) / (tanθ – μ)\n(since tanθ = 2μ)\nF1/F2 = (2μ +μ) /(2μ – μ)\nF1/F2 = 3"
+      },
+      {
+        "number": 12,
+        "question": "A body of mass m=10−2 kg is moving in a medium and experiences a frictional force F=−kv2. Its initial speed is v0= 10 ms−1. If, after 10 s, its energy is ⅛ mv02, the value of k will be",
+        "options": [
+          "A. 10−3 kg m−1",
+          "B. 10−3 kg s−1",
+          "C. 10−4 kg m−1",
+          "D. 10−1 kg m−1 s−1"
+        ],
+        "answer": "C",
+        "solution": "Mass m = 102 Kg\nInitial velocity v0= 10 ms−1\nTime t = 10 s\nFrictional Force F=− kv2\n1/2 mvf2 = ⅛ mv02\nvf = v0 /2\nvf = 10 /2 = 5 m/s\nNow, the force is\n(10-2)dv/dt = -kv2\n∫(from 10 to 5) dv/v2=-100k∫(from 0 to 10)dt\n⅕ = 1/10 = 100k x 10\nk = 10-4"
+      },
+      {
+        "number": 13,
+        "question": "A block of mass m is placed on a surface with a vertical cross-section given by y =x3/ 6. If the coefficient of friction is 0.5, the maximum height above the ground at which the block can be placed without slipping is",
+        "options": [
+          "A. ⅓ m",
+          "B. ½ m",
+          "C. ⅙ m",
+          "D. ⅔ m"
+        ],
+        "answer": "C",
+        "solution": "For equilibrium under limiting friction\nmg sinθ = μmgcosθ\ntanθ = μ———(1)\nThe equation of the surface is given by y = x3/ 6\nSlope dy/dx = x2/ 2——-(2)\nFrom (1) and (2) we get\nμ = x2/ 2 = 0.5\nx= 1\nSo, y =⅙"
+      },
+      {
+        "number": 14,
+        "question": "Given in the figure are two blocks A and B of weight 20 N and 100 N, respectively. These are being pressed against a wall by a force F as shown. If the coefficient of friction between the blocks is 0.1 and between block B and the wall is 0.15, the frictional force applied by the wall on block B is",
+        "options": [
+          "A. 120 N",
+          "B. 150 N",
+          "C. 100 N",
+          "D. 80 N"
+        ],
+        "answer": "A",
+        "solution": "For equilibrium of A\nf1 = 20\nFor equilibrium of B\nf2 = f1 + 100\nf2 = 120 N"
+      },
+      {
+        "number": 15,
+        "question": "Two masses m1= 5 kg and m2= 10 kg, connected by an inextensible string over a frictionless pulley, are moving as shown in the figure. The coefficient of friction of the horizontal surface is 0.15. The minimum weight m that should be put on top of m2 to stop the motion is",
+        "options": [
+          "A. 27.3 kg",
+          "B. 43.3 kg",
+          "C. 10.3 kg",
+          "D. 18.3 kg"
+        ],
+        "answer": "A",
+        "solution": "50 – T = 5 × a\nT – 0.15 (m + 10) g = (10 + m)a\na = 0 for rest\n50 = 0.15 (m + 10) 10\n5 =3/20(m + 10)\n100/3= m + 10 m = 23.3 kg\nSo the minimum weight required from the options given is 27.3 kg"
+      }
+    ]
+  }

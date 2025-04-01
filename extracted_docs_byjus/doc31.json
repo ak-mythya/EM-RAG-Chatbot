@@ -1,0 +1,119 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A sample of radioactive material A, that has an activity of 10 mCi (1 Ci = 3.7 × 1010 decays/s) has twice the number of nuclei as another sample of a different radioactive material B, which has an activity of 20 mCi. The correct choices for half-lives of A and B would then be respectively",
+        "options": [
+          "A. 20 days and 5 days",
+          "B. 10 days and 40 days",
+          "C. 20 days and 10 days",
+          "D. 5 days and 10 days"
+        ],
+        "answer": "A",
+        "solution": "RA = 10 mCi, RB = 20 mCi, NA = 2NB\nRA/RB = λANA/λBNB = [(T1/2)B/ (T1/2)A] x [NA/NB]\n(½) = [(T1/2)B/ (T1/2)A] x 2 ⇒ (T1/2)A= 4(T1/2)B\nAnswer: (a) 20 days and 5 days"
+      },
+      {
+        "number": 2,
+        "question": "Using a nuclear counter the count rate of emitted particles from a radioactive source is measured. At t = 0 it was 1600 counts per second and at t = 8 seconds it was 100 counts per second. The count rate observed, as counts per second, at t = 6 seconds is close to",
+        "options": [
+          "A. 200",
+          "B. 360",
+          "C. 150",
+          "D. 400"
+        ],
+        "answer": "A",
+        "solution": "According to the law of radioactivity, the count rate at t = 8 seconds is\nN1 = N0e-λt\ndN/dt = λN =λN0e-λt\nAt t = 0, 1600 = λN0e0 = λN0 ——(1)\nAt t = 8s, 100 = λN0e-8λ ——– (2)\n⇒ 100 = 1600 e-8λ\ne8λ= 16\nTherefore half life is t1/2 = 2 sec\nAt t = 6 sec\n(dN/dt) = λN0e-6λ = 1600 x (e-2λ)3 = 1600 x(⅛) = 200\nAnswer: (a) 200"
+      },
+      {
+        "number": 3,
+        "question": "Radiation coming from transitions n = 2 to n = 1 of hydrogen atoms fall on He+ ions in n = 1 and n = 2 states. The possible transition of helium ions as they absorb energy from the radiation?",
+        "options": [],
+        "answer": "",
+        "solution": "E = 13.6 (1/1 – ¼) = 13.6 x (¾) = 10.2 eV\nLet us check the transitions possible on He\nn = 1 or n = 2\nE1 = 4 x 13.6 (1 – ¼) = 40.8 eV [E1 ＞ E, hence not possible]\nn = 1 or n = 3\nE2 = 4 x 13.6 (1 – (1/9)) = 48.3 eV [E2 ＞ E, hence not possible]\nn = 2 or n = 3\nE3 = 4 x 13.6 ((¼) – (1/9)) = 7.56 eV [E3 ＜ E, hence it is possible]\nn = 2 or n = 4\nE4 = 4 x 13.6 ((¼) – (1/6)) = 10.2 eV [E4 = E, hence it is possible]\nHence E3 and E4 can be possible\nAnswer: E3 and E4 is possible"
+      },
+      {
+        "number": 4,
+        "question": "Two radioactive materials A and B have decay constants 10λ and λ, respectively. If initially, they have the same number of nuclei, then the ratio of the number of nuclei of A to that of B will be 1/e after a time",
+        "options": [
+          "A. 1/9λ",
+          "B. 11/10λ",
+          "C. 1/10λ",
+          "D. 1/11λ"
+        ],
+        "answer": "A",
+        "solution": "N = N0e-λt\nSo, N1 = N0e-10λt and N2 = N0e-λt\n⇒ (1/e) = (N1/N2) = (N0e-10λt )/(N0e-λt )\n⇒ (1/e) = e-9λt = e-1 = e-9λt\n⇒ 1 = 9λt ⇒ t = 1/9λ\nAnswer: (a) 1/9λ"
+      },
+      {
+        "number": 5,
+        "question": "Half-lives of two radioactive nuclei A and B are 10 minutes and 20 minutes, respectively. If, initially a sample has an equal number of nuclei, then after 60 minutes, the ratio of decayed numbers of nuclei A and B will be",
+        "options": [
+          "A. 3: 8",
+          "B. 1: 8",
+          "C. 9: 8",
+          "D. 8: 1"
+        ],
+        "answer": "C",
+        "solution": "By the law of radioactivity N = N0 e-λt\nFor nuclei A,\nNA = N0Ae-λt\nOr (NA/N0A) = (½)n = (½)t/10 = (½)6 ——-(1)\nNA= N0A/ 26\nFor nuclei B,\n(NB/N0B) = (½)n = (½)t/20 = (½)3——-(2)\n⇒ NB = (N0B)/23\nRatio of nuclei decayed will be\n(N’A/N’B)= (N0A – NA)/(N0B – NB) = (N0A/N0B)[1 – (½)6/1 – (½)3] = 9/8\nAnswer: (c) 9: 8"
+      },
+      {
+        "number": 6,
+        "question": "Two radioactive substances A and B have decay constant 5λ and λ respectively. At t = 0, a sample has the same number of the two nuclei. The time taken for the ratio of the number of nuclei to become (1/e)2 will be",
+        "options": [
+          "A. 2/λ",
+          "B. 1/λ",
+          "C. 1/4λ",
+          "D. 1/2λ"
+        ],
+        "answer": "D",
+        "solution": "The number of undecayed nuclei at any time t,\nN = N0 e-λt\nAs N0A = N0B (given)\nSo, for nuclei A and B\n(NA/NB) = e(-λA + λB )t\nt = [1/(λB – λA)]In(NA/NB) = 1/(λ – 5λ)In(1/e2) = 1/2λ\nAnswer: (d) 1/2λ"
+      },
+      {
+        "number": 7,
+        "question": "The radiation corresponding to 3➝2 transitions of hydrogen atom falls on a metal surface to produce photoelectrons. These electrons are made to enter a magnetic field of 3 × 10–4 T. If the radius of the largest circular path followed by these electrons is 10.0 mm, the work function of the metal is close to",
+        "options": [
+          "A. 1.6 eV",
+          "B. 1.8 eV",
+          "C. 1.1 eV",
+          "D. 0.8 eV"
+        ],
+        "answer": "C",
+        "solution": "Radius of a charged particle moving in a constant magnetic field is given by\nR = (mv/qB) or R2 = m2v2/q2B2\nR2 = [2m((½)mv2)]/q2B2\nR2= 2m(K.E)/q2B2\n⇒ K.E = (q2B2R2)/2m ⇒ K.Emax = (q2B2R2max )/2m = 0.80 eV\nEnergy of photon corresponding transition from orbit 3➝ 2 in hydrogen atom.\nE = 13.6(1/22) – (1/32)) = 1.89 eV\nUsing Einstein photoelectric equation.\nE = K.Emax + Φ\n⇒ 1.89 = 0.8 + Φ\n⇒Φ = 1.09 ≈ 1.1 eV\nAnswer (c) 1.1 eV"
+      },
+      {
+        "number": 8,
+        "question": "Assume that a neutron breaks into a proton and an electron. The energy released during this process is (Mass of neutron = 1.6725 × 10–27 kg Mass of proton = 1.6725 × 10–27 kg Mass of electron = 9 × 10–31 kg)",
+        "options": [
+          "A. 7.10 MeV",
+          "B. 6.30 MeV",
+          "C. 5.4 MeV",
+          "D. 0.73 MeV"
+        ],
+        "answer": "",
+        "solution": "Mass defect, ∆m = mp + me – mn\n∆m = (1.6725 x 10-27) + ( 9 x 10-31) – (1.6725 x 10-27) Kg\n∆m = 9 x 10-31 kg\nEnergy released = ∆mc2\nEnergy released = (9 x 10-31) x (3 x 108)2 J\nEnergy released = [(9 x 10-31) x (9 x 1016)]/[1.6 x 10-13 ] Mev = 0.51 MeV\nAnswer: None of the given options are correct"
+      },
+      {
+        "number": 9,
+        "question": "The half-life period of a radioactive element X is the same as the mean lifetime of another radioactive element Y. Initially, they have the same number of atoms. Then",
+        "options": [
+          "A. X and Y decay at the same rate always",
+          "B. X will decay faster than Y",
+          "C. Y will decay faster than X",
+          "D. X and Y have the same decay rate initially"
+        ],
+        "answer": "C",
+        "solution": "T1/2, half-life of X = Tmean , mean life of y\nOr 0.693/λx = 1/λy\nλx = 0.693λy\nλx ＜ λy\nRate of decay = λN\nInitially, number of atoms (N) of both are equal but since λx ＜ λy, therefore y will decay at a faster rate than x\nAnswer: (c) Y will decay faster than X"
+      },
+      {
+        "number": 10,
+        "question": "If the binding energy of the electron in a hydrogen atom is 13.6 eV, the energy required to remove the electron from the first excited state of Li++ is",
+        "options": [
+          "A. 30.6 eV",
+          "B. 13.6 eV",
+          "C. 3.4 eV",
+          "D. 122.4 eV"
+        ],
+        "answer": "A",
+        "solution": "E2 = (-Z2E0)/n2\nE2 = (-(3)2 x 13.6)/(2)2\n= – 30.6 eV\nEnergy required = 30.6 eV\nAnswer: (a) 30.6 eV"
+      }
+    ]
+  }

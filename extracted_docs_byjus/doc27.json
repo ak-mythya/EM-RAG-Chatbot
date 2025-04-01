@@ -1,0 +1,136 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A series AC circuit containing an inductor (20 mH), a capacitor (120 μF) and a resistor (60 Ω ) is driven by an AC source of 24 V/50 Hz. The energy dissipated in the circuit in 60 s is",
+        "options": [
+          "A. 3.39 × 103 J",
+          "B. 5.65 × 102 J",
+          "C. 2.26 × 103 J",
+          "D. 5.17 × 102 J"
+        ],
+        "answer": "D",
+        "solution": "Impedance, Z = (R2 + (XC – XL)2)1/2. XL = ωL = (2πvL), XL = 6.28 × 50 × 20 × 10–3 = 6.28 Ω. XC = (1/ωC) = 1/(2πvC) = 1/(6.28 x 120 x 10-6 x 50) = 26.54 Ω. XC – XL = 26.54 – 6.28 = 20.26. Z = ((60)2 + (20.26)2)½. Z2 = 4010 Ω2. Average power dissipated, Pav = ε rms Irmscos Φ. Pav = ε rms × (ε rms/Z) x (R/Z). Pav = (ε rms 2/Z2) x R = [(24)2/4010] x 60 W = 8.62 W. Energy dissipated in 60 S = 8.62 x 60 = 5.17 x 102 J. Answer: (d) 5.17 x 102 J"
+      },
+      {
+        "number": 2,
+        "question": "In an AC generator, a coil with N turns, all of the same area A and total resistance R, rotates with frequency ω in a magnetic field B. The maximum value of emf generated in the coil is",
+        "options": [
+          "A. NAB",
+          "B. NABR",
+          "C. NABω",
+          "D. NABRc"
+        ],
+        "answer": "C",
+        "solution": "In an a.c. generator, maximum emf = NABω"
+      },
+      {
+        "number": 3,
+        "question": "The phase difference between the alternating current and emf is π/2. Which of the following cannot be the constituent of the circuit?",
+        "options": [
+          "A. LC",
+          "B. L alone",
+          "C. C alone",
+          "D. R, L"
+        ],
+        "answer": "D",
+        "solution": "R and L cause phase difference to lie between 0 and π/2 but never 0 and π/2 at extremities. Answer: (d) R, L"
+      },
+      {
+        "number": 4,
+        "question": "Alternating current cannot be measured by D.C ammeter because",
+        "options": [
+          "A. A.C cannot pass through D.C ammeter",
+          "B. A.C changes direction",
+          "C. The average value of current for the complete cycle is zero",
+          "D. D.C. ammeter will get damaged"
+        ],
+        "answer": "C",
+        "solution": "The average value of A.C for the complete cycle is zero. Hence A.C cannot be measured by D.C ammeter. Answer: (c) The average value of current for the complete cycle is zero"
+      },
+      {
+        "number": 5,
+        "question": "A power transmission line feeds input power at 2300 V to a step-down transformer with its primary windings having 4000 turns. The output power is delivered at 230 V by the transformer. If the current in the primary of the transformer is 5 A and its efficiency is 90%, the output current would be",
+        "options": [
+          "A. 25 A",
+          "B. 50 A",
+          "C. 45 A",
+          "D. 35 A"
+        ],
+        "answer": "C",
+        "solution": "Given єp = 2300 V, Np = 4000. єs = 230 V, Ip = 5 A, η = 90% = 0.9. η = Po/Pi = (єsIs)/(єpIp). Is = ηєpIp/єs = (0.9 x 2300 x 5)/230 = 45 A. Answer: (c) 45 A"
+      },
+      {
+        "number": 6,
+        "question": "A circuit connected to an ac source of emf e = e0 sin(100 t) with t in seconds, gives a phase difference of π/4 between the emf e and current I. Which of the following circuits will exhibit this?",
+        "options": [
+          "A. RC circuit with R = 1 kΩ and C = 10μF",
+          "B. RL circuit with R = 1 kΩ and L = 10mH",
+          "C. RC circuit with R = 1 kΩ and C = 1μF",
+          "D. RL circuit with R = 1 kΩ and L = 1mH"
+        ],
+        "answer": "A",
+        "solution": "Xc = R. 1/ωC = R. ω = 100 rad/s. Therefore, 1/100 = RC. Substituting values from option (a). R = 1 kΩ  = 103 Ω. C = 10μF = 10 x 10-6 F. RC = 103 x 10 x 10-6  = 1/100. Therefore, option (a) is correct. Answer (a) RC circuit with R = 1 kΩ and C = 10μF"
+      },
+      {
+        "number": 7,
+        "question": "In an a.c. circuit, the instantaneous e.m.f. and current is given by e = 100sin30t, i = 20sin(30t – π/4). In one cycle of A.C, the average power consumed by the circuit and the wattless current are, respectively",
+        "options": [
+          "A. 50, 10",
+          "B. 1000/√2 ,10",
+          "C. 50/√2, 0",
+          "D. 50, 0"
+        ],
+        "answer": "B",
+        "solution": "Pavg = VrmsIrmscosθ. Pavg = (V0/√2) (I0/√2)cosθ = (100/√2) (20/√2)cos450. Pavg = 1000/√2 watt. Wattless current = Irmssinθ. Wattless current = (I0/√2)sinθ = (20/√2)sin450 = 10 amp. Answer: (b) 1000/√2 ,10"
+      },
+      {
+        "number": 8,
+        "question": "A coil having n turns and resistance R Ω is connected with a galvanometer of resistance 4R Ω. This combination is moved in time t seconds from a magnetic field W1 weber to W2 weber. The induced current in the circuit is",
+        "options": [
+          "A. -(W2 – W1)/5Rnt",
+          "B. -n(W2 – W1)/5Rt",
+          "C. -(W2 – W1)/Rnt",
+          "D. -(W2 – W1)/5Rnt"
+        ],
+        "answer": "B",
+        "solution": "The emf induced in the coil is e = -n(dΦ/dt). Induced current, I = e/R’ = – (n/R’)(dΦ/dt) ——(1). Given, R’ = R + 4R = 5R. dΦ = W2 – W1. dt = t. (here, W1 and W2 are flux associated with one turn). Substituting the given values in equa(1) we get. I = (-n/5R)(W2 – W1/t). Answer: (b) -n(W2 – W1)/5Rt"
+      },
+      {
+        "number": 9,
+        "question": "An alternating voltage V(t) = 220 sin100πt volts is applied to a purely resistive load of 50 Ω. The time taken for the current to rise from half of the peak value is",
+        "options": [
+          "A. 5 ms",
+          "B. 2.2 ms",
+          "C. 7.2 ms",
+          "D. 3.3 ms"
+        ],
+        "answer": "D",
+        "solution": "As v(t) = 220 sin100πt. So I(t) = (220/50) sin100πt. I.e., I = Im = sin100πt. For I = Im. t1 = (π/2) x (1/100π) = (1/200) sec, And for I = Im/2. ⇒ (Im/2) = Imsin(100πt2). ⇒ (π/6) = 100πt2. ⇒ t2= (1/600) s. ∴ treq = (1/200) – (1/600) = (2/600) = (1/300)s =3.3 ms. Answer: (d) 3.3 ms"
+      },
+      {
+        "number": 10,
+        "question": "An arc lamp requires a direct current of 10A at 80V to function. If it is connected to a 220V (RMS), 50 Hz AC supply, the series inductor needed for it to work is close to",
+        "options": [
+          "A. 0.065 H",
+          "B. 80 H",
+          "C. 0.08 H",
+          "D. 0.044 H"
+        ],
+        "answer": "A",
+        "solution": "I = 10A. V = 80 V. R = 8 Ω. 10 = 220/(82 + XL2)½. 64 + XL2= 484. XL = √420. 2π x 50L = √420. L = √420/100π. L = 0.065 H. Answer: (a) 0.065 H"
+      },
+      {
+        "number": 11,
+        "question": "In a series, LCR circuit R = 200Ω and the voltage and the frequency of the main supply is 220 V and 50 Hz respectively. On taking out the capacitance from the circuit the current lags behind the voltage by 300.  The power dissipated in the LCR circuit is",
+        "options": [
+          "A. 242 W",
+          "B. 305 W",
+          "C. 210 W",
+          "D. Zero"
+        ],
+        "answer": "A",
+        "solution": "Tan Φ = (XL – Xc)/R. Tan 300 = Xc/R = Xc = R/√3. Tan 300 = XL/R = XL = R/√3. XL = Xc ⇒ Condition for resonance. So Φ = 00. P = VIcos00. P = V2/R = (220)2/200 = 242 W. Answer: (a) 242 W"
+      }
+    ]
+  }

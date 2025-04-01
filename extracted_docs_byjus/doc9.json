@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A compressive force, F is applied at the two ends of a long thin steel rod. It is heated, simultaneously, such that its temperature increases by ΔT. The net change in its length is zero. Let L be the length of the rod, A is its area of cross-section. Y is Young’s modulus, and α is its coefficient of linear expansion. Then, F is equal to",
+        "options": [
+          "a. L2YαΔT",
+          "b. AY/αΔT",
+          "c. AYαΔT",
+          "d. LAYαΔT"
+        ],
+        "answer": "C",
+        "solution": "Thermal expansion, ΔL = LαΔT ——-(1)\nLet ΔL’  be the compression produced by applied force\nY = FL/AΔL’ ⇒ F = YAΔL’ /L————-(2)\nNet change in length = 0 ⇒ΔL’ = ΔL ——(3)\nFrom (1),(2) and (3)\nF = YA x (LαΔT)/L = YAαΔT\nAnswer: (c) AYαΔT"
+      },
+      {
+        "number": 2,
+        "question": "A wire suspended vertically from one of its ends is stretched by attaching a weight of 200 N to the lower end. The weight stretches the wire by 1mm. Then the elastic energy stored in the wire is",
+        "options": [
+          "a. 0.2 J",
+          "b. 10 J",
+          "c. 20 J",
+          "d. 0.1 J"
+        ],
+        "answer": "D",
+        "solution": "Elastic energy per unit volume = ½ x stress x strain\nElastic Energy = ½ x stress x strain x volume\n= ½ x F/A x (ΔL /L) x (AL)\n= ½ x FΔL\n= ½ x 200 x 10-3\nElastic Energy = 0.1 J\nAnswer: (d) 0.1 J"
+      },
+      {
+        "number": 3,
+        "question": "A rod of length L at room temperature and uniform area of cross-section A, Is made of a metal having a coefficient of linear expansion α. It is observed that an external compressive force F is applied to each of its ends, prevents any change in the length of the rod when its temperature rises by ΔT K. Young’s modulus, Y for this metal is",
+        "options": [
+          "a.F/A αΔT",
+          "b.F/Aα(ΔT – 273)",
+          "c. F/2AαΔ",
+          "d. 2F/AαΔT"
+        ],
+        "answer": "A",
+        "solution": "Young’s Modulus Y = stress/strain = (F/A)/(Δl/l)\nSubstituting the coefficient of linear expansion\nα =Δl /(lΔT)\nΔl /l= αΔT\nY= (F/AαΔT)\nAnswer: (a) F/AαΔT"
+      },
+      {
+        "number": 4,
+        "question": "Young’s moduli of two wires A and B are in the ratio 7:4. Wire A is 2m long and has radius R. Wire B is 1.5 m long and has a radius of 2mm. If the two wires stretch by the same length for a given load, then the value of R is close t",
+        "options": [
+          "a. 1.5 mm",
+          "b. 1.9 mm",
+          "c. 1.7 mm",
+          "d. 1.3 mm"
+        ],
+        "answer": "C",
+        "solution": "Δ1= Δ2\n(Fl1/πr12y1) = (Fl2/πr22y2)\n2/(R2 x 7)= 1.5/(22x 4)\nR= 1.75 mm\nAnswer: (c) 1.7 mm"
+      },
+      {
+        "number": 5,
+        "question": "The elastic limit of brass is 379 MPa. What should be the minimum diameter of a brass rod if it is to support a 400 N load without exceeding its elastic limit?",
+        "options": [
+          "a. 1 mm",
+          "b. 1.15 mm",
+          "c. 0.90 mm",
+          "d. 1.36 mm"
+        ],
+        "answer": "B",
+        "solution": "Stress = F/A\nStress = 400 x 4/πd2\n= 379 x 106 N/m2\nd2 = (400 x 4)/(379 x 106π)\nd = 1.15 mm\nAnswer: (b) 1.15 mm"
+      },
+      {
+        "number": 6,
+        "question": "A uniform cylindrical rod of length L and radius r, is made from a material whose Young’s modulus of Elasticity equals Y. When this rod is heated by temperature T and simultaneously subjected to a net longitudinal compressional force F, its length remains unchanged. The coefficient of volume expansion, of the material of the rod is nearly equal to",
+        "options": [
+          "a. 9F/(πr2YT)",
+          "b. 6F/(πr2YT)",
+          "c. 3F/(πr2YT)",
+          "d. F/(3πr2YT)"
+        ],
+        "answer": "C",
+        "solution": "Y = (F/πr2) x L/ΔL\nΔL = Fl/πr2Y——–(1)\nChange in length due to temperature change\nΔL=LαΔT————(2)\nFrom equa (1) and (2)\nL αΔT = FL/AY\nα= F/AYΔT\nα = F/πr2YT\nCoefficient of volume expansion\n3∝ = 3F/πr2YT\nAnswer: (c) 3F/πr2YT"
+      },
+      {
+        "number": 7,
+        "question": "The following four wires are made of the same material. Which of these will have the largest extension when the same tension is applied?",
+        "options": [
+          "(a) length = 200 cm, diameter = 2 mm",
+          "(b) length = 300 cm, diameter = 3 mm",
+          "(c) length = 50 cm, diameter = 0.5 mm",
+          "(b) length = 100 cm, diameter = 1 mm"
+        ],
+        "answer": "C",
+        "solution": "Since all four wires are made from the same material Young’s modulus will be the same.\nΔL ∝ L/D2\nIn (a) L/D2 = 200/(0.2)2 = 5 x 103 cm-1\nIn (b) L/D2 = 300/(0.3)2 = 3.3 x 103 cm-1\nIn (c) L/D2 = 50/(0.5)2 = 20 x 103 cm-1\nIn (d) L/D2 = 100/(0.1)2 = 10 x 103 cm-1\nAnswer: (c) length = 50 cm, diameter = 0.5 mm"
+      },
+      {
+        "number": 8,
+        "question": "A man grows into a giant such that his linear dimensions increase by a factor of 9. Assuming that his density remains the same, the stress in the leg will change by a factor of",
+        "options": [
+          "(a) 1/9",
+          "(b) 81",
+          "(c) 1/81",
+          "(d) 9"
+        ],
+        "answer": "D",
+        "solution": "Stress = Force/Area\nStress = Force/L2\nNow, dimensions increases by a factor of 9\nNow, S = (volume x density) x g /L2\nS = L3 x ρ g /L2 = L ρ g\nStress S ∝ L\nS2/S1 = L2/L1 = 9L1/L1 = 9\nAnswer: (d) 9"
+      },
+      {
+        "number": 9,
+        "question": "A solid sphere of radius r made of a soft material of bulk modulus K is surrounded by a liquid in a cylindrical container. A massless piston of the area a floats on the surface of the liquid, covering an entire cross-section of the cylindrical container. When a mass m is placed on the surface of the piston to compress the liquid, the fractional decrement in the radius of the sphere is Mg/αAB. Find the value of α.",
+        "options": [
+          "a. 4",
+          "b. 5",
+          "c. 3",
+          "d. 2"
+        ],
+        "answer": "C",
+        "solution": "Increase in pressure is Δp = Mg/A\nBulk modulus is B = Δp /(ΔV/V)\nΔV/V = Δp / B = Mg/AB——(1)\nThe volume of the sphere is V = (4/3)πR3\nΔV/V = 3(ΔR/R)\nFrom equation (1) we get\nMg/AB = 3(ΔR/R)\nΔR/R = Mg/3AB\nTherefore α = 3\nAnswer: (c) 3"
+      },
+      {
+        "number": 10,
+        "question": "A steel wire having a radius of 2.0 mm, carrying a load of 4 kg, is hanging from a ceiling. Given that g = 3.1πm/s2, what will be the tensile stress that would be developed in the wire?",
+        "options": [
+          "a. 4.8 x 106 N/m2",
+          "b. 3.1 x 106 N/m2",
+          "c. 6.2 x 106 N/m2",
+          "d. 5.2 x 106 N/m2"
+        ],
+        "answer": "B",
+        "solution": "Tensile stress = Force/Area\nTensile stress = (4)(3.1π)/π(2 x 10-3)2\nTensile stress = 3.1 x 106 Nm-2\nAnswer: (b) 3.1 x 106 N/m2"
+      },
+      {
+        "number": 11,
+        "question": "A steel rail of length 5m and area of cross-section 40cm2 is prevented from expanding along its length while the temperature rises by 100C. If the coefficient of linear expansion and Young’s modulus of steel is 1.2 x 10-5 K-1 and 2 x 1011 Nm-2 respectively, the force developed in the rail is approximately",
+        "options": [
+          "a. 2 x 109 N",
+          "b. 3 x 10-5 N",
+          "c. 2 x 107 N",
+          "d. 1 x 105 N"
+        ],
+        "answer": "D",
+        "solution": "A = 40 cm2 = 4 x 10-3 m2\nΔT = 100C\nY = 2 x 1011 Nm-2\nα = 1.2 x 10-5 K-1\nForce = YAαΔT\nForce = (2 x 1011 )(4 x 10-3)(1.2 x 10-5)(10) = 9.6 x 104 N\nForce ≈ 1 x 105 N\nAnswer: (d) 1 x 105 N"
+      },
+      {
+        "number": 12,
+        "question": "If S is the stress and Y is Young’s Modulus of the material of the wire, the energy stored in the wire per unit volume is",
+        "options": [
+          "a. 2Y/S",
+          "b. S/2Y",
+          "c. 2S2Y",
+          "d. S2/2Y"
+        ],
+        "answer": "D",
+        "solution": "Young’s modulus, Y = Stress/Strain\n⇒ Strain = Stress/Y = S/Y\nEnergy stored per unit volume = ½ x stress x strain\n= Stress x Stress/2Y = S2/2Y (since Young’s modulus, Y = Stress/Strain)\nAnswer: (d) S2/2Y"
+      },
+      {
+        "number": 13,
+        "question": "A wire fixed at the upper end stretches by length l by applying a force F. The work done in stretching is",
+        "options": [
+          "a. F/2l",
+          "b. Fl",
+          "c. 2Fl",
+          "d. Fl/2"
+        ],
+        "answer": "D",
+        "solution": "Young’s Modulus Y = FL/Al\nTherefore, F = YAl/L\ndW = Fdl = YAl(dl)/L\n\\(\\begin{array}{l}\\int dW = \\frac{YA}{L}\\int_{0}^{1}ldl = YAl^{2}/2L\\end{array} \\)\nWork done = YAl2/2L\nWork done = Fl/2\nAnswer: (d) Fl/2"
+      },
+      {
+        "number": 14,
+        "question": "Two wires are made of the same material and have the same volume. However, wire 1 has a cross-sectional area A and wire 2 has cross-sectional area 3A. If the length of the wire 1 increases by Δx on applying force F, how much force is needed to stretch wire 2 by the same amount?",
+        "options": [
+          "a. F",
+          "b. 4F",
+          "c. 6F",
+          "d. 9F"
+        ],
+        "answer": "D",
+        "solution": "For the same material, Young’s modulus is the same and it is given that the volume is the same and the area of the cross-section for the wire L1 is and that of L2 is 3A\nV = V1 =V2\nV = A x L1 = 3A x L2 ⇒ L2 = L1/3\nY = (F/A)/(ΔL/L)\nF1 = YA(ΔL1/L1)\nF2 = Y3A(ΔL2/L2)\nGiven ΔL1 = ΔL2= Δx (for the same extension)\nF2 = Y3A(Δx/(L1/3)) = 9. (YAΔx/L1) = 9F1 = 9F\nAnswer: (d) 9F"
+      },
+      {
+        "number": 15,
+        "question": "A wire elongates by l mm when a load W is hanged from it. If the wire goes over a pulley and two weighs W each is hung at the two ends, the elongation of the wire will be (in mm)",
+        "options": [
+          "a. l/2",
+          "b.l",
+          "c. 2",
+          "d. Zero"
+        ],
+        "answer": "B",
+        "solution": "Y = (Force x L)/(A x l) = WL/A l\nl = WL/AY\nDue to the arrangement of the pulley, the length of wire is L/2 on each side and so the elongation will be l/2. For both sides, elongation = l\nAnswer: (b) l"
+      }
+    ]
+  }

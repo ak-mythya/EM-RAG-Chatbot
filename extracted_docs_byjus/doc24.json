@@ -1,0 +1,74 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "The energy band gap is maximum in",
+        "options": ["(a) metals", "(b) superconductors", "(c) insulators", "(d) semiconductors"],
+        "answer": "C",
+        "solution": "The energy band gap is maximum in insulators"
+      },
+      {
+        "number": 2,
+        "question": "A piece of copper and another of germanium are cooled from room temperature to 77 K, the resistance of",
+        "options": ["(a) each of them increases", "(b) each of them decreases", "(c) copper decreases and germanium increases", "(d) copper increases and germanium decreases"],
+        "answer": "C",
+        "solution": "Copper is a conductor. Germanium is a semiconductor. When cooled, the resistance of copper decreases and that of germanium increases."
+      },
+      {
+        "number": 3,
+        "question": "In the common base mode of a transistor, the collector current is 5.488 mA for an emitter current of 5.60 mA. The value of the base current amplification factor (β) will be",
+        "options": ["(a) 48", "(b) 49", "(c) 50", "(d) 51"],
+        "answer": "B",
+        "solution": "β=Ic/Ib = Ic/(Ie – Ic) = 5.488/(5.60 – 5.488) = 5.488/ 0.112 = 49"
+      },
+      {
+        "number": 4,
+        "question": "Carbon, silicon and germanium have four valence electrons each. At room temperature which one of the following statements is most appropriate?",
+        "options": ["(a) The number of free electrons for conduction is significant only in Si and Ge but small in C", "(b) The number of free conduction electrons is significant in C but small in Si and Ge", "(c) The number of free conduction electrons is negligibly small in all the three", "(d) The number of free electrons for conduction is significant in all three"],
+        "answer": "A",
+        "solution": "Carbon (C), silicon (Si) and germanium (Ge) have the same lattice structure and their valence electrons are 4. For C, these electrons are in the second orbit, for Si it is third and for germanium, it is the fourth orbit. In solid-state, the higher the orbit, the greater the possibility of overlapping of energy bands. Ionization energies are also less therefore Ge has more conductivity compared to Si. Both are semiconductors. Carbon is an insulator."
+      },
+      {
+        "number": 5,
+        "question": "In the ratio of the concentration of electrons that of holes in a semiconductor is 7/5 and the ratio of currents is 7/4 then what is the ratio of their drift velocities?",
+        "options": ["(a) 4/7", "(b) 5/8", "(c) 4/5", "(d) 5/4"],
+        "answer": "D",
+        "solution": "Drift velocity, Vd = I/nAe\n(vd)electron/(vd)hole = (Ie/Ih)(nh/ne) = (7/4) x (5/7) = 5/4"
+      },
+      {
+        "number": 6,
+        "question": "At absolute zero, silicon (Si) acts as",
+        "options": ["(a) non-metal", "(b) metal", "(c) insulator", "(d) none of these"],
+        "answer": "C",
+        "solution": "Semiconductors like silicon (Si) and germanium (Ge) act as insulators at low temperature."
+      },
+      {
+        "number": 7,
+        "question": "Mobility of electrons in a semiconductor is defined as the ratio of their drift velocity to the applied electric field. If for an n-type semiconductor, the density of electrons is 1019 m–3 and their mobility is 1.6 m2 /(V-s) then the resistivity of the semiconductor (since it is an n-type semiconductor contribution of holes is ignored) is close to",
+        "options": ["(a) 0.2 m", "(b) 4 m", "(c) 2 m", "(d) 0.4 m"],
+        "answer": "D",
+        "solution": "J = neVd\nResistivity, ρ = E/j = E/neVd = 1/ne(vd/E) = 1/neμe\nResistivity, 1/(1019 x 1.6 x 10-19 x 1.6) = 0.39 Ω m = 0.4 Ω m"
+      },
+      {
+        "number": 8,
+        "question": "The electrical conductivity of a semiconductor increases when electromagnetic radiation of a wavelength shorter than 2480 nm is incident on it. The bandgap in (eV) for the semiconductor is",
+        "options": ["(a) 0.5 eV", "(b) 0.7 eV", "(c) 1.1 eV", "(d) 2.5 eV"],
+        "answer": "A",
+        "solution": "Band gap = Energy of photon of = 2480 nm\nEnergy = (hc/λ) J = (hc/λe) eV\nBand gap = ([(6.63 x 10-34) x (3 x 108)]/[(2480 x 10-9) x (1.6 x 10-19)]) = 0.5 eV"
+      },
+      {
+        "number": 9,
+        "question": "The difference in the variation of resistance with temperature in a metal and a semiconductor arises essentially due to the difference in the",
+        "options": ["(a) crystal structure", "(b) variation of the number of charge carriers with temperature", "(c) type of bonding", "(d) variation of scattering mechanism with temperature"],
+        "answer": "B",
+        "solution": "variation of the number of charge carriers with temperature"
+      },
+      {
+        "number": 10,
+        "question": "A strip of copper and another germanium are cooled from room temperature to 80 K. The resistance of",
+        "options": ["(a) each of these decreases", "(b) copper strip increases and that of germanium decreases", "(c) copper strip decreases and that of germanium increases", "(d) each of these increases."],
+        "answer": "C",
+        "solution": "Copper is conductor and germanium is a semiconductor. When cooled, the resistance of copper strip decreases and that of germanium increases."
+      }
+    ]
+  }

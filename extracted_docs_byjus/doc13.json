@@ -1,0 +1,179 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A particle executes simple harmonic motion with an amplitude of 5 cm. When the particle is at 4 cm from the mean position, the magnitude of its velocity in SI units is equal to that of its acceleration. Then, its periodic time in second is",
+        "options": [
+          "A. 8π/3",
+          "B. 4π/3",
+          "C. 3π/8",
+          "D. 7π/3"
+        ],
+        "answer": "A",
+        "solution": "In SHM, speed v=ω√(A²-x²). At x = 4, v = ω√[(5)² – (4)²] = 3ω. Acceleration a = – ω²x. At x = 4, a = – 4ω². |v| = |a| => ω =3/4⇒T = 2π/ω = 8π/3"
+      },
+      {
+        "number": 2,
+        "question": "A cylindrical plastic bottle of negligible mass is filled with 310 mL of water and left floating in a pond with still water. If pressed downward slightly and released, it starts performing simple harmonic motion at angular frequency. If the radius of the bottle is 2.5 cm then ω is close to (density of water = 103 kg/m3)",
+        "options": [
+          "A. 2.50 rad s–1",
+          "B. 3.75 rad s–1",
+          "C. 5.00 rad s–1",
+          "D. 1.25 rad s–1"
+        ],
+        "answer": "",
+        "solution": "Restoring force due to pressing the bottle with amount x, F = -(ρAx)g. a = -(ρAg/m)x. Therefore, ω² = ρAg/m = [ρ(πr²)g]/m. ω = √(10³×π×(2.5 × 10⁻²)²×10)/(310×10⁻³). None of the options given are correct"
+      },
+      {
+        "number": 3,
+        "question": "A particle undergoing simple harmonic motion has time-dependent displacement given by x(t) = Asin(πt/90). The ratio of kinetic to the potential energy of this particle at t = 210 s will be",
+        "options": [
+          "A. 1/ 3",
+          "B. 2",
+          "C. 1",
+          "D. 3"
+        ],
+        "answer": "A",
+        "solution": "The maximum kinetic energy of the particle, K.E = (½)mA²ω²cos²ωt. The potential energy of the particle at any time t, U = (½)mA²ω²sin²ωt. The ratio of kinetic energy to potential energy, r = K.E/U = [(½)mA²ω²cos²ωt]/[(½)mA²ω²sin²ωt] = cos²ωt/sin²ωt = cot² ωt. The angular frequency is given as ω = π/90. Time, t = 210 s. Therefore, r = cot² (π/90) 210 = cot² (7 π/3) = cot² (2 π + π/3). We know, cot (2nπ + θ ) = cot θ. Therefore, r = cot² (π/3) = (1/√3)² = 1/3"
+      },
+      {
+        "number": 4,
+        "question": "A pendulum is executing simple harmonic motion and its maximum kinetic energy is K1. If the length of the pendulum is doubled and it performs simple harmonic motion with the same amplitude as in the first case, its maximum kinetic energy is K2. Then",
+        "options": [
+          "A. K2 = K1",
+          "B. K2 = K1/2",
+          "C. K2 = 2K1",
+          "D. K2 = K1/4"
+        ],
+        "answer": "C",
+        "solution": "Maximum kinetic energy = (1/2) mω²A². ω = √g/√L. A = Lθ. K.E = (1/2) m (g/L) (L²θ²). K1 = (1/2) m g Lθ². If the length is doubled K2 = (1/2) m g 2Lθ². From (1) and (2), (K1/K2) = (1/2) m g Lθ²/(1/2) m g 2Lθ² = 1/2. K2 = 2K1"
+      },
+      {
+        "number": 5,
+        "question": "A simple pendulum of length 1 m is oscillating with an angular frequency 10 rad/s. The support of the pendulum starts oscillating up and down with a small angular frequency of 1 rad/s and an amplitude of 10–2 m. The relative change in the angular frequency of the pendulum is best given by",
+        "options": [
+          "A. 10–5 rad/s",
+          "B. 10–1 rad/s",
+          "C. 1 rad/s",
+          "D. 10–3 rad/s"
+        ],
+        "answer": "D",
+        "solution": "Angular frequency of the pendulum ω = √(geff/l). (Δω/ω) = (½)(Δgeff/geff). (Δω/ω) = (½)(2Aωs²/g). Δω/ω= (Aωs²/g) = (12 x 10⁻²/10)= 10⁻³"
+      },
+      {
+        "number": 6,
+        "question": "A damped harmonic oscillator has a frequency of 5 oscillations per second. The amplitude drops to half its value for every 10 oscillations. The time it will take to drop to 1/1000 of the original amplitude is close to",
+        "options": [
+          "A. 100 s",
+          "B. 10 s",
+          "C. 20 s",
+          "D. 50 s"
+        ],
+        "answer": "C",
+        "solution": "Frequency of damped oscillation, f = 5 Hz. For A=A/2, t1 =2s. Also, A = A0e-(b/2m)t or ½ = e-(b/2m)2. (b/m )= In 2. For A = A/1000, t2 = ?. 1/1000 = e-(b/2m)t2. Or 10⁻³ = e-(b/2m)t2. (b/2m)t2 = 3In 10 or t2= 6In10/In2. t2= 20 s"
+      },
+      {
+        "number": 7,
+        "question": "A resonance tube is old and has a jagged end. It is still used in the laboratory to determine the velocity of sound in the air. A tuning fork of frequency 512 Hz produces the first resonance when the tube is filled with water to a mark 11 cm below a reference mark, near the open end of the tube. The experiment is repeated with another fork of frequency 256 Hz which produces the first resonance when water reaches a mark 27 cm below the reference mark. The velocity of sound in air, obtained in the experiment, is close to",
+        "options": [
+          "A. 335 m s–1",
+          "B. 322 m s–1",
+          "C. 328 m s–1",
+          "D. 341 m s–1"
+        ],
+        "answer": "C",
+        "solution": "Due to the jagged end, (λ1/4) = 11 cm, so v/(512 x 4) = 11 cm——-(1). (λ2/4) = 27 cm, so v/(256 x 4) = 27 cm ——(2). (2) – (1), v/(512 x 4) = 0.16. v = 328 ms⁻¹"
+      },
+      {
+        "number": 8,
+        "question": "Two simple harmonic motions, as shown here, are at right angles. They are combined to form Lissajous figures. x(t) = A sin (at + δ), y(t) = B sin (bt). Identify the correct match below.",
+        "options": [],
+        "answer": "",
+        "solution": "x = Asin(at + ઠ), y = ABsin(bt). If a = b, x = A [sin(at).cosઠ + cos(at).sinઠ). Sin (at) = y/B. (x/A)=(y/A)cosδ + √(1-(y²/B²))sinδ. ((x/A)-(y/B)cosδ)²=(1 – (y²/B²))sin²δ. (x²/A²)+(y²/B²)-(2xy/AB).cosδ = sin²δ. If ઠ = π /2 , (x²/A²)+(y²/B²) =1. For A = B, a =2b and ઠ =π /2, x² + y² = A² (Circle). For A ≠ B, a =b and ઠ = 0 (Parabola). For A≠ B, a =b and ઠ =π /2 (Ellipse)"
+      },
+      {
+        "number": 9,
+        "question": "In an engine, the piston undergoes vertical simple harmonic motion with amplitude 7 cm. A washer rests on top of the piston and moves with it. The motor speed is slowly increased. The frequency of the piston at which the washer no longer stays in contact with the piston is close to",
+        "options": [
+          "A. 0.7 Hz",
+          "B. 1.9 Hz",
+          "C. 1.2 Hz",
+          "D. 0.1 Hz"
+        ],
+        "answer": "B",
+        "solution": "The amplitude of S.H.M., A = 7 cm = 0.07 m. As the washer does not stay in contact with the piston, at some particular frequency i.e. normal force on the washer = 0. Maximum acceleration of washer = Aω² = g. ω = √(g/A)=√(10/0.07)=√(1000/7). Frequency of the piston, v = ω/2π = (1/2π)√(1000/7)"
+      },
+      {
+        "number": 10,
+        "question": "A toy-car, blowing its horn, is moving with a steady speed of 5 m/s, away from a wall. An observer, towards whom the toy car is moving, is able to hear 5 beats per second. If the velocity of sound in air is 340 m/s, the frequency of the horn of the toy car is close to",
+        "options": [
+          "A. 680 Hz",
+          "B. 510 Hz",
+          "C. 340 Hz",
+          "D. 170 Hz"
+        ],
+        "answer": "D",
+        "solution": "vair = 340 m/s, v = 5m/s. f1 – f2 = 5 beats per second. Apparently frequency heard by the observer on reflection from the wall, f1 = [v/(v-vs)]f = [340/(340-5)]f = (340/335)f. f2 = [v/(v+vs)]f = [340/(340+5)]f = (340/345)f. Since f1 – f2 = 5"
+      },
+      {
+        "number": 11,
+        "question": "A silver atom in a solid oscillates in simple harmonic motion in some direction with a frequency of1012 s–1. What is the force constant of the bonds connecting one atom with the other? (Mole wt. of silver 108 and Avogadro number 6.02 × 1023 gm mole–1)",
+        "options": [
+          "A. 6.4 N m–1",
+          "B. 7.1 N m–1",
+          "C. 2.2 N m–1",
+          "D. 5.5 N m–1"
+        ],
+        "answer": "B",
+        "solution": "Frequency of a particle executing SHM, f= (1/2π)√(k/m). k = 4π² x f² x m. Here, f = 10¹² s⁻¹, m= [108/(6.02 x 10²³)] x 10⁻³ Kg. k = 4 x (3.14)² x (10¹²)² x [108 x 10⁻³/6.02 x 10²³] = 7.1 Nm⁻¹"
+      },
+      {
+        "number": 12,
+        "question": "The ratio of maximum acceleration to maximum velocity in a simple harmonic motion is 10 s–1. At, t = 0 the displacement is 5 m. What is the maximum acceleration? The initial phase is π/4",
+        "options": [
+          "A. 500√2 m/s2",
+          "B. 500 m/s2",
+          "C. 750√2 m/s2",
+          "D. 750 m/s2"
+        ],
+        "answer": "A",
+        "solution": "For simple harmonic motion, Maximum acceleration/Maximum velocity = 10⇒ ω²a/ωa =10 or ω=10. At t = 0; displacement, x = 5. x = a sin (ωt + Φ). 5 = asin(0 + π/4) or 5 = asin(π/4) or a = 5√2 m. Maximum acceleration = ω²a = 10² x 5√2 = 500√2 ms⁻²"
+      },
+      {
+        "number": 13,
+        "question": "A child swinging on a swing in sitting position, stands up, then the time period of the swing will",
+        "options": [
+          "A. increase",
+          "B. decrease",
+          "C. remains the same",
+          "D. increases if the child is long and decreases if the child is short"
+        ],
+        "answer": "B",
+        "solution": "The time period will decrease. When the child stands up, the centre of gravity is shifted upwards and so the length of swing decreases. T= 2π√(l/g)"
+      },
+      {
+        "number": 14,
+        "question": "The length of a simple pendulum executing simple harmonic motion is increased by 21%. The percentage increase in the time period of the pendulum of increased length is",
+        "options": [
+          "A. 11%",
+          "B. 21%",
+          "C. 42%",
+          "D. 10%."
+        ],
+        "answer": "D",
+        "solution": "Let the lengths of pendulum be (100l) and (121l). T’/T=√(121/100). T’ = 1.1T. Fractional change = (T’ – T)/T = [(1.1T- T)/T] x 100. Percentage change = 10%."
+      },
+      {
+        "number": 15,
+        "question": "In a simple harmonic oscillator, at the mean position",
+        "options": [
+          "A. kinetic energy is minimum, potential energy is maximum",
+          "B. both kinetic and potential energies are maximum",
+          "C. kinetic energy is maximum, potential energy is minimum",
+          "D. both kinetic and potential energies are minimum"
+        ],
+        "answer": "C",
+        "solution": "kinetic energy is maximum, potential energy is minimum"
+      }
+    ]
+  }

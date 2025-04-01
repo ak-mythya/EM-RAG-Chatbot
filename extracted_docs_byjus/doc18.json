@@ -1,0 +1,184 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "Drift speed of electrons, when 1.5 A of current flows in a copper wire of cross-sectional area 5 mm2 is v. If the electron density of copper is 9 × 1028/m3 the value of v in mm/s is close to (Take charge of electron to be = 1.6 × 10–19 C)",
+        "options": [
+          "A. 3",
+          "B. 0.2",
+          "C. 2",
+          "D. 0.02"
+        ],
+        "answer": "D",
+        "solution": "As I = neAvd, vd = I/neA = 1.5/(9 x 1028 x 1.6 x 10-19 x 5 x 10-6), v = 0.02 x 10-3 m/s = 0.02 mm/s"
+      },
+      {
+        "number": 2,
+        "question": "Two equal resistances when connected in series to a battery consume electric power of 60 W. If these resistances are now connected in parallel combination to the same battery, the electric power consumed will be",
+        "options": [
+          "A. 240 W",
+          "B. 120 W",
+          "C. 60 W",
+          "D. 30 W"
+        ],
+        "answer": "A",
+        "solution": "The power consumed when two resistance are in series combination is V2/2R = 60 W ⇒ V2/R=120 W. When the two resistance are connected in parallel combination, power consumed is 2V2/R = 120(2)= 240 W"
+      },
+      {
+        "number": 3,
+        "question": "A current of 2 mA was passed through an unknown resistor which dissipated a power of 4.4 W. Dissipated power when an ideal power supply of 11 V is connected across it is",
+        "options": [
+          "A. 11 × 10–4 W",
+          "B. 11 × 10–5 W",
+          "C. 11 × 105 W",
+          "D. 11 × 10–3 W"
+        ],
+        "answer": "B",
+        "solution": "Case (1): As I2R = P, R = P/I2, R = (4.4)/(2 x 10-3)2= 1.1 x 106 Ω. Case (2): P = V2/R = (11)2/(1.1 x 106) = 11 x 10-5 W"
+      },
+      {
+        "number": 4,
+        "question": "An ideal battery of 4 V and resistance R are connected in series in the primary circuit of a potentiometer of length 1 m and resistance 5Ω. The value of R, to give a potential difference of 5 mV across 10 cm of potentiometer wire is",
+        "options": [
+          "A. 490",
+          "B. 495",
+          "C. 395",
+          "D. 480"
+        ],
+        "answer": "C",
+        "solution": "Let I be the current in the circuit. 4 = (5 + R) I, I = 4/( 5 + R)——-(1). For 1 m the resistance is 5 Ω. For 10 cm the resistance is R10 cm = 5 x (10/100) = 0.5 Ω ——-(2). Δv10 cm = I.R10 cm. According to given condition, 5 x 10-3 = [4/( 5 + R)]  (0.5), 10-2 =[4/( 5 + R)], (5 + R) 10-2 = 4, 5 + R = 400, R = 395"
+      },
+      {
+        "number": 5,
+        "question": "A cell of internal resistance r drives current through an external resistance R. The power delivered by the cell to the external resistance will be maximum when",
+        "options": [
+          "A. R = 0.001 r",
+          "B. R = r",
+          "C. R = 2r",
+          "D. R = 1000 r"
+        ],
+        "answer": "B",
+        "solution": "The power delivered to resistance is I2R, i.e., P = [ε2/(R + r)2]R. For the maximum power,dP/dR= 0, ⇒ -2R + (R +r) = 0 or R = r"
+      },
+      {
+        "number": 6,
+        "question": "A metal wire of resistance 3 is elongated to make a uniform wire of double its previous length. This new wire is now bent and the ends joined to make a circle. If two points on this circle make an angle 60° at the centre, the equivalent resistance between these two points will be",
+        "options": [
+          "A. (7/2) Ω",
+          "B. (5/2) Ω",
+          "C. (12/5) Ω",
+          "D. (5/3) Ω"
+        ],
+        "answer": "D",
+        "solution": "R = 3 Ω, R = ρ(l/A) = ρ(l2/V), R ∝ l2, R = 12 Ω (new resistance of wire), R1 = 2 Ω, R2 = 10 Ω, Req = (10 x 2)/ (10 + 2) = 5/3 Ω"
+      },
+      {
+        "number": 7,
+        "question": "On interchanging the resistances, the balance point of a meter bridge shifts to the left by 10 cm. The resistance of the combination is 1 kΩ. How much was the resistance on the left slot before the interchange?",
+        "options": [
+          "A. 990",
+          "B. 505",
+          "C. 550",
+          "D. 910"
+        ],
+        "answer": "C",
+        "solution": "Let R1 (left slot) and R2 (right slot) be two resistances in two slots of a meter bridge. Initially l be the balancing length, Then, R1/R2 = l/(100 – l)———-(1), R1 + R2 = 1000 Ω———-(2). On interchanging the resistances, balancing length becomes (l – 10), so ( R2/R1)= (l – 10)/(110 – l). Using (1), (100 – l)/l = (l – 10)/(110 – l), 11000 + l2 – 210 l = l2 – 10l, 200 l = 11000, l = 55 cm. From equa (1) R1/R2 = 55/45. Using (2), R1 = (55/45)(1000 – R1), R1 + (55/45)R1 = (1000)x(55/45), 100 R1 = 1000 x 55, R1 = 550 Ω"
+      },
+      {
+        "number": 8,
+        "question": "A constant voltage is applied between two ends of a metallic wire. If the length is halved and the radius of the wire is doubled, the rate of heat developed in the wire will be",
+        "options": [
+          "A. Increased 8 times",
+          "B. Unchanged",
+          "C. Doubled",
+          "D. Halved"
+        ],
+        "answer": "A",
+        "solution": "Rate of heat developed, P = V2/R. For given V, P ∝ 1/R = A/ρl = πr2/ρl. Now, P1/P2 = (r12/r22)(l2/l1). As per question, l2 = l1/2 and r2 = 2r1, P1/P2 = (¼) x (½) = ⅛, P2 = 8P1"
+      },
+      {
+        "number": 9,
+        "question": "A heating element has a resistance of 100 Ω at room temperature. When it is connected to a supply of 220 V, a steady current of 2 A passes in it and the temperature is 500°C more than room temperature. What is the temperature coefficient of resistance of the heating element?",
+        "options": [
+          "A. 1×10– 4 °C–1",
+          "B. 2 × 10– 4 °C–1",
+          "C. 0.5 × 10– 4 °C–1",
+          "D. 5 × 10– 4 °C–1"
+        ],
+        "answer": "B",
+        "solution": "Resistance after temperature increases by 500°C, RT = Voltage applied/Current = 220/2 = 110. Also, RT = R0 (1 + αΔT), 110 = 100 (1 + (α x 500)), α = 10/(100 x 500) = 2 x 10-4 0C-1"
+      },
+      {
+        "number": 10,
+        "question": "A uniform wire of length l and radius r has a resistance of 100 Ω. It is recast into a wire of radius r/2.The resistance of new wire will be",
+        "options": [
+          "A. 400 Ω",
+          "B. 100 Ω",
+          "C. 200 Ω",
+          "D. 1600 Ω"
+        ],
+        "answer": "D",
+        "solution": "Resistance of a wire of length l and radius r is given by R = ρl/A = (ρl/A) x(A/A), R = (ρV/A2) = (ρV/π2r4) (∵ V = Al), i.e., R ∝ 1/r4, R1/R2 =(r2/r1)4. Here, R1 = 100 Ω , r1 = r, r2 = r/2, R2= R1(r1/r2)4 = 16R1 = 1600 Ω"
+      },
+      {
+        "number": 11,
+        "question": "A 2 W carbon resistor is colour coded with green, black, red and brown, respectively. The maximum current which can be passed through this resistor is",
+        "options": [
+          "A. 20 mA",
+          "B. 0.4 mA",
+          "C. 100 mA",
+          "D. 63 mA"
+        ],
+        "answer": "A",
+        "solution": "The resistance of the resistor is 50 × 102 Ω . So, the maximum current that can be passed through it is √(P/R)= √(2/(50 × 102))A"
+      },
+      {
+        "number": 12,
+        "question": "In a large building, there are 15 bulbs of 40 W, 5 bulbs of 100 W, 5 fans of 80 W and 1 heater of 1 kW. The voltage of the electric mains is 220 V. The minimum capacity of the main fuse of the building will be",
+        "options": [
+          "A. 14 A",
+          "B. 8 A",
+          "C. 10 A",
+          "D. 12 A"
+        ],
+        "answer": "D",
+        "solution": "Power of 15 bulbs of 40 W = 15 × 40 = 600 W, Power of 5 bulbs of 100 W = 5 × 100 = 500 W, Power of 5 fan of 80 W = 5 × 80 = 400 W, Power of 1 heater of 1 kW = 1000. Total power, P = 600 + 500 + 400 + 1000 = 2500 W. When these combination of bulbs, fans and heater are connected to 220 V mains, current in the main fuse of building is given by I= P/V = 2500/220 = 11.36 A ≈ 12 A"
+      },
+      {
+        "number": 13,
+        "question": "If a wire is stretched to make it 0.1% longer, its resistance will",
+        "options": [
+          "A. increase by 0.05%",
+          "B. increase by 0.2%",
+          "C. decrease by 0.2%",
+          "D. decrease by 0.05%"
+        ],
+        "answer": "B",
+        "solution": "Resistance of wire R = ρl/A……..(1). On stretching, volume (V) remains constant. So V = Al or A=V/l. Therefore, R = ρl2/V (Using (1)). Taking logarithm on both sides and differentiating we get, ΔR/R = 2Δl/l (Since V and ρ are constants), (ΔR/R)% = (2Δl/l)%. Hence, when the wire is stretched by 0.1% its resistance will increase by 0.2%"
+      },
+      {
+        "number": 14,
+        "question": "A thermocouple is made from two metals, antimony and bismuth. If one junction of the couple is kept hot and the other is kept cold then, an electric current will",
+        "options": [
+          "A. flow from antimony to bismuth at the cold junction",
+          "B. flow from antimony to bismuth at the hot junction",
+          "C. flow from bismuth to antimony at the cold junction",
+          "D. not flow through the thermocouple."
+        ],
+        "answer": "A",
+        "solution": "Antimony-bismuth couple is ABC couple. It means that current flows from A to B at a cold junction"
+      },
+      {
+        "number": 15,
+        "question": "The resistance of a wire is 5 ohm at 50°C and 6 ohm at 100°C. The resistance of the wire at 0°C will be",
+        "options": [
+          "A. 3 ohm",
+          "B. 2 ohm",
+          "C. 1 ohm",
+          "D. 4 ohm"
+        ],
+        "answer": "D",
+        "solution": "Rt = R0(1 + αt), Rt  is the resistance of wire at t0 C, R0 is the resistance of wire a 00 C, α is the temperature coefficient of resistance, R50 = R0 [1 + α(50)], And R 100 = R0 [1+ α(100)], Or R50 – R0= R0 α(50) ——-(1), R 100 – R0 = R0 α(100) ——-(2). Dividing (1) by (2), (5 – R0)/((6 – R0) = ½, R0 = 4 ohm"
+      }
+    ]
+  }

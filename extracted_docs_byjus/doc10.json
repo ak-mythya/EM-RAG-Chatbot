@@ -1,0 +1,142 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "The given diagram shows four processes i.e., isochoric, isobaric, isothermal and adiabatic. The correct assignment of the processes, in the same order, is given by",
+        "options": [
+          "A. d a c b",
+          "B. d a b c",
+          "C. a d b c"
+        ],
+        "answer": "B",
+        "solution": "In an isochoric process, volume remains constant while in the isobaric process, pressure remains the same. The slope of an isothermal process is given as (-P/V) while for an adiabatic process, the slope of the P – V curve is (-γP/V), where γ >1. The adiabatic curve is steeper than the isothermal curve."
+      },
+      {
+        "number": 2,
+        "question": "The ratio of work done by an ideal monoatomic gas to the heat supplied to it in an isobaric process is",
+        "options": [
+          "A. 2/5",
+          "B. 3/2",
+          "C. 3/5",
+          "D. 2/3"
+        ],
+        "answer": "A",
+        "solution": "For an ideal gas in an isobaric process, Heat supplied, Q = nCpΔT, Work done, W = PΔV = nRΔT, Required Ratio = W/Q, Required Ratio = (nRΔT)/(nCpΔT), R/Cp= R/(γR/γ -1) [since γ = 5/3, for a monoatomic gas] = 2/5"
+      },
+      {
+        "number": 3,
+        "question": "The work of 146 kJ is performed in order to compress one-kilo mole of gas adiabatically and in this process the temperature of the gas increases by 7ºC. The gas is (R = 8.3 J mol–1 K–1)",
+        "options": [
+          "A. monoatomic",
+          "B. diatomic",
+          "C. triatomic",
+          "D. a mixture of monoatomic and diatomic"
+        ],
+        "answer": "B",
+        "solution": "Increase in temperature, ΔT = T2 – T1 = 7K (Since it is change in temperature so its value will be same in Kelvin and degree celsius), Work done on the system, W=146 KJ=146×1000 J, Number of moles of gas, n=1000, Work done in an adiabatic process, W=nR(T2−T1)/γ−1 put the values, 146000=1000×8.3×7/(γ−1), γ−1=0.39, γ≈1.4, Hence the gas is diatomic"
+      },
+      {
+        "number": 4,
+        "question": "Two moles of an ideal monatomic gas occupies a volume V at 27°C. The gas expands adiabatically to a volume 2V. Calculate (i) the final temperature of the gas and (ii) change in its internal energy.",
+        "options": [
+          "A. (i) 198 K (ii) 2.7 kJ",
+          "B. (i) 195 K (ii) 2.7 kJ",
+          "C. (i) 189 K (ii) 2.7 kJ",
+          "D. (i) 195 K (ii) 2.7 kJ"
+        ],
+        "answer": "C",
+        "solution": "For an adiabatic process, PVγ = constant, (nRT/V)Vγ = constant or TVγ – 1 = constant, T1V1γ – 1 = T2V2γ – 1, T2 = T1 [V1 / V2]γ – 1, Here, T1 = 27°C = 300 K, V1 = V, V2 = 2V, γ = 5/3, T2 = 300(V/2V)(5/3 – 1) = 300 (½)2/3 = 189K, Change in internal energy, ΔU = nCVΔT, ΔU = n[(f/2)R](T2 – T1) = 2 x (3/2) x (25/3)(189 – 300), ΔU = – 2.7 kJ"
+      },
+      {
+        "number": 5,
+        "question": "A wooden wheel of radius R is made of two semicircular parts (see figure). The two parts are held together by a ring made of a metal strip of cross-sectional area S and Length L. L is slightly less than 2πR. To fit the ring on the wheel, it is heated so that its temperature rises by ΔT and it just steps over the wheel. As it cools down to the surrounding temperature, it presses the semicircular parts together. If the coefficient of linear expansion of the metal is α, and it’s Young’s modulus is Y, the force that one part of the wheel applies on the other part is",
+        "options": [
+          "A. 2SYαΔT",
+          "B. 2πSYαΔT",
+          "C. SYαΔT",
+          "D. πSYαΔT"
+        ],
+        "answer": "C",
+        "solution": "Radius = R, Cross -sectional area = S, Length = L, Y = Young’s modulus, α = coefficient of thermal expansion, Y = Stress/Strain =FL/AΔL ——(1), Strain, ΔL/L = αΔT, Putting the values in equa (1), Y = F/S αΔT, F = SY αΔT"
+      },
+      {
+        "number": 6,
+        "question": "The pressure that has to be applied to the ends of a steel wire of length 10 cm to keep its length constant when its temperature is raised by 1000C is (For steel Young’s modulus is 2 x 1011 Nm-2 and coefficient of thermal expansion is 1.1 x 10-5 K-1)",
+        "options": [
+          "A. 2.2 x 107 Pa",
+          "B. 2.2 x 106 Pa",
+          "C. 2.2 x 108 Pa",
+          "D. 2.2 x 109 Pa"
+        ],
+        "answer": "C",
+        "solution": "Given, ΔT = 100°C, Y = 2 × 1011 N m–2, α= 1.1 × 10–5 K–1, Young’s modulus, Y = stress/strain = (F/A)/(ΔL/L), Therefore, Y = P/(ΔL/L), Y= P/αΔT [ since ΔL = LαΔT], Thermal stress in a rod is the pressure due to the thermal strain., Required pressure P = YαΔT = 2 × 1011 × 1.1 × 10–5 × 100 = 2.2 × 108 Pa"
+      },
+      {
+        "number": 7,
+        "question": "Two wires are made of the same material and have the same volume. However, wire 1 has cross-sectional area A and wire 2 has cross-sectional area 3A. If the length of wire 1 increases by Δx on applying force F, how much force is needed to stretch wire 2 by the same amount?",
+        "options": [
+          "A. 6F",
+          "B. 9F",
+          "C. F",
+          "D. 4F"
+        ],
+        "answer": "D",
+        "solution": "For the same material, Young’s modulus is the same and it is given that the volume is the same and the area of the cross-section for the wire l1 is A and that of l2 is 3A., V = V1 = V2, V = A × l1 = 3A × l2, l2 = l1/3, Y = (F/A)/(Δl/l) ⇒ F1 = YA(Δl1/l1), F2 = Y3A(Δl2/l2), Given Δl1 = Δl2 = Δx (for the same extension), F2 = Y3A(Δx /l1/3) = 9(YAΔx/l1) = 9F1 or 9F"
+      },
+      {
+        "number": 8,
+        "question": "A uniform cylindrical rod of length L and radius r, is made from a material whose Young’s modulus of elasticity equals Y. When this rod is heated by temperature T and simultaneously subjected to a net longitudinal compressional force F, its length remains unchanged. The coefficient of volume expansion, of the material of the rod, is (nearly) equal to",
+        "options": [
+          "A. 9F/(πr 2YT)",
+          "B. F/(3πr2YT)",
+          "C. 6F/(πr2YT)",
+          "D. 3F/(πr2YT)"
+        ],
+        "answer": "D",
+        "solution": "Given, Length = L, Longitudinal force = F, Radius = r, Young’s modulus = Y, Temperature = T, Since length remains same, (Stress)Compressive = (Stress)Thermal, F/A = YαT ⇒ F/πr2 = YαT (where α= coeficient of linear expansion), α = F/πr2YT, Coefficient of volume expansion,γ = 3α, γ = 3F/πr2YT["
+      },
+      {
+        "number": 9,
+        "question": "During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio CP /CV for the gas is",
+        "options": [
+          "A. 4/3",
+          "B. 2",
+          "C. 5/3",
+          "D. 3/2"
+        ],
+        "answer": "D",
+        "solution": "In an adiabatic process, Tγ = (constant)Pγ-1, Tγ/γ-1 = (constant)P, Given T3 = (constant) P, γ/γ-1 = 3 ⇒3γ – 3 =γ ⇒ γ =3/2"
+      },
+      {
+        "number": 10,
+        "question": "An external pressure P is applied on a cube at 0°C so that it is equally compressed from all sides. K is the bulk modulus of the material of the cube and is its coefficient of linear expansion. Suppose we want to bring the cube to its original size by heating. The temperature should be raised by",
+        "options": [
+          "A. 3/PαK",
+          "B. P/3αK",
+          "C. 3α/PK",
+          "D. 3PKα"
+        ],
+        "answer": "B",
+        "solution": "The bulk modulus of the gas is given by K = – P/(ΔV/V0) (Here negative sign indicates the decrease in volume with pressure), ΔV/V0 = P/K [in magnitude]……(1), Also, V = V0(1 + γΔT) or ΔV/V0 = γΔT ……(2), Comparing eq. (1) and (2), we get P/K = γΔT, ΔT = P/ 3αK (since γ= 3α)"
+      },
+      {
+        "number": 11,
+        "question": "Steel wire of length ‘L’ at 40°C is suspended from the ceiling and then a mass “m” is hung from its free end. The wire is cooled down from 40°C to 30°C to regain its original length “L”.The coefficient of linear thermal expansion of the steel is 10-5/°C, Young’s modulus of steel is 1011 N/m2 and radius of the wire is 1 mm. Assume that L>> diameter of the wire. Then the value of “m” in kg is nearly",
+        "options": [],
+        "answer": "",
+        "solution": "E = (F/A)/(ΔL/L) = (F x L)/(A x ΔL) ⇒ (ΔL/L) = F/AE, Since, (ΔL/L)= αΔt, αΔt = F/AE, αΔt = mg/AE, m = [(αΔt)/g] AE = (10-5 x 10 x π x 10-6 x 1011)/10, m = 3.14 ⋍3"
+      },
+      {
+        "number": 12,
+        "question": "A diatomic gas with rigid molecules does 10J of work when expanded at constant pressure. What would be the heat energy absorbed by the gas, in this process?",
+        "options": [
+          "A. 25 J",
+          "B. 35 J",
+          "C. 30 J",
+          "D. 40 J"
+        ],
+        "answer": "B",
+        "solution": "The value of Cp for a diatomic gas is, Cp = (7/2) R —–(1), It is given that work done during expansion at constant pressure is dW = 10 J = nRΔT, Since the gas undergoes an isobaric process, ⇒ΔQ = n(7/2)RΔT = 7/2 (nRΔT) = (7/2) (10) = 35 J"
+      }
+    ]
+  }

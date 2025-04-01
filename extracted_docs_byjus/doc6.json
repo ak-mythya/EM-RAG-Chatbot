@@ -1,0 +1,179 @@
+{
+    "questions": [
+      {
+        "number": 1,
+        "question": "A gas mixture consists of 3 moles of oxygen and 5 moles of argon at temperature T. Considering only translational and rotational modes, the total internal energy of the system is",
+        "options": [
+          "A. 20 RT",
+          "B. 12 RT",
+          "C. 4 RT",
+          "D. 15 RT"
+        ],
+        "answer": "D",
+        "solution": "U = (f1/2)n1RT + (f2/2)n2RT, U = (5/2)(3RT) + (3/2)(5RT), U = 15RT"
+      },
+      {
+        "number": 2,
+        "question": "An ideal gas is enclosed in a cylinder at a pressure of 2 atm and temperature, 300 K. The mean time between two successive collisions is 6 × 10–8 s. If the pressure is doubled and the temperature is increased to 500 K, the mean time between two successive collisions will be close to",
+        "options": [
+          "A. 4 × 10–8 s",
+          "B. 3 × 10–6 s",
+          "C. 0.5 × 10–8 s",
+          "D. 2 × 10–7 s"
+        ],
+        "answer": "A",
+        "solution": "Root mean square velocity Vrms = sqrt(3RT/M) = sqrt(3P/ρ), Here, R is the universal gas constant, M is the molar mass, P is the pressure due to gas, ρ is the density, Vrms ∝ √T, Vrms ∝ mean free path/ time between successive collisions, And mean free path Y = kT/(sqrt(2π σ^2 P)), Vrms ∝ Y/b, Vrms ∝ T/√(p) * t….(i), But Vrms ∝ √T ……(2), √T ∝ T/√p * t, t ∝ √T/p, t2/t1 = √(T2/T1 * P1/P2), t2/t1 = √(500/300 * P1/2P1) = √(5/6), t2 = √(5/6)t1, t2 ≈ 4 x 10 -8 s"
+      },
+      {
+        "number": 3,
+        "question": "The specific heats, CP and CV of gas of diatomic molecules, A, is given (in units of J mol–1 K–1) by 29 and 22, respectively. Another gas of diatomic molecules, B, has the corresponding values 30 and 21. If they are treated as ideal gases, then",
+        "options": [
+          "A. A has a vibrational mode but B has none.",
+          "B. A has one vibrational mode and B has two.",
+          "C. A is rigid but B has a vibrational mode.",
+          "D. Both A and B have a vibrational mode each."
+        ],
+        "answer": "A",
+        "solution": "Here Cp and Cv of A are 29 and 22 and Cp and Cv of B are 30 and 21. γ = Cp/Cv = 1 + 2/f. For A, Cp/Cv = 1 + 2/f ⇒ f=6. Molecules A has 3 translational, 2 rotational and 1 vibrational degree of freedom. For B, Cp/Cv = 1 + 2/f ⇒ f=5 i.e., B has 3 translational and 2 rotational degrees of freedom."
+      },
+      {
+        "number": 4,
+        "question": "Two moles of helium gas is mixed with three moles of hydrogen molecules (taken to be rigid). What is the molar specific heat of mixture at constant volume? (R = 8.3 J/mol K)",
+        "options": [
+          "A. 21.6 J/mol K",
+          "B. 19.7 J/mol K",
+          "C. 15.7 J/mol K",
+          "D. 17.4 J/mol K"
+        ],
+        "answer": "D",
+        "solution": "Cv1 of helium = (3/2)R, Cv2 of hydrogen = (5/2)R, C_v of mixture = (2*(3/2)R+3*(5/2)R)/(2+3), Cv of mixture = 17.4 J/mol K"
+      },
+      {
+        "number": 5,
+        "question": "The mass of a hydrogen molecule is 3.32 × 10–27/ kg. If 1023 hydrogen molecules strike, per second, a fixed wall of area 2 cm2 at an angle of 45° to the normal, and rebound elastically with a speed of 103 m s–1, then the pressure on the wall is nearly",
+        "options": [
+          "A. 2.35 × 103 N m–2",
+          "B. 4.70 × 103 N m–2",
+          "C. 2.35 × 102 N m–2",
+          "D. 4.70 × 102 N m–2"
+        ],
+        "answer": "C",
+        "solution": "As pi = pf, Net force on the wall, F = dp/dt = 2npfcos450= 2nmvcos450. Here, n is the number of hydrogen molecules striking per second. Pressure = F/A = (2nmvcos450)/Area = (2*10^23*3.32*10^-27*10^3*(1/√2))/(2*10^-4)"
+      },
+      {
+        "number": 6,
+        "question": "In an ideal gas at temperature T, the average force that a molecule applies on the walls of a closed container depends on T as Tq. A good estimate for q is",
+        "options": [
+          "A. 2",
+          "B. 1",
+          "C. 4/5",
+          "D. 4/7"
+        ],
+        "answer": "B",
+        "solution": "Pressure, P = ⅓(mN/V)V2rms, P = (mN)T/V, If the gas mass and temperature are constant then P ∝ (Vrms)2 ∝ T, So, force ∝ (Vrms)2 ∝ T, I.e., Value of q = 1"
+      },
+      {
+        "number": 7,
+        "question": "One kg of a diatomic gas is at a pressure of 8 × 104 N/m2. The density of the gas is 4 kg/m3. What is the energy of the gas due to its thermal motion?",
+        "options": [
+          "A. 3 × 104 J",
+          "B. 5 × 104 J",
+          "C. 6 × 104 J",
+          "D. 7 × 104 J"
+        ],
+        "answer": "B",
+        "solution": "The thermal energy or internal energy is 5/2 U RT for diatomic gases. (degree of freedom for diatomic gas = 5). But PV = RT. V = mass/density = 1kg/(4 kg/m3) = (¼)m3, P = 8 x 104 N/m2, U = (5/2) x 8 x 104 x ¼ = 5 x 104 J"
+      },
+      {
+        "number": 8,
+        "question": "A gaseous mixture consists of 16 g of helium and 16 g of oxygen. The ratio CP /CV of the mixture is",
+        "options": [
+          "A. 1.4",
+          "B. 1.54",
+          "C. 1.59",
+          "D. 1.62"
+        ],
+        "answer": "D",
+        "solution": "For 16g of helium, n1 = 16/4 = 4. For 16g of oxygen, n2 = 16/32 = ½. For a mixture of gases Cv =( n1Cv1 + n2Cv2)/(n1 + n2) where Cv = (f/2)R, Cp =( n1Cp1 + n2Cp2)/(n1 + n2) where Cp = ([f/2] + 1)R. For helium, f = 3 ,n1 = 4. For oxygen, f =5, n2 = ½. Cp/Cv=((4*(5/2)R)+(1/2*(7/2)R))/((4*(3/2)R)+(1/2*(5/2)R))=47/29=1.62"
+      },
+      {
+        "number": 9,
+        "question": "Cooking gas containers are kept in a lorry moving with uniform speed. The temperature of the gas molecules inside will",
+        "options": [
+          "A. increase",
+          "B. decrease",
+          "C. remain the same",
+          "D. decrease for some, while the increase for others."
+        ],
+        "answer": "C",
+        "solution": "It is the relative velocities between molecules that are important. Root mean square velocities are different from lateral translation."
+      },
+      {
+        "number": 10,
+        "question": "At what temperature is the root mean square velocity of a hydrogen molecule equal to that of an oxygen molecule at 47°C?",
+        "options": [
+          "A. 80 K",
+          "B. –73 K",
+          "C. 3 K",
+          "D. 20 K."
+        ],
+        "answer": "D",
+        "solution": "vrms=√(RT/M), √((273+47)/32)= √(T/2), T = 20 K"
+      },
+      {
+        "number": 11,
+        "question": "The temperature, at which the root mean square velocity of hydrogen molecules equals their escape velocity from the earth, is closest to [Boltzmann constant, kB = 1.38 × 10–23 J/K, Avogadro Number, NA = 6.02 × 1026/ kg, Radius of Earth: 6.4 × 106 m, Gravitational acceleration on Earth = 10 m s–2]",
+        "options": [
+          "A. 104 K",
+          "B. 800 K",
+          "C. 650 K",
+          "D. 3 × 105 K"
+        ],
+        "answer": "A",
+        "solution": "The escape speed of the molecule, ve=√(2gR), Root mean square velocity, vrms=√(3(kBN)T)/m), So for ve = vrms ⇒ 2gR = 3(kBN)T/m, T = 2gRm/3kBN = (2 x 10 x 6.4 x 106 x 2 x 10-3)/(3 x1.38 x 10-23 x 6.02 x 1023) = 104 K"
+      },
+      {
+        "number": 12,
+        "question": "Which of the following shows the correct relationship between the pressure ‘P’ and density of an ideal gas at constant temperature?",
+        "options": [],
+        "answer": null,
+        "solution": "Ideal gas equation, PV = nRT. As the temperature is constant. PV = constant. P(m/ρ) = constant. P ∝ ρ (for given m)"
+      },
+      {
+        "number": 13,
+        "question": "The value closest to the thermal velocity of a Helium atom at room temperature (300 K) in m s–1 is [kB = 1.4 × 10–23 J/K; mHe = 7 × 10–27 kg]",
+        "options": [
+          "A. 1.3 × 103",
+          "B. 1.3 × 105",
+          "C. 1.3 × 102",
+          "D. 1.3 × 104"
+        ],
+        "answer": "A",
+        "solution": "(3/2)kBT = ½mv2, v=√(3kBT/m)=√(3*1.4*10^-23*300)/(7*10^-27)= 1.3 x103 ms-1"
+      },
+      {
+        "number": 14,
+        "question": "An ideal gas has molecules with 5 degrees of freedom. The ratio of specific heats at constant pressure (CP) and at constant volume (CV) is",
+        "options": [
+          "A. 6",
+          "B. 7/2",
+          "C. 5/2",
+          "D. 7/5"
+        ],
+        "answer": "D",
+        "solution": "An ideal gas has molecules with 5 degrees of freedom, then Cv = (5/2)R and Cp = (7/2)R, Cp/Cv = (7/2)R/(5/2)R, Cp/Cv = 7/5"
+      },
+      {
+        "number": 15,
+        "question": "N moles of a diatomic gas in a cylinder is at a temperature T. Heat is supplied to the cylinder such that the temperature remains constant but n moles of the diatomic gas get converted into monoatomic gas. What is the change in the total kinetic energy of the gas?",
+        "options": [
+          "A. 0",
+          "B. (5/2)nRT",
+          "C. (½)nRT",
+          "D. (3/2)nRT"
+        ],
+        "answer": "C",
+        "solution": "Initial kinetic energy of the system Ki = (5/2)RTN, Final kinetic energy of the system Kf = (5/2)RT(N-n) + (3/2)RT(2n), Kf – Ki =ΔK = nRT(3 – 5/2) = (½)nRT"
+      }
+    ]
+  }
