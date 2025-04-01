@@ -11,10 +11,33 @@ class ChatHistoryManager:
     Each session stores a list of messages under the key "messages".
     Each message is a dictionary with "role" and "content".
     """
+    def __new__(cls, *args, **kwargs):
+        global _instance
+        if _instance is None:
+            #logger.info("[ChatHistoryManager SINGLETON] Creating new instance.")
+            _instance = super(ChatHistoryManager, cls).__new__(cls)
+            # Initialize only once
+            _instance._initialized = False
+        else:
+             #logger.info("[ChatHistoryManager SINGLETON] Returning existing instance.")
+             pass
+        return _instance
 
     def __init__(self, history_file: str = "chat_history.json"):
+        if self._initialized:
+            return # Prevent re-initialization
+
+        #logger.info("[ChatHistoryManager SINGLETON] Initializing instance attributes.")
         self.history_file = Path(history_file)
+        #logger.info(f"[ChatHistoryManager DEBUG] Initializing. Attempting to use history file at relative path: {history_file}")
+        #logger.info(f"[ChatHistoryManager DEBUG] Absolute path resolved to: {self.history_file.resolve()}")
         self.chat_history = self.load_chat_history()
+        #logging(f"[ChatHistoryManager DEBUG] Initial load complete. In-memory history keys: {list(self.chat_history.keys())}")
+        self._initialized = True # Mark as initialized
+
+    '''def __init__(self, history_file: str = "chat_history.json"):
+        self.history_file = Path(history_file)
+        self.chat_history = self.load_chat_history()'''
 
     def get_new_session_id(self) -> str:
         """Generates a new session ID."""
