@@ -8,4 +8,8 @@ nest_asyncio
 sentence-transformers
 nltk
 langchain-google-genai
-
+langchain_huggingface
+google-generativeai
+google-genai
+streamlit
+streamlit-chat
